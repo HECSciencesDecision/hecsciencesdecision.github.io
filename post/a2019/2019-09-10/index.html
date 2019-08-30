@@ -1,98 +1,148 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
-    
-    
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-      
-  Optimal picking policies for e-commerce warehouses &ndash; Séminaires du département de sciences de la décision
-
-    </title>
-    
-    
-    <meta name="description" property="og:description" content="Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&amp;rsquo;s unproductive walking time.|">
-    
-
-    <meta name="apple-mobile-web-app-title" content="Séminaires du département de sciences de la décision">
-    
-    
-    
-    
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.57.2" />
 
 
-    <link rel="stylesheet" href="/assets/syntax.css">
-    <link rel="stylesheet" href="/assets/primer-build.css">
-    <link rel="stylesheet" href="/assets/style.css">
+
+<link rel="canonical" href="https://HECSciencesDecision.github.io/post/a2019/2019-09-10/">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Optimal picking policies for e-commerce warehouses - Séminaires du département de sciences de la décision</title>
+    
+<meta name="description" content="Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&amp;rsquo;s unproductive walking time.">
+
+<meta property="og:title" content="Optimal picking policies for e-commerce warehouses - Séminaires du département de sciences de la décision">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://HECSciencesDecision.github.io/post/a2019/2019-09-10/">
+<meta property="og:image" content="https://HECSciencesDecision.github.io/images/default.png">
+<meta property="og:site_name" content="Séminaires du département de sciences de la décision">
+<meta property="og:description" content="Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&amp;rsquo;s unproductive walking time.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Séminaires du département de sciences de la décision">
+<meta name="twitter:url" content="https://HECSciencesDecision.github.io/post/a2019/2019-09-10/">
+<meta name="twitter:title" content="Optimal picking policies for e-commerce warehouses - Séminaires du département de sciences de la décision">
+<meta name="twitter:description" content="Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&amp;rsquo;s unproductive walking time.">
+<meta name="twitter:image" content="https://HECSciencesDecision.github.io/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/HECSciencesDecision.github.io\/"
+    },
+    "headline": "Optimal picking policies for e-commerce warehouses - Séminaires du département de sciences de la décision",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/HECSciencesDecision.github.io\/images\/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2019-09-10T00:00:00JST",
+    "dateModified": "2019-09-10T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Séminaires du département de sciences de la décision"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Séminaires du département de sciences de la décision",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/HECSciencesDecision.github.io\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker\x26rsquo;s unproductive walking time."
+  }
+</script>
+
+
+    <link href="https://HECSciencesDecision.github.io/css/styles.css" rel="stylesheet">
+    
+
   </head>
 
-
-  <body class="bg-gray">
-    <div id="holy" class="container-lg bg-white h-100">
-
-      <div id="header" class="px-1 bg-white">
-        <nav class="UnderlineNav UnderlineNav--right px-2">
-  <a class="UnderlineNav-actions muted-link h2" href="https://HECSciencesDecision.github.io/">
-    Séminaires du département de sciences de la décision
-  </a>
-
-  
-  
-  <div class="UnderlineNav-body">
+  <body>
     
     
-    <a class="UnderlineNav-item " href="/">
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://HECSciencesDecision.github.io/">Séminaires du département de sciences de la décision</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/">Séminaires</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="https://HECSciencesDecision.github.io/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://HECSciencesDecision.github.io/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Maximilian Schiffer</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2019-09-10T00:00:00JST">Sep 10, 2019</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://HECSciencesDecision.github.io/post/">post</a></li>
       
-      <span>Séminaires</span>
-    </a>
+    </ul>
+
+    <h2 class="title">Optimal picking policies for e-commerce warehouses</h1>
+    <h3 class="post-meta">Maximilian Schiffer </h3>
     
-    
-  </div>
+  </header>
+
   
-</nav>
 
-      </div>
-
-      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
-        
-
-<div class="Subhead">
-  <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">Optimal picking policies for e-commerce warehouses</div>
-  </div>
-  <div class="Subhead-description">
-    
-
-
-<a href='/categories/gerad' class="muted-link">
-  <span class="Label Label--gray-darker">GERAD</span>
-</a>
-
-
-
-<a href='/tags/automne-2019' class="muted-link">
-  <span class="Label Label--gray">automne 2019</span>
-</a>
-
-
-
-    
-    <div class="float-md-right">
-      <span title="Lastmod: 2019-09-10. Published at: 2019-08-28.">
-        
-          Lastmod: 2019-09-10
-        
-      </span>
-    </div>
-    
-  </div>
-</div>
-<article>
-  
-  <section class="pb-6 mb-3 border-bottom">
-    
+  <div class="article-body">
 
 <h4 id="date-10-septembre-2019">Date: 10 septembre 2019</h4>
 
@@ -107,73 +157,118 @@
 <h2 id="biographie-du-conférencier">Biographie du conférencier:</h2>
 
 <p>Maximilian Schiffer is an Assistant Professor of Operations and Supply Chain Management at TUM School of Management, Technical University of Munich. Before joining TU Munich, he was a Visiting Postdoctoral Scholar at Stanford University and a Postdoctoral Scholar at RWTH Aachen University. Dr. Schiffer is an Associate Member of the GERAD. He received a Ph.D. degree in Operations Research from RWTH Aachen University in 2017. Dr. Schiffer&rsquo;s expertise lies in in the field of Operations Research and Management Science, specifically in Dynamic Programming, (Mixed) Integer Programming, Metaheuristics, Exacts, Robust Optimization, Machine Learning, and Forecasting, applied to a variety of complex application fields, e.g., Transportation Problems, Supply Chains, Production Networks, and Big Data. His research on electric vehicles and logistics networks with intermediate stops has been awarded with numerous prizes, e.g., the INFORMS TSL Dissertation Prize and the GOR Doctoral Dissertation Prize.</p>
+</div>
 
-  </section>
+  <footer class="article-footer">
+    
+    
+    
+    <section class="bordered">
+      <header>
+        <div class="panel-title">CATEGORIES</div>
+      </header>
+      <div>
+        <ul class="p-terms">
+          
+          <li><a href="https://HECSciencesDecision.github.io/categories/gerad/">GERAD</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+    
+    <section class="bordered">
+      <header>
+        <div class="panel-title">TAGS</div>
+      </header>
+      <div>
+        <ul class="p-terms">
+          
+          <li><a href="https://HECSciencesDecision.github.io/tags/automne-2019/">automne 2019</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+  </footer>
 
-  <section>
-    
-      
-    
-  </section>
 </article>
 
-      </div>
 
-      <div id="side" class="pr-1 bg-white">
-        <aside class="pr-3">
-          
-  
-    <div id="toc" class="Box Box--blue mb-3">
-      <b>Optimal picking policies for e-commerce warehouses</b>
-      <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#date-10-septembre-2019">Date: 10 septembre 2019</a></li>
-<li><a href="#heure-10h30-12h00">Heure: 10h30-12h00</a></li>
-<li><a href="#lieu-salle-4488-pavillon-andré-aisenstadt-université-de-montréal">Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#résumé">Résumé:</a></li>
-<li><a href="#biographie-du-conférencier">Biographie du conférencier:</a></li>
-</ul></li>
-</ul>
-</nav>
+    
+  </div>
+
+  <div class="col-md-4">
+    
+<aside class="l-sidebar">
+
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">Recent Talks</div>
     </div>
-  
-
-  
-    <div>
+    <div class="list-group">
+      
+      <a href="https://HECSciencesDecision.github.io/tags/automne-2019/" class="list-group-item"> · Sep 10, 2019</a>
+      
+      <a href="https://HECSciencesDecision.github.io/categories/" class="list-group-item"> · Sep 10, 2019</a>
+      
+      <a href="https://HECSciencesDecision.github.io/categories/gerad/" class="list-group-item"> · Sep 10, 2019</a>
+      
+      <a href="https://HECSciencesDecision.github.io/post/a2019/2019-09-10/" class="list-group-item">Maximilian Schiffer · Sep 10, 2019</a>
+      
+      <a href="https://HECSciencesDecision.github.io/post/" class="list-group-item"> · Sep 10, 2019</a>
       
     </div>
+  </section>
+
+  
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">CATEGORY</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="https://HECSciencesDecision.github.io/categories/gerad" class="list-group-item">gerad</a>
+      
+    </div>
+  </section>
+  
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">TAG</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="https://HECSciencesDecision.github.io/tags/automne-2019" class="list-group-item">automne-2019</a>
+      
+    </div>
+  </section>
   
 
+</aside>
+
+
+  </div>
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+        <p><span class="h-logo">&copy; Séminaires du département de sciences de la décision</span></p>
+        <aside>
+          <p><a href="https://www.hec.ca/mqg/">Département de sciences de la décision</a>.</p>
+          <p><a href="https://www.hec.ca/">HEC Montréal</a></p>
         </aside>
       </div>
+    </footer>
 
-      <div id="footer" class="pt-2 pb-3 bg-white text-center">
-        
-
-  <span class="text-small text-gray">
-    
-
-    Powered by the
-    <a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme for
-    <a href="https://gohugo.io" class="link-gray-dark">Hugo</a>.
-  </span>
-
-
-      </div>
-    </div>
-
-
-    
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    
-    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
   </body>
 </html>
