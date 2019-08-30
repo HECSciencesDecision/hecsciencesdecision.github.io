@@ -1,1 +1,0 @@
-# hecsciencesdecision.github.io
