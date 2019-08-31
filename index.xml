@@ -6,10 +6,19 @@
     <description>Recent content in Séminaires 2019-2020 on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing the design of textual indices: Impression management and Sentometrics</title>
+      <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</guid>
+      <description>Date: 11 octobre 2019 Heure: 10h00-11h00 Lieu: Salle St-Huber, CSC, HEC Montréal Résumé: Textual sentiment analysis requires to select relevant texts and design weighting schemes to aggregate the intra-textual, across-text and across-time polarity expressed in textual communications. The selection and weighting decisions need to be optimized for the intended use case and account for the underlying data features like impression management by the author and the non i.i.d. nature of the textual data.</description>
+    </item>
     
     <item>
       <title>Optimal picking policies for e-commerce warehouses</title>
