@@ -6,10 +6,19 @@
     <description>Recent content in automne 2019 on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://HECSciencesDecision.github.io/tags/automne-2019/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>General Bayesian modeling</title>
+      <link>https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/</guid>
+      <description>Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Burnside Hall 1104, McGill University Résumé: The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven.</description>
+    </item>
     
     <item>
       <title>Optimizing the design of textual indices: Impression management and Sentometrics</title>
@@ -18,6 +27,18 @@
       
       <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</guid>
       <description>Date: 11 octobre 2019 Heure: 10h00-11h00 Lieu: Salle St-Hubert, CSC, HEC Montréal Résumé: Textual sentiment analysis requires to select relevant texts and design weighting schemes to aggregate the intra-textual, across-text and across-time polarity expressed in textual communications. The selection and weighting decisions need to be optimized for the intended use case and account for the underlying data features like impression management by the author and the non i.i.d. nature of the textual data.</description>
+<<<<<<< HEAD
+=======
+    </item>
+    
+    <item>
+      <title>Tales of tails, tiles and ties in dependence modeling</title>
+      <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-04crm/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-04crm/</guid>
+      <description>Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Salle 1355, Pavillon André-Aisenstadt, Université de Montréal, Résumé: Modeling dependence between random variables is omnipresent in statistics. When rare events with high impact are involved, such as severe storms, floods or heat waves, the issue is both of great importance for risk management and theoretically challenging. Combining extreme-value theory with copula modeling and rank-based inference yields a particularly flexible and promising approach to this problem.</description>
+>>>>>>> 766da8ca93053ed13d9ed53f1c3d52053aa22895
     </item>
     
     <item>
