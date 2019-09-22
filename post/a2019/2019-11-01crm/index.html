@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.57.2" />
+
+
+
+<link rel="canonical" href="https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>General Bayesian modeling - Séminaires du département de sciences de la décision</title>
+    
+<meta name="description" content="Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Burnside Hall 1104, McGill University Résumé: The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven.">
+
+<meta property="og:title" content="General Bayesian modeling - Séminaires du département de sciences de la décision">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/">
+<meta property="og:image" content="https://HECSciencesDecision.github.io/images/default.png">
+<meta property="og:site_name" content="Séminaires du département de sciences de la décision">
+<meta property="og:description" content="Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Burnside Hall 1104, McGill University Résumé: The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Séminaires du département de sciences de la décision">
+<meta name="twitter:url" content="https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/">
+<meta name="twitter:title" content="General Bayesian modeling - Séminaires du département de sciences de la décision">
+<meta name="twitter:description" content="Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Burnside Hall 1104, McGill University Résumé: The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven.">
+<meta name="twitter:image" content="https://HECSciencesDecision.github.io/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/HECSciencesDecision.github.io\/"
+    },
+    "headline": "General Bayesian modeling - Séminaires du département de sciences de la décision",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/HECSciencesDecision.github.io\/images\/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2019-11-01T00:00:00JST",
+    "dateModified": "2019-11-01T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Séminaires du département de sciences de la décision"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Séminaires du département de sciences de la décision",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/HECSciencesDecision.github.io\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Burnside Hall 1104, McGill University Résumé: The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven."
+  }
+</script>
+
+
+    <link href="https://HECSciencesDecision.github.io/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://HECSciencesDecision.github.io/">Séminaires du département de sciences de la décision</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/">Séminaires 2019-2020</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="https://HECSciencesDecision.github.io/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://HECSciencesDecision.github.io/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Stephen G. Walker</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <h2 class="title">General Bayesian modeling</h2>
+    <h3 class="post-meta">Stephen G. Walker </h3>
+
+  </header>
+
+  
+
+  <div class="article-body">
+
+<h4 id="date-4-octobre-2019">Date: 4 octobre 2019</h4>
+
+<h4 id="heure-16h00-17h00">Heure: 16h00-17h00</h4>
+
+<h4 id="lieu-burnside-hall-1104-mcgill-university">Lieu: Burnside Hall 1104, McGill University</h4>
+
+<h2 id="résumé">Résumé:</h2>
+
+<p>The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven.   The further exploration of replacing probability model based approaches to inference with loss functions is ongoing. Joint work with Chris Holmes, Pier Giovanni Bissiri and Simon Lyddon.</p>
+
+<h2 id="biographie-du-conférencier">Biographie du conférencier:</h2>
+
+<p>Stephen G. Walker is professor at The University of Texas at Austin. His research is predominately in Bayesian methods, including nonparametric, asymptotics, computational and methodological and foundational.</p>
+</div>
+
+  <footer class="article-footer">
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+          <aside>
+          <p><a href="https://www.hec.ca/mqg/">Département de sciences de la décision</a>, <a href="https://www.hec.ca/">HEC Montréal</a></p>
+          </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
