@@ -21,14 +21,21 @@
     </item>
     
     <item>
+      <title>Media and the stock market: Their relationship and abnormal dynamics around earnings announcements</title>
+      <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-16/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-16/</guid>
+      <description>Date: 16 octobre 2019 Heure: TBA Lieu: TBA, CSC, HEC Montréal Résumé: This paper investigates the abnormal tone dynamics of media news articles about firms near earnings announcements and how it relates to earnings results and the stock market. We document a post-earnings abnormal tone drift, suggesting inertia in the media opinion. Also, we find that negative cumulative abnormal tone at the earnings events predicts a subsequent stock price reversal.</description>
+    </item>
+    
+    <item>
       <title>Optimizing the design of textual indices: Impression management and Sentometrics</title>
       <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</guid>
       <description>Date: 11 octobre 2019 Heure: 10h00-11h00 Lieu: Salle St-Hubert, CSC, HEC Montréal Résumé: Textual sentiment analysis requires to select relevant texts and design weighting schemes to aggregate the intra-textual, across-text and across-time polarity expressed in textual communications. The selection and weighting decisions need to be optimized for the intended use case and account for the underlying data features like impression management by the author and the non i.i.d. nature of the textual data.</description>
-<<<<<<< HEAD
-=======
     </item>
     
     <item>
@@ -38,7 +45,6 @@
       
       <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-04crm/</guid>
       <description>Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Salle 1355, Pavillon André-Aisenstadt, Université de Montréal, Résumé: Modeling dependence between random variables is omnipresent in statistics. When rare events with high impact are involved, such as severe storms, floods or heat waves, the issue is both of great importance for risk management and theoretically challenging. Combining extreme-value theory with copula modeling and rank-based inference yields a particularly flexible and promising approach to this problem.</description>
->>>>>>> 766da8ca93053ed13d9ed53f1c3d52053aa22895
     </item>
     
     <item>
