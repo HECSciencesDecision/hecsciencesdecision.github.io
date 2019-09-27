@@ -6,12 +6,13 @@
     <description>Recent content in Categories on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://HECSciencesDecision.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Crm</title>
+      <title>CRM</title>
       <link>https://HECSciencesDecision.github.io/categories/crm/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -20,20 +21,20 @@
     </item>
     
     <item>
-      <title>Gerad</title>
-      <link>https://HECSciencesDecision.github.io/categories/gerad/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://HECSciencesDecision.github.io/categories/gerad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hec</title>
+      <title>HEC</title>
       <link>https://HECSciencesDecision.github.io/categories/hec/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/categories/hec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GERAD</title>
+      <link>https://HECSciencesDecision.github.io/categories/gerad/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/categories/gerad/</guid>
       <description></description>
     </item>
     
