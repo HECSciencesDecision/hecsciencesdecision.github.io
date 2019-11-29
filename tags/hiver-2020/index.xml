@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiver 2020 on Séminaires du département de sciences de la décision</title>
+    <link>https://HECSciencesDecision.github.io/tags/hiver-2020/</link>
+    <description>Recent content in hiver 2020 on Séminaires du département de sciences de la décision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Longitudinal functional regression: tests of significance </title>
+      <link>https://HECSciencesDecision.github.io/post/w2020/2020-01-31/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/w2020/2020-01-31/</guid>
+      <description>Date: 31 janvier 2020 Heure: 16h00-17h00 Lieu: Salle Béton-Grilli, CSC, HEC Montréal Résumé: We consider longitudinal functional regression, where, for each subject, the response consists of multiple curves observed at different time visits. We discuss tests of significance in two general settings. First, when there are no additional covariates, we develop a hypothesis testing methodology for formally assessing that the mean function does not vary over time. Second, in the presence of other covariates, we propose a testing procedure to determine the significance of the covariate&amp;rsquo;s time-varying effect formally.</description>
+    </item>
+    
+  </channel>
+</rss>
