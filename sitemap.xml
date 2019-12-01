@@ -1,6 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/categories/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/categories/hec/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/tags/hiver-2020/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/post/w2020/2020-01-31/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/post/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/tags/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HECSciencesDecision.github.io/post/w2020/2020-01-09/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://HECSciencesDecision.github.io/tags/automne-2019/</loc>
@@ -8,42 +48,7 @@
   </url>
   
   <url>
-    <loc>https://HECSciencesDecision.github.io/categories/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/categories/hec/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/tags/hiver-2020/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://HECSciencesDecision.github.io/post/a2019/2019-11-29/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/post/w2020/2020-01-31/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/post/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/tags/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
