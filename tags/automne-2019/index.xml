@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>automne 2019 on Séminaires du département de sciences de la décision</title>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/a2019/2019-09-10/</guid>
-      <description>Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&amp;rsquo;s unproductive walking time.</description>
+      <description>Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&#39;s unproductive walking time.</description>
     </item>
     
   </channel>
