@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HEC on Séminaires du département de sciences de la décision</title>
@@ -6,10 +6,19 @@
     <description>Recent content in HEC on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Banking networks, systemic risk, and the credit cycle in emerging markets</title>
+      <link>https://HECSciencesDecision.github.io/post/w2020/2020-05-13/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/w2020/2020-05-13/</guid>
+      <description>Date: 13 mai 2020 Heure: 10h30-11h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: We undertake a large-scale empirical examination of systemic risk among 1048 financial institutions in a large sample of 23 emerging markets, broken down into 5 regions. This work extends the large literature on systemic risk in the US, Europe, and other developed countries to emerging markets, which is relatively under-researched. We present a novel systemic risk score for each financial system by region, across time.</description>
+    </item>
     
     <item>
       <title>TBA</title>
@@ -45,8 +54,7 @@ Biographie du conférencier: TBA</description>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/w2020/2020-03-05/</guid>
-      <description>Date: 5 mars 2020 Heure: 15h30-16h30 Lieu: TBD, CSC, HEC Montréal Résumé: TBA
-Biographie du conférencier: TBA</description>
+      <description>Date: 5 mars 2020 Heure: 15h30-16h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: In this paper, we study the connectedness between extreme losses of hedge funds, a crucial feature for systemic risk management. To do so, we exploit cross-sections of hedge funds monthly returns grouped by investment styles, and build a time- varying measure of tail dependence across styles. Relying on extreme value theory and regression techniques, we study the dynamics of the tail dependencies between fund styles conditional on factors reflecting the economic uncertainty and the stock market performance.</description>
     </item>
     
     <item>
@@ -55,7 +63,7 @@ Biographie du conférencier: TBA</description>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/w2020/2020-01-31/</guid>
-      <description>Date: 31 janvier 2020 Heure: 16h00-17h00 Lieu: Salle Béton-Grilli, CSC, HEC Montréal Résumé: We consider longitudinal functional regression, where, for each subject, the response consists of multiple curves observed at different time visits. We discuss tests of significance in two general settings. First, when there are no additional covariates, we develop a hypothesis testing methodology for formally assessing that the mean function does not vary over time. Second, in the presence of other covariates, we propose a testing procedure to determine the significance of the covariate&amp;rsquo;s time-varying effect formally.</description>
+      <description>Date: 31 janvier 2020 Heure: 16h00-17h00 Lieu: Salle Béton-Grilli, CSC, HEC Montréal Résumé: We consider longitudinal functional regression, where, for each subject, the response consists of multiple curves observed at different time visits. We discuss tests of significance in two general settings. First, when there are no additional covariates, we develop a hypothesis testing methodology for formally assessing that the mean function does not vary over time. Second, in the presence of other covariates, we propose a testing procedure to determine the significance of the covariate&#39;s time-varying effect formally.</description>
     </item>
     
     <item>
