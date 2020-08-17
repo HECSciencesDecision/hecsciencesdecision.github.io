@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://HECSciencesDecision.github.io/tags/automne-2020/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://HECSciencesDecision.github.io/categories/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://HECSciencesDecision.github.io/categories/hec/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HECSciencesDecision.github.io/tags/hiver-2020/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,18 +38,18 @@
   </url>
   
   <url>
-    <loc>https://HECSciencesDecision.github.io/post/h2020/2020-05-13/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+    <loc>https://HECSciencesDecision.github.io/post/a2020/2020-10-09/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://HECSciencesDecision.github.io/post/h2020/2020-04-24/</loc>
-    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <loc>https://HECSciencesDecision.github.io/post/a2020/2020-09-11/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://HECSciencesDecision.github.io/post/h2020/2020-04-16/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+    <loc>https://HECSciencesDecision.github.io/tags/hiver-2020/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://HECSciencesDecision.github.io/_seminars_1920/</loc>
+    <loc>https://HECSciencesDecision.github.io/_seminaires1920/</loc>
   </url>
   
 </urlset>
