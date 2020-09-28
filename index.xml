@@ -2,167 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webinaires 2020-2021 on Séminaires du département de sciences de la décision</title>
-    <link>https://HECSciencesDecision.github.io/</link>
+    <link>/</link>
     <description>Recent content in Webinaires 2020-2021 on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://HECSciencesDecision.github.io/post/a2020/2020-11-27/</link>
+      <link>/post/a2020/2020-11-27/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2020/2020-11-27/</guid>
+      <guid>/post/a2020/2020-11-27/</guid>
       <description>Date: 27 novembre 2020 Heure: 15h00-16h00 Résumé: Biographie de la conférencière: Ilze Kalnina is an Assistant Professor of Economics at the Poole College of Management of North Carolina State University (NCSU). She researches nonparametric estimation and inference for volatility with high frequency data. Prior to joining NC State, Kalnina was an assistant professor at the University of Montreal. Kalnina received a doctorate degree in economics from the London School of Economics.</description>
     </item>
     
     <item>
       <title>Risk-neutral moments based estimation of continuous time jump-diffusion models</title>
-      <link>https://HECSciencesDecision.github.io/post/a2020/2020-12-04/</link>
+      <link>/post/a2020/2020-12-04/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2020/2020-12-04/</guid>
+      <guid>/post/a2020/2020-12-04/</guid>
       <description>Date: 4 décembre 2020 Heure: 15h00-16h00 Résumé: This paper provides a novel methodology for estimating option pricing models based on risk‐neutral moments. We synthesize the distribution extracted from a panel of option prices and exploit linear relationships between risk‐neutral cumulants and latent factors within the continuous time affine stochastic volatility framework. We find that fitting the Andersen et al. (Journal of Financial Economics, 2015, 117(3), 558–584) option valuation model to risk‐neutral moments captures the bulk of the information in option prices.</description>
     </item>
     
     <item>
       <title>Banking networks, systemic risk, and the credit cycle in emerging markets</title>
-      <link>https://HECSciencesDecision.github.io/post/a2020/2020-10-23/</link>
+      <link>/post/a2020/2020-10-23/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2020/2020-10-23/</guid>
+      <guid>/post/a2020/2020-10-23/</guid>
       <description>Date: 23 octobre 2020 Heure: 15h00-16h00 Résumé: We undertake a large-scale empirical examination of systemic risk among 1048 financial institutions in a large sample of 23 emerging markets, broken down into 5 regions. This work extends the large literature on systemic risk in the US, Europe, and other developed countries to emerging markets, which is relatively under-researched. We present a novel systemic risk score for each financial system by region, across time.</description>
     </item>
     
     <item>
       <title>Optimizing Post-Disruption Response Operations to Improve Resilience of Critical Infrastructure Systems</title>
-      <link>https://HECSciencesDecision.github.io/post/a2020/2020-10-16/</link>
+      <link>/post/a2020/2020-10-16/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2020/2020-10-16/</guid>
+      <guid>/post/a2020/2020-10-16/</guid>
       <description>Date: 16 octobre 2020 Heure: 15h00 – 16h00 Résumé: Critical infrastructure systems (CIS) underpin almost every aspect of the modern society by enabling the essential functions through overlaying service networks. After a disruption impacting the CIS, the functionality of the overlaying service networks degrades. Thus, after an extreme event, in order to minimize the negative impact to society, it is crucial to restore the disrupted CIS as soon as possible. In this talk, we focus on disruptions created by natural hazards on transportation CIS and develop methods to efficiently plan the post-disaster response operations.</description>
     </item>
     
     <item>
       <title>The Use of Binary Choice Forests to Model and Estimate Discrete Choices</title>
-      <link>https://HECSciencesDecision.github.io/post/a2020/2020-10-09/</link>
+      <link>/post/a2020/2020-10-09/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2020/2020-10-09/</guid>
+      <guid>/post/a2020/2020-10-09/</guid>
       <description>Date: 9 octobre 2020 Heure: 15h00-16h00 Résumé: We show the equivalence of discrete choice models and the class of binary choice forests, which are random forests based on binary choice trees. This suggests that standard machine learning techniques based on random forests can serve to estimate discrete choice models with an interpretable output. This is confirmed by our data-driven theoretical results which show that random forests can predict the choice probability of any discrete choice model consistently, with its splitting criterion capable of recovering preference rank lists.</description>
     </item>
     
     <item>
       <title>Machine Learning for Causal Inference</title>
-      <link>https://HECSciencesDecision.github.io/post/a2020/2020-09-11/</link>
+      <link>/post/a2020/2020-09-11/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2020/2020-09-11/</guid>
+      <guid>/post/a2020/2020-09-11/</guid>
       <description>Date: 11 septembre 2020 Heure: 16h00-17h00 Résumé: Given advances in machine learning over the past decades, it is now possible to accurately solve difficult non-parametric prediction problems in a way that is routine and reproducible. In this talk, I&amp;rsquo;ll discuss how machine learning tools can be rigorously integrated into observational study analyses, and how they interact with classical statistical ideas around randomization, semiparametric modeling, double robustness, etc. I&amp;rsquo;ll also survey some recent advances in methods for treatment heterogeneity.</description>
     </item>
     
     <item>
       <title>Tail risk and style dependence in the fund industry: A multivariate extreme value approach</title>
-      <link>https://HECSciencesDecision.github.io/post/h2020/2020-03-05/</link>
+      <link>/post/h2020/2020-03-05/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/h2020/2020-03-05/</guid>
+      <guid>/post/h2020/2020-03-05/</guid>
       <description>Date: 5 mars 2020 Heure: 15h30-16h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: In this paper, we study the connectedness between extreme losses of hedge funds, a crucial feature for systemic risk management. To do so, we exploit cross-sections of hedge funds monthly returns grouped by investment styles, and build a time- varying measure of tail dependence across styles. Relying on extreme value theory and regression techniques, we study the dynamics of the tail dependencies between fund styles conditional on factors reflecting the economic uncertainty and the stock market performance.</description>
     </item>
     
     <item>
       <title>Longitudinal functional regression: tests of significance</title>
-      <link>https://HECSciencesDecision.github.io/post/h2020/2020-01-31/</link>
+      <link>/post/h2020/2020-01-31/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/h2020/2020-01-31/</guid>
+      <guid>/post/h2020/2020-01-31/</guid>
       <description>Date: 31 janvier 2020 Heure: 16h00-17h00 Lieu: Salle Béton-Grilli, CSC, HEC Montréal Résumé: We consider longitudinal functional regression, where, for each subject, the response consists of multiple curves observed at different time visits. We discuss tests of significance in two general settings. First, when there are no additional covariates, we develop a hypothesis testing methodology for formally assessing that the mean function does not vary over time. Second, in the presence of other covariates, we propose a testing procedure to determine the significance of the covariate&amp;rsquo;s time-varying effect formally.</description>
     </item>
     
     <item>
       <title>Some statistical applications of generative neural networks</title>
-      <link>https://HECSciencesDecision.github.io/post/h2020/2020-01-09/</link>
+      <link>/post/h2020/2020-01-09/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/h2020/2020-01-09/</guid>
+      <guid>/post/h2020/2020-01-09/</guid>
       <description>Date: 9 janvier 2020 Heure: 15h30-16h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: We present some examples of how the field of statistics can benefit from the Deep Learning movement. First, using generative neural networks (GNNs), we are now able to produce quasi Monte Carlo samples from &amp;ldquo;almost any&amp;rdquo; copula model. For example, we can do this even for mixtures of copulas with singular components. Second, using GNNs, we can now model and, most importantly, forecast multivariate time series without having to restrict ourselves to using only a few parametric copula families to describe the underlying multivariate dependence.</description>
     </item>
     
     <item>
       <title>Life at the (grid) edge: Evaluating energy decentralization strategies in California</title>
-      <link>https://HECSciencesDecision.github.io/post/a2019/2019-11-29/</link>
+      <link>/post/a2019/2019-11-29/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-11-29/</guid>
+      <guid>/post/a2019/2019-11-29/</guid>
       <description>Date: 29 Novembre 2019 Heure: 14h00-15h00 Lieu: Salle Trudeau Corporation, CSC, HEC Montréal Résumé: Avoiding the worst consequences of climate change hinges on the transition to a deeply decarbonized global energy system. Recent studies suggest that the least costly and risky way in which this transition could unfold is through radical electrification that is dominated by low-carbon sources of electricity. Several visions of this future have been put forward, some of which hinge on revolutions at the grid-edge that enable smarter energy management and vehicle electrification.</description>
     </item>
     
     <item>
       <title>General Bayesian modeling</title>
-      <link>https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/</link>
+      <link>/post/a2019/2019-11-01crm/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/</guid>
+      <guid>/post/a2019/2019-11-01crm/</guid>
       <description>Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Burnside Hall 1104, McGill University Résumé: The work is motivated by the inflexibility of Bayesian modeling; in that only parameters of probability models are required to be connected with data. The idea is to generalize this by allowing arbitrary unknowns to be connected with data via loss functions. An updating process is then detailed which can be viewed as arising in at least a couple of ways - one being purely axiomatically driven.</description>
     </item>
     
     <item>
       <title>Media and the stock market: Their relationship and abnormal dynamics around earnings announcements</title>
-      <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-16/</link>
+      <link>/post/a2019/2019-10-16/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-16/</guid>
+      <guid>/post/a2019/2019-10-16/</guid>
       <description>Date: 16 octobre 2019 Heure: 10h30-11h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: This paper investigates the abnormal tone dynamics of media news articles about firms near earnings announcements and how it relates to earnings results and the stock market. We document a post-earnings abnormal tone drift, suggesting inertia in the media opinion. Also, we find that negative cumulative abnormal tone at the earnings events predicts a subsequent stock price reversal.</description>
     </item>
     
     <item>
       <title>Optimizing the design of textual indices: Impression management and Sentometrics</title>
-      <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</link>
+      <link>/post/a2019/2019-10-11/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-11/</guid>
+      <guid>/post/a2019/2019-10-11/</guid>
       <description>Date: 11 octobre 2019 Heure: 10h00-11h00 Lieu: Salle Manuvie, CSC, HEC Montréal Résumé: Textual sentiment analysis requires to select relevant texts and design weighting schemes to aggregate the intra-textual, across-text and across-time polarity expressed in textual communications. The selection and weighting decisions need to be optimized for the intended use case and account for the underlying data features like impression management by the author and the non i.i.d. nature of the textual data.</description>
     </item>
     
     <item>
       <title>Tales of tails, tiles and ties in dependence modeling</title>
-      <link>https://HECSciencesDecision.github.io/post/a2019/2019-10-04crm/</link>
+      <link>/post/a2019/2019-10-04crm/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-10-04crm/</guid>
+      <guid>/post/a2019/2019-10-04crm/</guid>
       <description>Date: 4 octobre 2019 Heure: 16h00-17h00 Lieu: Salle 1355, Pavillon André-Aisenstadt, Université de Montréal, Résumé: Modeling dependence between random variables is omnipresent in statistics. When rare events with high impact are involved, such as severe storms, floods or heat waves, the issue is both of great importance for risk management and theoretically challenging. Combining extreme-value theory with copula modeling and rank-based inference yields a particularly flexible and promising approach to this problem.</description>
     </item>
     
     <item>
       <title>Optimal picking policies for e-commerce warehouses</title>
-      <link>https://HECSciencesDecision.github.io/post/a2019/2019-09-10/</link>
+      <link>/post/a2019/2019-09-10/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2019/2019-09-10/</guid>
+      <guid>/post/a2019/2019-09-10/</guid>
       <description>Date: 10 septembre 2019 Heure: 10h30-12h00 Lieu: Salle 4488, Pavillon André-Aisenstadt, Université de Montréal Résumé: In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker&amp;rsquo;s unproductive walking time.</description>
     </item>
     
     <item>
       <title>Séminaires 2019-2020</title>
-      <link>https://HECSciencesDecision.github.io/archives/</link>
+      <link>/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/archives/</guid>
+      <guid>/archives/</guid>
       <description>Date Orateur/oratrice Titre de la présentation Horaire Lieu Co-organisation     10 septembre 2019 Maximilian Schiffer Optimal picking policies for e-commerce warehouses 10h30-12h00 salle 4488, Pavillon André-Aisenstadt GÉRAD   11 octobre 2019 Kris Boudt Optimizing the design of textual indices: Impression management and Sentometrics 10h00-11h00 salle Manuvie Finance   16 octobre 2019 Keven Bluteau Media and the stock market: Their relationship and abnormal dynamics around earnings announcements 10h30-11h30 salle 2.</description>
     </item>
     
     <item>
       <title>Webinaires du Statlab</title>
-      <link>https://HECSciencesDecision.github.io/statlab/</link>
+      <link>/statlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/statlab/</guid>
-      <description>Webinaires de Statlab (CRM) Cette page recense les webinaires du Statlab qui sont diffusés en ligne à cause de la pandémie. Sauf indication contraire, les séminaires sont agendés les vendredi de 16h à 17h.
-   Date Orateur/oratrice Titre de la présentation     11 septembre 2020 Stefan Wager Machine Learning for Causal Inference   2 octobre 2020 Paul McNicholas    13 novembre 2020 Tamara Broderick    12 février 2021 Mikael Kuusela    12 mars 2021 Jay Breidt     </description>
+      <guid>/statlab/</guid>
+      <description>Webinaires de Statlab (CRM) Cette page recense les webinaires du Statlab qui sont diffusés en ligne à cause de la pandémie.
+   Date Horaire Orateur/oratrice Titre de la présentation     11 septembre 2020 16h Stefan Wager Machine Learning for Causal Inference   2 octobre 2020 15h30 Paul McNicholas Data Science, Classification, Clustering and Three-Way Data   13 novembre 2020  Tamara Broderick    12 février 2021  Mikael Kuusela    12 mars 2021  Jay Breidt     </description>
     </item>
     
   </channel>

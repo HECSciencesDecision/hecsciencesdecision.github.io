@@ -2,39 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Séminaires du département de sciences de la décision</title>
-    <link>https://HECSciencesDecision.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://HECSciencesDecision.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HEC</title>
-      <link>https://HECSciencesDecision.github.io/categories/hec/</link>
+      <link>/categories/hec/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/categories/hec/</guid>
+      <guid>/categories/hec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CRM</title>
-      <link>https://HECSciencesDecision.github.io/categories/crm/</link>
+      <link>/categories/crm/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/categories/crm/</guid>
+      <guid>/categories/crm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GERAD</title>
-      <link>https://HECSciencesDecision.github.io/categories/gerad/</link>
+      <link>/categories/gerad/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/categories/gerad/</guid>
+      <guid>/categories/gerad/</guid>
       <description></description>
     </item>
     
