@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hiver 2020 on Séminaires du département de sciences de la décision</title>
-    <link>/tags/hiver-2020/</link>
+    <link>https://HECSciencesDecision.github.io/tags/hiver-2020/</link>
     <description>Recent content in hiver 2020 on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hiver-2020/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tail risk and style dependence in the fund industry: A multivariate extreme value approach</title>
-      <link>/post/h2020/2020-03-05/</link>
+      <link>https://HECSciencesDecision.github.io/post/h2020/2020-03-05/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/h2020/2020-03-05/</guid>
+      <guid>https://HECSciencesDecision.github.io/post/h2020/2020-03-05/</guid>
       <description>Date: 5 mars 2020 Heure: 15h30-16h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: In this paper, we study the connectedness between extreme losses of hedge funds, a crucial feature for systemic risk management. To do so, we exploit cross-sections of hedge funds monthly returns grouped by investment styles, and build a time- varying measure of tail dependence across styles. Relying on extreme value theory and regression techniques, we study the dynamics of the tail dependencies between fund styles conditional on factors reflecting the economic uncertainty and the stock market performance.</description>
     </item>
     
     <item>
       <title>Longitudinal functional regression: tests of significance</title>
-      <link>/post/h2020/2020-01-31/</link>
+      <link>https://HECSciencesDecision.github.io/post/h2020/2020-01-31/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/h2020/2020-01-31/</guid>
+      <guid>https://HECSciencesDecision.github.io/post/h2020/2020-01-31/</guid>
       <description>Date: 31 janvier 2020 Heure: 16h00-17h00 Lieu: Salle Béton-Grilli, CSC, HEC Montréal Résumé: We consider longitudinal functional regression, where, for each subject, the response consists of multiple curves observed at different time visits. We discuss tests of significance in two general settings. First, when there are no additional covariates, we develop a hypothesis testing methodology for formally assessing that the mean function does not vary over time. Second, in the presence of other covariates, we propose a testing procedure to determine the significance of the covariate&amp;rsquo;s time-varying effect formally.</description>
     </item>
     
     <item>
       <title>Some statistical applications of generative neural networks</title>
-      <link>/post/h2020/2020-01-09/</link>
+      <link>https://HECSciencesDecision.github.io/post/h2020/2020-01-09/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/h2020/2020-01-09/</guid>
+      <guid>https://HECSciencesDecision.github.io/post/h2020/2020-01-09/</guid>
       <description>Date: 9 janvier 2020 Heure: 15h30-16h30 Lieu: Salle 2.825, CSC, HEC Montréal Résumé: We present some examples of how the field of statistics can benefit from the Deep Learning movement. First, using generative neural networks (GNNs), we are now able to produce quasi Monte Carlo samples from &amp;ldquo;almost any&amp;rdquo; copula model. For example, we can do this even for mixtures of copulas with singular components. Second, using GNNs, we can now model and, most importantly, forecast multivariate time series without having to restrict ourselves to using only a few parametric copula families to describe the underlying multivariate dependence.</description>
     </item>
     
