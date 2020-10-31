@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>High-Frequency Factor Models and Regressions</title>
       <link>https://HECSciencesDecision.github.io/post/a2020/2020-11-27/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/a2020/2020-11-27/</guid>
-      <description>Date: 27 novembre 2020 Heure: 15h00-16h00 Résumé: Biographie de la conférencière: Ilze Kalnina is an Assistant Professor of Economics at the Poole College of Management of North Carolina State University (NCSU). She researches nonparametric estimation and inference for volatility with high frequency data. Prior to joining NC State, Kalnina was an assistant professor at the University of Montreal. Kalnina received a doctorate degree in economics from the London School of Economics.</description>
+      <description>Date: 27 novembre 2020 Heure: 15h00-16h00 Résumé: We consider a nonparametric time series regression model. Our framework allows precise estimation of betas without the usual assumption of betas being piecewise constant. This property makes our framework particularly suitable to study individual stocks. We provide an inference framework for all components of the model, including idiosyncratic volatility and idiosyncratic jumps. Our empirical analysis investigates the largest data set in the high-frequency literature.</description>
     </item>
     
     <item>
