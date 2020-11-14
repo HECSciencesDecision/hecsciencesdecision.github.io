@@ -6,7 +6,44 @@
     <description>Recent content in CRM on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/crm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/crm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quasi-score driven models</title>
+      <link>https://HECSciencesDecision.github.io/post/a2020/quantact-2020-12-04/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2020/quantact-2020-12-04/</guid>
+      <description>Date: 4 décembre 2020 Heure: 10h00-11h00 Résumé: This paper introduces a new class of observation-driven models, including score models as a special case. This new class inherits and extends the basic ideas behind the development of score models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) allows QML estimation of static parameters, (ii) keeps the downweighting mechanism of the GAS models but allows the updating equation of the conditional moments to be disconnected from the density of the innovations.</description>
+    </item>
+    
+    <item>
+      <title>Climate change concerns and the performance of green versus brown stocks</title>
+      <link>https://HECSciencesDecision.github.io/post/a2020/quantact-2020-11-20/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2020/quantact-2020-11-20/</guid>
+      <description>Date: 20 novembre 2020 Heure: 14h00-15h00 Résumé: We empirically test the prediction of Pastor, Stambaugh, and Taylor (2020) that green firms can outperform brown firms when climate change concerns strengthen unexpectedly for S&amp;amp;P 500 companies over the period January 2010 - June 2018. To capture unexpected increases in climate change concerns, we construct a Media Climate Change Concern index using climate change-related news published by major U.S. newspapers. We find a negative relationship between the firms’ exposure to the Media Climate Change Concerns index and the level of the firm’s greenhouse gas emission per unit of revenue.</description>
+    </item>
+    
+    <item>
+      <title>Approximate Cross-Validation for Large Data and High Dimensions</title>
+      <link>https://HECSciencesDecision.github.io/post/a2020/crm-2020-11-13/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2020/crm-2020-11-13/</guid>
+      <description>Date: 13 novembre 2020 Heure: 15h30-16h30 Résumé: The error or variability of statistical and machine learning algorithms is often assessed by repeatedly re-fitting a model with different weighted versions of the observed data. The ubiquitous tools of cross-validation (CV) and the bootstrap are examples of this technique. These methods are powerful in large part due to their model agnosticism but can be slow to run on modern, large data sets due to the need to repeatedly re-fit the model.</description>
+    </item>
+    
+    <item>
+      <title>Data Science, Classification, Clustering and Three-Way Data</title>
+      <link>https://HECSciencesDecision.github.io/post/a2020/crm-2020-10-02/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2020/crm-2020-10-02/</guid>
+      <description>Date: 2 octobre 2020 Heure: 15h30-16h30 Résumé: Data science is discussed along with some historical perspective. Selected problems in classification are considered, either via specific datasets or general problem types. In each case, the problem is introduced before one or more potential solutions are discussed and applied. The problems discussed include data with outliers, longitudinal data, and three-way data. The proposed approaches are generally mixture model-based.
+Biographie du conférencier: Paul McNicholas is a Professor and University Scholar in the Department of Mathematics and Statistics at McMaster University.</description>
+    </item>
+    
     <item>
       <title>General Bayesian modeling</title>
       <link>https://HECSciencesDecision.github.io/post/a2019/2019-11-01crm/</link>

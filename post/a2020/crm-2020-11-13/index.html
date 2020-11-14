@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Approximate Cross-Validation for Large Data and High Dimensions - Séminaires du département de sciences de la décision</title>
+    
+<meta name="description" content="Date: 13 novembre 2020 Heure: 15h30-16h30 Résumé: The error or variability of statistical and machine learning algorithms is often assessed by repeatedly re-fitting a model with different weighted versions of the observed data. The ubiquitous tools of cross-validation (CV) and the bootstrap are examples of this technique. These methods are powerful in large part due to their model agnosticism but can be slow to run on modern, large data sets due to the need to repeatedly re-fit the model.">
+
+<meta property="og:title" content="Approximate Cross-Validation for Large Data and High Dimensions - Séminaires du département de sciences de la décision">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://HECSciencesDecision.github.io/post/a2020/crm-2020-11-13/">
+<meta property="og:image" content="https://HECSciencesDecision.github.io/images/default.png">
+<meta property="og:site_name" content="Séminaires du département de sciences de la décision">
+<meta property="og:description" content="Date: 13 novembre 2020 Heure: 15h30-16h30 Résumé: The error or variability of statistical and machine learning algorithms is often assessed by repeatedly re-fitting a model with different weighted versions of the observed data. The ubiquitous tools of cross-validation (CV) and the bootstrap are examples of this technique. These methods are powerful in large part due to their model agnosticism but can be slow to run on modern, large data sets due to the need to repeatedly re-fit the model.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Séminaires du département de sciences de la décision">
+<meta name="twitter:url" content="https://HECSciencesDecision.github.io/post/a2020/crm-2020-11-13/">
+<meta name="twitter:title" content="Approximate Cross-Validation for Large Data and High Dimensions - Séminaires du département de sciences de la décision">
+<meta name="twitter:description" content="Date: 13 novembre 2020 Heure: 15h30-16h30 Résumé: The error or variability of statistical and machine learning algorithms is often assessed by repeatedly re-fitting a model with different weighted versions of the observed data. The ubiquitous tools of cross-validation (CV) and the bootstrap are examples of this technique. These methods are powerful in large part due to their model agnosticism but can be slow to run on modern, large data sets due to the need to repeatedly re-fit the model.">
+<meta name="twitter:image" content="https://HECSciencesDecision.github.io/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/HECSciencesDecision.github.io\/"
+    },
+    "headline": "Approximate Cross-Validation for Large Data and High Dimensions - Séminaires du département de sciences de la décision",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/HECSciencesDecision.github.io\/images\/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2020-11-13T00:00:00JST",
+    "dateModified": "2020-11-13T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Séminaires du département de sciences de la décision"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Séminaires du département de sciences de la décision",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/HECSciencesDecision.github.io\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: 13 novembre 2020 Heure: 15h30-16h30 Résumé: The error or variability of statistical and machine learning algorithms is often assessed by repeatedly re-fitting a model with different weighted versions of the observed data. The ubiquitous tools of cross-validation (CV) and the bootstrap are examples of this technique. These methods are powerful in large part due to their model agnosticism but can be slow to run on modern, large data sets due to the need to repeatedly re-fit the model."
+  }
+</script>
+
+
+    <link href="https://HECSciencesDecision.github.io/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://HECSciencesDecision.github.io/">Séminaires du département de sciences de la décision</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/archives/">Archives</a></li>
+              
+              
+              
+              <li><a href="/statlab/">CRM</a></li>
+              
+              
+              
+              <li><a href="/">Webinaires 2020-2021</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="https://HECSciencesDecision.github.io/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://HECSciencesDecision.github.io/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Tamara Broderick</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <h2 class="title">Approximate Cross-Validation for Large Data and High Dimensions</h2>
+    <h3 class="post-meta">Tamara Broderick </h3>
+
+  </header>
+
+  
+
+  <div class="article-body"><h4 id="date-13-novembre-2020">Date: 13 novembre 2020</h4>
+<h4 id="heure-15h30-16h30">Heure: 15h30-16h30</h4>
+<h2 id="résumé">Résumé:</h2>
+<p>The error or variability of statistical and machine learning algorithms is often assessed by repeatedly re-fitting a model with different weighted versions of the observed data. The ubiquitous tools of cross-validation (CV) and the bootstrap are examples of this technique. These methods are powerful in large part due to their model agnosticism but can be slow to run on modern, large data sets due to the need to repeatedly re-fit the model. We use a linear approximation to the dependence of the fitting procedure on the weights, producing results that can be faster than repeated re-fitting by orders of magnitude. This linear approximation is sometimes known as the &ldquo;infinitesimal jackknife&rdquo; (IJ) in the statistics literature, where it has mostly been used as a theoretical tool to prove asymptotic results. We provide explicit finite-sample error bounds for the infinitesimal jackknife in terms of a small number of simple, verifiable assumptions. Without further modification, though, we note that the IJ deteriorates in accuracy in high dimensions and incurs a running time roughly cubic in dimension. We additionally show, then, how dimensionality reduction can be used to successfully run the IJ in high dimensions when data is sparse or low rank. Simulated and real-data experiments support our theory.</p>
+<h2 id="biographie-de-la-conférencière">Biographie de la conférencière:</h2>
+<p>Tamara Broderick is an Associate Professor in the Department of Electrical Engineering and Computer Science at MIT. She is a member of the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), the MIT Statistics and Data Science Center, and the Institute for Data, Systems, and Society (IDSS). She completed her Ph.D. in Statistics at the University of California, Berkeley in 2014. Previously, she received an AB in Mathematics from Princeton University (2007), a Master of Advanced Study for completion of Part III of the Mathematical Tripos from the University of Cambridge (2008), an MPhil by research in Physics from the University of Cambridge (2009), and an MS in Computer Science from the University of California, Berkeley (2013). Her recent research has focused on developing and analyzing models for scalable Bayesian machine learning. She has been awarded an Early Career Grant (ECG) from the Office of Naval Research (2020), an AISTATS Notable Paper Award (2019), an NSF CAREER Award (2018), a Sloan Research Fellowship (2018), an Army Research Office Young Investigator Program (YIP) award (2017), Google Faculty Research Awards, an Amazon Research Award, the ISBA Lifetime Members Junior Researcher Award, the Savage Award (for an outstanding doctoral dissertation in Bayesian theory and methods), the Evelyn Fix Memorial Medal and Citation (for the Ph.D. student on the Berkeley campus showing the greatest promise in statistical research), the Berkeley Fellowship, an NSF Graduate Research Fellowship, a Marshall Scholarship, and the Phi Beta Kappa Prize (for the graduating Princeton senior with the highest academic average).</p>
+</div>
+
+  <footer class="article-footer">
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+          <aside>
+          <p><a href="https://www.hec.ca/mqg/">Département de sciences de la décision</a>, <a href="https://www.hec.ca/">HEC Montréal</a></p>
+          </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>

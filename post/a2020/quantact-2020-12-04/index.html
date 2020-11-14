@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Quasi-score driven models - Séminaires du département de sciences de la décision</title>
+    
+<meta name="description" content="Date: 4 décembre 2020 Heure: 10h00-11h00 Résumé: This paper introduces a new class of observation-driven models, including score models as a special case. This new class inherits and extends the basic ideas behind the development of score models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) allows QML estimation of static parameters, (ii) keeps the downweighting mechanism of the GAS models but allows the updating equation of the conditional moments to be disconnected from the density of the innovations.">
+
+<meta property="og:title" content="Quasi-score driven models - Séminaires du département de sciences de la décision">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://HECSciencesDecision.github.io/post/a2020/quantact-2020-12-04/">
+<meta property="og:image" content="https://HECSciencesDecision.github.io/images/default.png">
+<meta property="og:site_name" content="Séminaires du département de sciences de la décision">
+<meta property="og:description" content="Date: 4 décembre 2020 Heure: 10h00-11h00 Résumé: This paper introduces a new class of observation-driven models, including score models as a special case. This new class inherits and extends the basic ideas behind the development of score models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) allows QML estimation of static parameters, (ii) keeps the downweighting mechanism of the GAS models but allows the updating equation of the conditional moments to be disconnected from the density of the innovations.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Séminaires du département de sciences de la décision">
+<meta name="twitter:url" content="https://HECSciencesDecision.github.io/post/a2020/quantact-2020-12-04/">
+<meta name="twitter:title" content="Quasi-score driven models - Séminaires du département de sciences de la décision">
+<meta name="twitter:description" content="Date: 4 décembre 2020 Heure: 10h00-11h00 Résumé: This paper introduces a new class of observation-driven models, including score models as a special case. This new class inherits and extends the basic ideas behind the development of score models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) allows QML estimation of static parameters, (ii) keeps the downweighting mechanism of the GAS models but allows the updating equation of the conditional moments to be disconnected from the density of the innovations.">
+<meta name="twitter:image" content="https://HECSciencesDecision.github.io/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/HECSciencesDecision.github.io\/"
+    },
+    "headline": "Quasi-score driven models - Séminaires du département de sciences de la décision",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/HECSciencesDecision.github.io\/images\/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2020-12-04T00:00:00JST",
+    "dateModified": "2020-12-04T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Séminaires du département de sciences de la décision"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Séminaires du département de sciences de la décision",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/HECSciencesDecision.github.io\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: 4 décembre 2020 Heure: 10h00-11h00 Résumé: This paper introduces a new class of observation-driven models, including score models as a special case. This new class inherits and extends the basic ideas behind the development of score models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) allows QML estimation of static parameters, (ii) keeps the downweighting mechanism of the GAS models but allows the updating equation of the conditional moments to be disconnected from the density of the innovations."
+  }
+</script>
+
+
+    <link href="https://HECSciencesDecision.github.io/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://HECSciencesDecision.github.io/">Séminaires du département de sciences de la décision</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/archives/">Archives</a></li>
+              
+              
+              
+              <li><a href="/statlab/">CRM</a></li>
+              
+              
+              
+              <li><a href="/">Webinaires 2020-2021</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="https://HECSciencesDecision.github.io/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://HECSciencesDecision.github.io/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Sébastien Laurent</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <h2 class="title">Quasi-score driven models</h2>
+    <h3 class="post-meta">Sébastien Laurent </h3>
+
+  </header>
+
+  
+
+  <div class="article-body"><h4 id="date-4-décembre-2020">Date: 4 décembre 2020</h4>
+<h4 id="heure-10h00-11h00">Heure: 10h00-11h00</h4>
+<h2 id="résumé">Résumé:</h2>
+<p>This paper introduces a new class of observation-driven models, including score models as a special case. This new class inherits and extends the basic ideas behind the development of score models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) allows QML estimation of static parameters, (ii) keeps the downweighting mechanism of the GAS models but allows the updating equation of the conditional moments to be disconnected from the density of the innovations. We establish the asymptotic properties of the QLE, QMLE and MLE as well as likelihood ratio and Lagrange multiplier test statistics. The finite sample properties are studied by means of an extensive Monte Carlo study. Finally, we show the empirical relevance of this new class of models on real data.</p>
+<h2 id="biographie-du-conférencier">Biographie du conférencier:</h2>
+<p>Économètre prolifique Sébastien Laurent est professeur des universités à l&rsquo;Université Aix-Marseille Université IAE et chercheur au CNRS et à l&rsquo;EHESS. Il a obtenu son doctorat en économétrie financière de l&rsquo;université Maastricht en 2002. Auteur d&rsquo;une quarantaine de publications, il a publié notamment ses travaux dans <em>Journal of Econometrics</em> et <em>Journal of Banking and Finance</em>.</p>
+</div>
+
+  <footer class="article-footer">
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+          <aside>
+          <p><a href="https://www.hec.ca/mqg/">Département de sciences de la décision</a>, <a href="https://www.hec.ca/">HEC Montréal</a></p>
+          </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
