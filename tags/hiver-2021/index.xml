@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiver 2021 on Séminaires du département de sciences de la décision</title>
+    <link>https://HECSciencesDecision.github.io/tags/hiver-2021/</link>
+    <description>Recent content in hiver 2021 on Séminaires du département de sciences de la décision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convex Optimization</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</guid>
+      <description>Date: 17 mars 2021 Heure: 15h00-16h00 Résumé: Convex optimization has emerged as useful tool for applications that include data analysis and model fitting, resource allocation, engineering design, network design and optimization, finance, and control and signal processing. After an overview of the mathematics, algorithms, and software frameworks for convex optimization, we turn to common themes that arise across applications, such as sparsity and relaxation. We describe recent work on real-time embedded convex optimization, in which small problems are solved repeatedly in millisecond or microsecond time frames.</description>
+    </item>
+    
+  </channel>
+</rss>

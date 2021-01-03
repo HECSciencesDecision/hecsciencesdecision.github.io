@@ -6,7 +6,16 @@
     <description>Recent content in Webinaires 2020-2021 on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convex Optimization</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</guid>
+      <description>Date: 17 mars 2021 Heure: 15h00-16h00 Résumé: Convex optimization has emerged as useful tool for applications that include data analysis and model fitting, resource allocation, engineering design, network design and optimization, finance, and control and signal processing. After an overview of the mathematics, algorithms, and software frameworks for convex optimization, we turn to common themes that arise across applications, such as sparsity and relaxation. We describe recent work on real-time embedded convex optimization, in which small problems are solved repeatedly in millisecond or microsecond time frames.</description>
+    </item>
+    
     <item>
       <title>Quasi-score driven models</title>
       <link>https://HECSciencesDecision.github.io/post/a2020/quantact-2020-12-04/</link>
@@ -189,12 +198,12 @@ Biographie du conférencier: Paul McNicholas is a Professor and University Schol
     </item>
     
     <item>
-      <title>Séminaires 2019-2020</title>
+      <title>Séminaires</title>
       <link>https://HECSciencesDecision.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/archives/</guid>
-      <description>Date Orateur/oratrice Titre de la présentation Horaire Lieu Co-organisation     10 septembre 2019 Maximilian Schiffer Optimal picking policies for e-commerce warehouses 10h30-12h00 salle 4488, Pavillon André-Aisenstadt GÉRAD   11 octobre 2019 Kris Boudt Optimizing the design of textual indices: Impression management and Sentometrics 10h00-11h00 salle Manuvie Finance   16 octobre 2019 Keven Bluteau Media and the stock market: Their relationship and abnormal dynamics around earnings announcements 10h30-11h30 salle 2.</description>
+      <description>Séminaires 2019-2020    Date Orateur/oratrice Titre de la présentation Horaire     10 septembre 2019 Maximilian Schiffer Optimal picking policies for e-commerce warehouses 10h30-12h00   11 octobre 2019 Kris Boudt Optimizing the design of textual indices: Impression management and Sentometrics 10h00-11h00   16 octobre 2019 Keven Bluteau Media and the stock market: Their relationship and abnormal dynamics around earnings announcements 10h30-11h30   29 novembre 2019 Ahmed Abdulla Life at the (grid) edge: Evaluating energy decentralization strategies in California 14h00-15h00   9 janvier 2020 Mu Zhu Some statistical applications of generative neural networks 15h30-16h30   31 janvier 2020 Ana-Maria Staicu Longitudinal functional regression: tests of significance 16h00-17h00   5 mars 2020 Linda Mhalla Tail risk and style dependence in the fund industry: A multivariate extreme value approach 15h30-16h30    Séminaires 2020-2021    Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire     11 septembre 2020 Stefan Wager Machine Learning for Causal Inference 16h-17h   9 octobre 2020 Ningyuan Chen The Use of Binary Choice Forests to Model and Estimate Discrete Choices 15h-16h   16 octobre 2020 Ozlem Ergun Optimizing Post-Disruption Response Operations to Improve Resilience of Critical Infrastructure Systems 15h-16h   23 octobre 2020 Madhu Kalimipalli Banking networks, systemic risk, and the credit cycle in emerging markets 15h-16h   5 novembre 2020 Joseph DeCarolis Developing an Open Energy Outlook for the United States Using Tools for Energy Model Optimization and Analysis (Temoa) 15h-16h   27 novembre 2020 Ilze Kalnina High-Frequency Factor Models and Regressions 15h-16h   4 décembre 2020 Bruno Feunou Risk-neutral moments based estimation of continuous time jump-diffusion models 15h-16h    </description>
     </item>
     
     <item>
