@@ -16,5 +16,14 @@
       <description>Date: 17 mars 2021 Heure: 15h00-16h00 Résumé: Convex optimization has emerged as useful tool for applications that include data analysis and model fitting, resource allocation, engineering design, network design and optimization, finance, and control and signal processing. After an overview of the mathematics, algorithms, and software frameworks for convex optimization, we turn to common themes that arise across applications, such as sparsity and relaxation. We describe recent work on real-time embedded convex optimization, in which small problems are solved repeatedly in millisecond or microsecond time frames.</description>
     </item>
     
+    <item>
+      <title>Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-01-22/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-01-22/</guid>
+      <description>Date: 22 janvier 2021 Heure: 11h00-12h00 Résumé: Diffusion processes are a class of models that plays a prominent role in describing the time-continuous evolution of phenomena in the natural and social sciences. However, only in very few cases the stochastic differential equation driving the process can be analytically solved. Based on the perturbation method, we present asymptotic expansion formulas to generate accurate approximations to the solution of arbitrary diffusions. In particular, we expand the characteristic function of the process.</description>
+    </item>
+    
   </channel>
 </rss>

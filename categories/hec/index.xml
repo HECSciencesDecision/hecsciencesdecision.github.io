@@ -6,7 +6,16 @@
     <description>Recent content in HEC on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convex Optimization</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</guid>
+      <description>Date: 17 mars 2021 Heure: 15h00-16h00 Résumé: Convex optimization has emerged as useful tool for applications that include data analysis and model fitting, resource allocation, engineering design, network design and optimization, finance, and control and signal processing. After an overview of the mathematics, algorithms, and software frameworks for convex optimization, we turn to common themes that arise across applications, such as sparsity and relaxation. We describe recent work on real-time embedded convex optimization, in which small problems are solved repeatedly in millisecond or microsecond time frames.</description>
+    </item>
+    
     <item>
       <title>Risk-neutral moments based estimation of continuous time jump-diffusion models</title>
       <link>https://HECSciencesDecision.github.io/post/a2020/2020-12-04/</link>
