@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Joint integrative analysis of multiple data sources with correlated vector outcomes</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-02-19/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-02-19/</guid>
+      <description>Date: 19 février 2021 Heure: 15h30-16h30 Résumé: We consider the joint estimation of regression parameters from multiple potentially heterogeneous data sources with correlated vector outcomes. The primary goal of this joint integrative analysis is to estimate covariate effects on all vector outcomes through a marginal regression model in a statistically and computationally efficient way. We present a general class of distributed estimators that can be implemented in a parallelized computational scheme.</description>
+    </item>
+    
+    <item>
       <title>Risk-neutral moments based estimation of continuous time jump-diffusion models</title>
       <link>https://HECSciencesDecision.github.io/post/a2020/2020-12-04/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
