@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When does eco-efficiency rebound or backfire? An analytical model</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-04-07/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-04-07/</guid>
+      <description>Date: 7 avril 2021 Heure: 9h00-10h00 Résumé: It is known that an eco-efficiency strategy, which saves resources in the production process, may be offset by a rebound effect; it may even backfire. Less known are the exact conditions under which eco-efficiency rebounds or backfires. This article fills the gap by providing an analytical model of the rebound and backfire effects. We propose an optimal control framework of dynamic pricing and eco-efficiency investment, for which eco-efficiency reduces the unit production cost and boosts the demand of environmentally concerned consumers.</description>
+    </item>
+    
     <item>
       <title>Convex Optimization</title>
       <link>https://HECSciencesDecision.github.io/post/h2021/2021-03-17/</link>
