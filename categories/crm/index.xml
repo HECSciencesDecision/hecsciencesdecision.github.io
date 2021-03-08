@@ -6,14 +6,23 @@
     <description>Recent content in CRM on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/crm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/crm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nonparametric Tests for Informative Selection in Complex Surveys</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/crm-2021-03-12/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/crm-2021-03-12/</guid>
+      <description>Date: 12 mars 2021 Heure: 15h30-16h30 Résumé: Informative selection, in which the distribution of response variables given that they are sampled is different from their distribution in the population, is pervasive in complex surveys. Failing to take such informativeness into account can produce severe inferential errors, including biased and inconsistent estimation of population parameters. While several parametric procedures exist to test for informative selection, these methods are limited in scope and their parametric assumptions are difficult to assess.</description>
+    </item>
+    
     <item>
       <title>Spatio-temporal methods for estimating subsurface ocean thermal response to tropical cyclones</title>
       <link>https://HECSciencesDecision.github.io/post/h2021/crm-2021-02-12/</link>
       <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/h2021/crm-2021-02-12/</guid>
-      <description>Date: 12 février 2021 Heure: 15h30-16h30 Résumé: The under-five mortality rate (U5MR) is a key barometer of the health of a nation. Unfortunately, many people living in low- and middle-income countries are not covered by civil registration systems. This makes estimation of the U5MR, particularly at the subnational level, difficult. In this talk, I will describe models that have been developed to produce the official United Nations (UN) subnational U5MR estimates in 22 countries.</description>
+      <description>Date: 12 février 2021 Heure: 15h30-16h30 Résumé: Tropical cyclones (TCs), driven by heat exchange between the air and sea, pose a substantial risk to many communities around the world. Accurate characterization of the subsurface ocean thermal response to TC passage is crucial for accurate TC intensity forecasts and for understanding the role TCs play in the global climate system, yet that characterization is complicated by the high-noise ocean environment, correlations inherent in spatio-temporal data, relative scarcity of in situ observations and the entanglement of the TC-induced signal with seasonal signals.</description>
     </item>
     
     <item>
