@@ -6,7 +6,16 @@
     <description>Recent content in HEC on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Optimization for Multi-Goals-Based Wealth Management</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-05-06/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-05-06/</guid>
+      <description>Date: 6 mai 2021 Heure: 13h30-14h30 Résumé: We develop a dynamic programming methodology that seeks to maximize investor outcomes over multiple, potentially competing goals (such as upgrading a home, paying college tuition, or maintaining an income stream in retirement), even when financial resources are limited. Unlike Monte Carlo approaches currently in wide use in the wealth management industry, our approach uses investor preferences to dynamically make the optimal determination for fulfilling or not fulfilling each goal and for selecting the investor’s investment portfolio.</description>
+    </item>
+    
     <item>
       <title>When does eco-efficiency rebound or backfire? An analytical model</title>
       <link>https://HECSciencesDecision.github.io/post/h2021/2021-04-07/</link>
