@@ -6,7 +6,16 @@
     <description>Recent content in Webinaires 2020-2021 on Séminaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rethinking Introductory Statistics for Life Sciences Programs</title>
+      <link>https://HECSciencesDecision.github.io/post/h2021/2021-05-18/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2021/2021-05-18/</guid>
+      <description>Date: 18 mai 2021 Heure: 13h30-14h30 Résumé: Despite reproducibility concerns in science, an increased awareness of the prevalence of statistical errors in life sciences research, and even a tightening up of quantitative reporting standards in journals, statistical errors continue to permeate life sciences research. Yet, life science students often only need to take one Statistics course in their undergraduate programs, if that. What can we, as educators, do to prepare future life scientists for statistical practice in research when we have such limited time with them?</description>
+    </item>
+    
     <item>
       <title>Dynamic Optimization for Multi-Goals-Based Wealth Management</title>
       <link>https://HECSciencesDecision.github.io/post/h2021/2021-05-06/</link>
@@ -275,7 +284,7 @@ Biographie du conférencier: Paul McNicholas is a Professor and University Schol
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/statlab/</guid>
-      <description>Colloque des sciences mathématiques du Québec (CRM Statlab / ISM)    Date Horaire Orateur/oratrice Titre de la présentation     11 septembre 2020 16h Stefan Wager Machine Learning for Causal Inference   2 octobre 2020 15h30 Paul McNicholas Data Science, Classification, Clustering and Three-Way Data   13 novembre 2020 15h30 Tamara Broderick Approximate Cross-Validation for Large Data and High Dimensions   29 janvier 2021 15h30 Jonathan Wakefield Small Area Estimation in Low- and Middle-Income Countries   12 février 2021 15h30 Mikael Kuusela Spatio-temporal methods for estimating subsurface ocean thermal response to tropical cyclones   12 mars 2021 15h30 Jay Breidt Nonparametric Tests for Informative Selection in Complex Surveys    Laboratoire de mathématiques actuarielles et financières [Quantact]    Date Horaire Orateur/oratrice Titre de la présentation     20 novembre 2020 14h Keven Bluteau Climate change concerns and the performance of green versus brown stocks   4 décembre 2020 10h Sébastien Laurent Quasi-score driven models   22 janvier 2021 11h00 Emanuele Guidotti Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method   29 janvier 2021 14h00 Sheldon Lin    5 février 2021 14h00 Frédéric Godin    5 mars 2021 14h00 Bin Zou     </description>
+      <description>Colloque des sciences mathématiques du Québec (CRM Statlab / ISM)    Date Horaire Orateur/oratrice Titre de la présentation     11 septembre 2020 16h Stefan Wager Machine Learning for Causal Inference   2 octobre 2020 15h30 Paul McNicholas Data Science, Classification, Clustering and Three-Way Data   13 novembre 2020 15h30 Tamara Broderick Approximate Cross-Validation for Large Data and High Dimensions   29 janvier 2021 15h30 Jonathan Wakefield Small Area Estimation in Low- and Middle-Income Countries   12 février 2021 15h30 Mikael Kuusela Spatio-temporal methods for estimating subsurface ocean thermal response to tropical cyclones   12 mars 2021 15h30 Jay Breidt Nonparametric Tests for Informative Selection in Complex Surveys    </description>
     </item>
     
   </channel>
