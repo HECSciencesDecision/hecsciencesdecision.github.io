@@ -6,14 +6,23 @@
     <description>Recent content in automne 2021 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/automne-2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/automne-2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opinionated practices for teaching reproducibility: motivation, guided instruction and practice</title>
       <link>https://HECSciencesDecision.github.io/post/a2021/2021-10-29/</link>
-      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/a2021/2021-10-29/</guid>
-      <description>Date: 29 octobre 2021 Heure: 15h30-16h30 Résumé: In the data science courses at the University of British Columbia, we define data science as the study, development and practice of reproducible and auditable processes to obtain insight from data. While reproducibility is core to our definition, most data science learners enter the field with other aspects of data science in mind, for example predictive modelling, which is often one of the most interesting topic to novices.</description>
+      <description>Date: vendredi 29 octobre 2021 Heure: 15h30-16h30 Résumé: In the data science courses at the University of British Columbia, we define data science as the study, development and practice of reproducible and auditable processes to obtain insight from data. While reproducibility is core to our definition, most data science learners enter the field with other aspects of data science in mind, for example predictive modelling, which is often one of the most interesting topic to novices.</description>
+    </item>
+    
+    <item>
+      <title>Selective inference on trees</title>
+      <link>https://HECSciencesDecision.github.io/post/a2021/2021-10-04/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2021/2021-10-04/</guid>
+      <description>Date: lundi 4 octobre 2021 Heure: 15h-16h Résumé: The ever-increasing scope and scale of data collection has shifted the focus of data collection away from testing pre-specified hypotheses and towards hypothesis generation. Researchers are often interested in performing exploratory data analysis on a data set to generate hypotheses, then to validate those hypotheses in that same data via tests of significance. Unfortunately, this type of &amp;ldquo;double-dipping&amp;rdquo; can lead to extremely inflated type I error rates.</description>
     </item>
     
   </channel>
