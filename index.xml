@@ -6,7 +6,17 @@
     <description>Recent content in Webinaires 2021-2022 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Differentially private inference via noisy optimization</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-02-25/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-02-25/</guid>
+      <description>Date: vendredi 25 février 2022 Heure: 15h00-16h00 Webinaire organisé conjointement avec le département de mathématiques et de statistique de l&amp;rsquo;Université Laval
+Résumé: We propose a general optimization-based framework for computing differentially private M-estimators and a new method for constructing differentially private confidence regions. Firstly, we show that robust statistics can be used in conjunction with noisy gradient descent or noisy Newton methods in order to obtain optimal private estimators with global linear or quadratic convergence, respectively.</description>
+    </item>
+    
     <item>
       <title>Size Distribution of Firms and Strategic Investments in Large Markets: A Stochastic Mean Field Game Approach</title>
       <link>https://HECSciencesDecision.github.io/post/a2021/2021-11-05/</link>
