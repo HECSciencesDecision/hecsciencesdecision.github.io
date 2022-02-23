@@ -6,7 +6,16 @@
     <description>Recent content in Webinaires 2021-2022 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-03-23/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-03-23/</guid>
+      <description>Date: mercredi 23 mars 2022 Heure: 15h00-16h00 Résumé: Online controlled experiments (i.e., A/B tests) have become an extremely valuable tool used by internet and technology companies for purposes of advertising, product development, product improvement, customer acquisition, and customer retention to name a few. The data-driven decisions that result from these experiments are typically informed by null hypothesis significance tests and analyses based on p-values. However, attention has recently been drawn to the shortcomings of hypothesis testing, and an emphasis has been placed on the development of new methodologies that overcome these shortcomings.</description>
+    </item>
+    
     <item>
       <title>Differentially private inference via noisy optimization</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-02-25/</link>
