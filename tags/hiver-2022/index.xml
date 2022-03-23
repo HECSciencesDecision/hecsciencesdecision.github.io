@@ -6,7 +6,17 @@
     <description>Recent content in hiver 2022 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toward social welfare and fairness in kidney exchange programs</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</guid>
+      <description>Date: jeudi 28 avril 2022 Heure: 11h00-12h00 Séminaire webdiffusé, organisé conjointement avec la Chaire de théorie des jeux et gestion
+Résumé: Matching markets are part of our daily lives, appearing on online platforms, school admissions and health systems. Their study attracts the interest of optimizers and game theorists. In this talk, we will focus on a particular matching market, the kidney exchange program (KEP), where combinatorial optimization and game theory play an important role.</description>
+    </item>
+    
     <item>
       <title>Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-03-23/</link>

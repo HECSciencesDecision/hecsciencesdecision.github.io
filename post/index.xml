@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toward social welfare and fairness in kidney exchange programs</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</guid>
+      <description>Date: jeudi 28 avril 2022 Heure: 11h00-12h00 Séminaire webdiffusé, organisé conjointement avec la Chaire de théorie des jeux et gestion
+Résumé: Matching markets are part of our daily lives, appearing on online platforms, school admissions and health systems. Their study attracts the interest of optimizers and game theorists. In this talk, we will focus on a particular matching market, the kidney exchange program (KEP), where combinatorial optimization and game theory play an important role.</description>
+    </item>
+    
     <item>
       <title>Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-03-23/</link>
@@ -32,7 +42,7 @@ Résumé: We propose a general optimization-based framework for computing differ
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/a2021/2021-11-05/</guid>
-      <description>Date: vendredi 5 novembre 2021 Heure: 14h00-15h00 Résumé: This paper analyzes how firm size heterogeneity distribution affects capacity investments and profits in large competitive markets with both idiosyncratic and aggregate uncertainty shocks. We use a mean field game approach where firms&#39; sizes are heterogeneously distributed and decisions on capacity investments (addition) or disinvestments (withdrawal) are optimally made over time to enhance prospects of earning profits under uncertainty. A mean field game framework allows for consideration of markets with a large population of interacting firms.</description>
+      <description>Date: vendredi 5 novembre 2021 Heure: 14h00-15h00 Résumé: This paper analyzes how firm size heterogeneity distribution affects capacity investments and profits in large competitive markets with both idiosyncratic and aggregate uncertainty shocks. We use a mean field game approach where firms&amp;rsquo; sizes are heterogeneously distributed and decisions on capacity investments (addition) or disinvestments (withdrawal) are optimally made over time to enhance prospects of earning profits under uncertainty. A mean field game framework allows for consideration of markets with a large population of interacting firms.</description>
     </item>
     
     <item>

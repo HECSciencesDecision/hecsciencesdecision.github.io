@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webinaires 2021-2022 on Webinaires du département de sciences de la décision</title>
+    <title>Séminaires 2022 on Webinaires du département de sciences de la décision</title>
     <link>https://HECSciencesDecision.github.io/</link>
-    <description>Recent content in Webinaires 2021-2022 on Webinaires du département de sciences de la décision</description>
+    <description>Recent content in Séminaires 2022 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toward social welfare and fairness in kidney exchange programs</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</guid>
+      <description>Date: jeudi 28 avril 2022 Heure: 11h00-12h00 Séminaire webdiffusé, organisé conjointement avec la Chaire de théorie des jeux et gestion
+Résumé: Matching markets are part of our daily lives, appearing on online platforms, school admissions and health systems. Their study attracts the interest of optimizers and game theorists. In this talk, we will focus on a particular matching market, the kidney exchange program (KEP), where combinatorial optimization and game theory play an important role.</description>
+    </item>
+    
     <item>
       <title>Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-03-23/</link>
@@ -32,7 +42,7 @@ Résumé: We propose a general optimization-based framework for computing differ
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/a2021/2021-11-05/</guid>
-      <description>Date: vendredi 5 novembre 2021 Heure: 14h00-15h00 Résumé: This paper analyzes how firm size heterogeneity distribution affects capacity investments and profits in large competitive markets with both idiosyncratic and aggregate uncertainty shocks. We use a mean field game approach where firms&#39; sizes are heterogeneously distributed and decisions on capacity investments (addition) or disinvestments (withdrawal) are optimally made over time to enhance prospects of earning profits under uncertainty. A mean field game framework allows for consideration of markets with a large population of interacting firms.</description>
+      <description>Date: vendredi 5 novembre 2021 Heure: 14h00-15h00 Résumé: This paper analyzes how firm size heterogeneity distribution affects capacity investments and profits in large competitive markets with both idiosyncratic and aggregate uncertainty shocks. We use a mean field game approach where firms&amp;rsquo; sizes are heterogeneously distributed and decisions on capacity investments (addition) or disinvestments (withdrawal) are optimally made over time to enhance prospects of earning profits under uncertainty. A mean field game framework allows for consideration of markets with a large population of interacting firms.</description>
     </item>
     
     <item>
@@ -321,7 +331,7 @@ Biographie du conférencier: Paul McNicholas is a Professor and University Schol
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/archives/</guid>
-      <description>Séminaires 2020-2021    Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire     11 septembre 2020 Stefan Wager Machine Learning for Causal Inference 16h-17h   9 octobre 2020 Ningyuan Chen The Use of Binary Choice Forests to Model and Estimate Discrete Choices 15h-16h   16 octobre 2020 Ozlem Ergun Optimizing Post-Disruption Response Operations to Improve Resilience of Critical Infrastructure Systems 15h-16h   23 octobre 2020 Madhu Kalimipalli Banking networks, systemic risk, and the credit cycle in emerging markets 15h-16h   5 novembre 2020 Joseph DeCarolis Developing an Open Energy Outlook for the United States Using Tools for Energy Model Optimization and Analysis (Temoa) 15h-16h   27 novembre 2020 Ilze Kalnina High-Frequency Factor Models and Regressions 15h-16h   4 décembre 2020 Bruno Feunou Risk-neutral moments based estimation of continuous time jump-diffusion models 15h-16h   22 janvier 2021 Emanuele Guidotti Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method 11h00-12h00   19 février 2021 Emily C.</description>
+      <description>Séminaires 2021-2022    Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire     4 octobre 2021 Lucy Gao Selective inference on trees 15h00-16h00   29 octobre 2021 Tiffany Timbers Opinionated practices for teaching reproducibility: motivation, guided instruction and practice 15h30-16h30   5 novembre 2021 Justin Johnson Kakeu Size Distribution of Firms and Strategic Investments in Large Markets: A Stochastic Mean Field Game Approach 14h00-15h00   25 février 2022 Marco Avella Medina Differentially private inference via noisy optimization 15h00 - 16h00   23 mars 2022 Nataniel Stevens Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests 15h00 - 16h00    Séminaires 2020-2021    Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire     11 septembre 2020 Stefan Wager Machine Learning for Causal Inference 16h-17h   9 octobre 2020 Ningyuan Chen The Use of Binary Choice Forests to Model and Estimate Discrete Choices 15h-16h   16 octobre 2020 Ozlem Ergun Optimizing Post-Disruption Response Operations to Improve Resilience of Critical Infrastructure Systems 15h-16h   23 octobre 2020 Madhu Kalimipalli Banking networks, systemic risk, and the credit cycle in emerging markets 15h-16h   5 novembre 2020 Joseph DeCarolis Developing an Open Energy Outlook for the United States Using Tools for Energy Model Optimization and Analysis (Temoa) 15h-16h   27 novembre 2020 Ilze Kalnina High-Frequency Factor Models and Regressions 15h-16h   4 décembre 2020 Bruno Feunou Risk-neutral moments based estimation of continuous time jump-diffusion models 15h-16h   22 janvier 2021 Emanuele Guidotti Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method 11h00-12h00   19 février 2021 Emily C.</description>
     </item>
     
   </channel>
