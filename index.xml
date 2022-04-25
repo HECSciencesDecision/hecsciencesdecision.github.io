@@ -6,7 +6,17 @@
     <description>Recent content in Séminaires 2022 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning and reasoning with constraint solving</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-05-10/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-05-10/</guid>
+      <description>Date: mardi 10 mai 2022 Heure: 11h00-12h00 En ligne (Zoom) Webinaire organisé conjointement avec le GÉRAD
+Résumé: Industry and society are increasingly automating processes, which requires solving constrained optimisation problems. This includes vehicle routing, demand-response planning, rostering and more. To find not just optimal solutions, but also &amp;lsquo;desirable&amp;rsquo; solution by the end user, it is increasingly important to offer tools that automatically learn from the user and the environment and that support the constraint modelling in interpretable ways.</description>
+    </item>
+    
     <item>
       <title>Toward social welfare and fairness in kidney exchange programs</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-04-28/</link>
