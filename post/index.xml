@@ -8,6 +8,16 @@
     <language>fr-ca</language>
     <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-05-10b/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-05-10b/</guid>
+      <description>Date: mardi 10 mai 2022 Heure: 12h00-13h00 Salle Transat Séminaire brownbag organisé conjointement avec le département de finance.
+Résumé: This paper formally derives an efficient estimator of the bid-ask spread from open, high, low, and close prices. The estimator is asymptotically unbiased and optimally combines the full set of price data to minimize the estimation variance. In absence of quote data, it delivers the most accurate estimates of bid-ask spreads theoretically, numerically, and empirically.</description>
+    </item>
+    
+    <item>
       <title>Learning and reasoning with constraint solving</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-05-10/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
