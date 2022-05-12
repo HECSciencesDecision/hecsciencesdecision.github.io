@@ -6,7 +6,17 @@
     <description>Recent content in hiver 2022 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Leverage Effect and Propagation</title>
+      <link>https://HECSciencesDecision.github.io/post/h2022/2022-06-10/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2022/2022-06-10/</guid>
+      <description>Date: vendredi 10 juin 2022 Heure: 11h00-12h00 Hybride, Salle Sony et Zoom Séminaire organisé conjointement avec Quantact
+Résumé: This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series.</description>
+    </item>
+    
     <item>
       <title>Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices</title>
       <link>https://HECSciencesDecision.github.io/post/h2022/2022-05-10b/</link>

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>The Leverage Effect and Propagation - Webinaires du département de sciences de la décision</title>
+    
+<meta name="description" content="Date: vendredi 10 juin 2022 Heure: 11h00-12h00 Hybride, Salle Sony et Zoom Séminaire organisé conjointement avec QuantactRésumé: This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series.">
+
+<meta property="og:title" content="The Leverage Effect and Propagation - Webinaires du département de sciences de la décision">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://HECSciencesDecision.github.io/post/h2022/2022-06-10/">
+<meta property="og:image" content="https://HECSciencesDecision.github.io/images/default.png">
+<meta property="og:site_name" content="Webinaires du département de sciences de la décision">
+<meta property="og:description" content="Date: vendredi 10 juin 2022 Heure: 11h00-12h00 Hybride, Salle Sony et Zoom Séminaire organisé conjointement avec QuantactRésumé: This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Webinaires du département de sciences de la décision">
+<meta name="twitter:url" content="https://HECSciencesDecision.github.io/post/h2022/2022-06-10/">
+<meta name="twitter:title" content="The Leverage Effect and Propagation - Webinaires du département de sciences de la décision">
+<meta name="twitter:description" content="Date: vendredi 10 juin 2022 Heure: 11h00-12h00 Hybride, Salle Sony et Zoom Séminaire organisé conjointement avec QuantactRésumé: This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series.">
+<meta name="twitter:image" content="https://HECSciencesDecision.github.io/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/HECSciencesDecision.github.io\/"
+    },
+    "headline": "The Leverage Effect and Propagation - Webinaires du département de sciences de la décision",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/HECSciencesDecision.github.io\/images\/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2022-06-10T00:00:00JST",
+    "dateModified": "2022-06-10T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Webinaires du département de sciences de la décision"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Webinaires du département de sciences de la décision",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/HECSciencesDecision.github.io\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: vendredi 10 juin 2022 Heure: 11h00-12h00 Hybride, Salle Sony et Zoom Séminaire organisé conjointement avec Quantact\nRésumé: This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series."
+  }
+</script>
+
+
+    <link href="https://HECSciencesDecision.github.io/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://HECSciencesDecision.github.io/">Webinaires du département de sciences de la décision</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/archives/">Archives</a></li>
+              
+              
+              
+              <li><a href="/">Séminaires 2022</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="https://HECSciencesDecision.github.io/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://HECSciencesDecision.github.io/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Leopoldo Catania</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <h2 class="title">The Leverage Effect and Propagation</h2>
+    <h3 class="post-meta">Leopoldo Catania </h3>
+
+  </header>
+
+  
+
+  <div class="article-body"><h4 id="date-vendredi-10-juin-2022">Date: vendredi 10 juin 2022</h4>
+<h4 id="heure-11h00-12h00">Heure: 11h00-12h00</h4>
+<h4 id="hybride-salle-sonyhttpswwwheccacampusedificescote_sainte_catherine1er_etagesalles_courssonyhtml-et-zoom">Hybride, <a href="https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/sony.html">Salle Sony</a> et Zoom</h4>
+<p>Séminaire organisé conjointement avec Quantact</p>
+<h2 id="résumé">Résumé:</h2>
+<p>This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series. We propose to modify the variance recursion of common volatility models by including an auxiliary leverage process which allows for a proper representation of the leverage effect and its propagation over time. Empirical results indicate that the inclusion of the auxiliary leverage process improves both in sample and out of sample.</p>
+<h2 id="biographie-du-conférencier">Biographie du conférencier:</h2>
+<p>Leopoldo Catania est professeur aggrégé au sein de l&rsquo;école de gestion et de sciences sociales de l&rsquo;Université d&rsquo;Aarhus au Danemark. Ses intérêts de recherche gravitent autour de l&rsquo;économétrie financière et de l&rsquo;analyse des séries chronologiques, notamment pour le développement et l&rsquo;estimations de modèles pour la gestion quantitative du risque unidimensionnel et multidimensionnel, l&rsquo;estimation de la densité prédictive de niveaux de retours, la dépendence temporelle et la volatilité. Il est titulaire d&rsquo;une maîtrise en finance de l&rsquo;Université Sapienza de Rome et d&rsquo;un doctorat en économie et finance de l&rsquo;Université de Rome II (<em>Tor Vergata</em>).</p>
+</div>
+
+  <footer class="article-footer">
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+          <aside>
+          <p><a href="https://www.hec.ca/mqg/">Département de sciences de la décision</a>, <a href="https://www.hec.ca/">HEC Montréal</a></p>
+          </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
