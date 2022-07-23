@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Almost) all of Entity Resolution</title>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-25/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-11-25/</guid>
+      <description>Date: vendredi 25 novembre 2022 Heure: Séminaire organisé conjointement avec le CRM (Statlab)
+Résumé: Whether the goal is to estimate the number of people that live in a congressional district, to estimate the number of individuals that have died in an armed conflict, or to disambiguate individual authors using bibliographic data, all these applications have a common theme — integrating information from multiple sources. Before such questions can be answered, databases must be cleaned and integrated in a systematic and accurate way, commonly known as record linkage, de-duplication, or entity resolution.</description>
+    </item>
+    
     <item>
       <title>Employee Views of Leveraged Buy-Out Transactions</title>
       <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-04/</link>
@@ -15,6 +25,15 @@
       <guid>https://HECSciencesDecision.github.io/post/a2022/2022-11-04/</guid>
       <description>Date: vendredi 4 novembre 2022 Heure: Hybride, Séminaire organisé conjointement avec Quantact et le département de finance
 Résumé: This paper offers a comprehensive view of employee satisfaction: we make use of 700,000 ratings, in addition to 500,000 written reviews posted by employees of all ranks, in different industries, types of companies, and in companies that underwent different types of ownership changes. Employee satisfaction is lower following a company acquisition; more so when it is a Leveraged Buy-Out (LBO).</description>
+    </item>
+    
+    <item>
+      <title>Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity</title>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-10-07/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-10-07/</guid>
+      <description>Date: vendredi 7 octobre 2022 Heure: 12h00-13h00 En ligne, Zoom Résumé: We consider a seller who can dynamically adjust the price of a product at the individual customer level, by utilizing information about customers&amp;rsquo; characteristics encoded as a $d$-dimensional feature vector. We assume a personalized demand model, parameters of which depend on $s$ out of the $d$ features. The seller initially does not know the relationship between the customer features and the product demand, but learns this through sales observations over a selling horizon of $T$ periods.</description>
     </item>
     
     <item>

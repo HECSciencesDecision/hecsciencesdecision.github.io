@@ -6,7 +6,17 @@
     <description>Recent content in Séminaires 2022-2023 on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Almost) all of Entity Resolution</title>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-25/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-11-25/</guid>
+      <description>Date: vendredi 25 novembre 2022 Heure: Séminaire organisé conjointement avec le CRM (Statlab)
+Résumé: Whether the goal is to estimate the number of people that live in a congressional district, to estimate the number of individuals that have died in an armed conflict, or to disambiguate individual authors using bibliographic data, all these applications have a common theme — integrating information from multiple sources. Before such questions can be answered, databases must be cleaned and integrated in a systematic and accurate way, commonly known as record linkage, de-duplication, or entity resolution.</description>
+    </item>
+    
     <item>
       <title>Employee Views of Leveraged Buy-Out Transactions</title>
       <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-04/</link>
@@ -15,6 +25,15 @@
       <guid>https://HECSciencesDecision.github.io/post/a2022/2022-11-04/</guid>
       <description>Date: vendredi 4 novembre 2022 Heure: Hybride, Séminaire organisé conjointement avec Quantact et le département de finance
 Résumé: This paper offers a comprehensive view of employee satisfaction: we make use of 700,000 ratings, in addition to 500,000 written reviews posted by employees of all ranks, in different industries, types of companies, and in companies that underwent different types of ownership changes. Employee satisfaction is lower following a company acquisition; more so when it is a Leveraged Buy-Out (LBO).</description>
+    </item>
+    
+    <item>
+      <title>Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity</title>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-10-07/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-10-07/</guid>
+      <description>Date: vendredi 7 octobre 2022 Heure: 12h00-13h00 En ligne, Zoom Résumé: We consider a seller who can dynamically adjust the price of a product at the individual customer level, by utilizing information about customers&amp;rsquo; characteristics encoded as a $d$-dimensional feature vector. We assume a personalized demand model, parameters of which depend on $s$ out of the $d$ features. The seller initially does not know the relationship between the customer features and the product demand, but learns this through sales observations over a selling horizon of $T$ periods.</description>
     </item>
     
     <item>
@@ -371,7 +390,7 @@ Biographie du conférencier: Paul McNicholas is a Professor and University Schol
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/archives/</guid>
-      <description>Séminaires 2021-2022    Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire     4 octobre 2021 Lucy Gao Selective inference on trees 15h00-16h00   29 octobre 2021 Tiffany Timbers Opinionated practices for teaching reproducibility: motivation, guided instruction and practice 15h30-16h30   5 novembre 2021 Justin Johnson Kakeu Size Distribution of Firms and Strategic Investments in Large Markets: A Stochastic Mean Field Game Approach 14h00-15h00   25 février 2022 Marco Avella Medina Differentially private inference via noisy optimization 15h00 - 16h00   23 mars 2022 Nataniel Stevens Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests 15h00 - 16h00   28 avril 2022 Margarida Carvalho Toward social welfare and fairness in kidney exchange programs 11h00 - 12h00   10 mai 2022 Tias Guns Learning and reasoning with constraint solving 11h00 - 12h00   10 mai 2022 Emanuele Guidotti Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices 12h00 - 13h00   10 juin 2022 Leopoldo Catania The Leverage Effect and Propagation 11h00 - 12h00    Séminaires 2020-2021    Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire     11 septembre 2020 Stefan Wager Machine Learning for Causal Inference 16h-17h   9 octobre 2020 Ningyuan Chen The Use of Binary Choice Forests to Model and Estimate Discrete Choices 15h-16h   16 octobre 2020 Ozlem Ergun Optimizing Post-Disruption Response Operations to Improve Resilience of Critical Infrastructure Systems 15h-16h   23 octobre 2020 Madhu Kalimipalli Banking networks, systemic risk, and the credit cycle in emerging markets 15h-16h   5 novembre 2020 Joseph DeCarolis Developing an Open Energy Outlook for the United States Using Tools for Energy Model Optimization and Analysis (Temoa) 15h-16h   27 novembre 2020 Ilze Kalnina High-Frequency Factor Models and Regressions 15h-16h   4 décembre 2020 Bruno Feunou Risk-neutral moments based estimation of continuous time jump-diffusion models 15h-16h   22 janvier 2021 Emanuele Guidotti Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method 11h00-12h00   19 février 2021 Emily C.</description>
+      <description>Séminaires 2021-2022 Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire 4 octobre 2021 Lucy Gao Selective inference on trees 15h00-16h00 29 octobre 2021 Tiffany Timbers Opinionated practices for teaching reproducibility: motivation, guided instruction and practice 15h30-16h30 5 novembre 2021 Justin Johnson Kakeu Size Distribution of Firms and Strategic Investments in Large Markets: A Stochastic Mean Field Game Approach 14h00-15h00 25 février 2022 Marco Avella Medina Differentially private inference via noisy optimization 15h00 - 16h00 23 mars 2022 Nataniel Stevens Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests 15h00 - 16h00 28 avril 2022 Margarida Carvalho Toward social welfare and fairness in kidney exchange programs 11h00 - 12h00 10 mai 2022 Tias Guns Learning and reasoning with constraint solving 11h00 - 12h00 10 mai 2022 Emanuele Guidotti Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices 12h00 - 13h00 10 juin 2022 Leopoldo Catania The Leverage Effect and Propagation 11h00 - 12h00 Séminaires 2020-2021 Date Orateur/oratrice Titre de l&amp;rsquo;exposé Horaire 11 septembre 2020 Stefan Wager Machine Learning for Causal Inference 16h-17h 9 octobre 2020 Ningyuan Chen The Use of Binary Choice Forests to Model and Estimate Discrete Choices 15h-16h 16 octobre 2020 Ozlem Ergun Optimizing Post-Disruption Response Operations to Improve Resilience of Critical Infrastructure Systems 15h-16h 23 octobre 2020 Madhu Kalimipalli Banking networks, systemic risk, and the credit cycle in emerging markets 15h-16h 5 novembre 2020 Joseph DeCarolis Developing an Open Energy Outlook for the United States Using Tools for Energy Model Optimization and Analysis (Temoa) 15h-16h 27 novembre 2020 Ilze Kalnina High-Frequency Factor Models and Regressions 15h-16h 4 décembre 2020 Bruno Feunou Risk-neutral moments based estimation of continuous time jump-diffusion models 15h-16h 22 janvier 2021 Emanuele Guidotti Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method 11h00-12h00 19 février 2021 Emily C.</description>
     </item>
     
   </channel>
