@@ -19,11 +19,11 @@ Résumé: Whether the goal is to estimate the number of people that live in a co
     
     <item>
       <title>Employee Views of Leveraged Buy-Out Transactions</title>
-      <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-04/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-02/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-11-04/</guid>
-      <description>Date: vendredi 4 novembre 2022 Heure: Hybride, Séminaire organisé conjointement avec Quantact et le département de finance
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-11-02/</guid>
+      <description>Date: mercredi 2 novembre 2022 Heure: 12h00-13h00 Hybride, Séminaire organisé conjointement avec Quantact et le département de finance
 Résumé: This paper offers a comprehensive view of employee satisfaction: we make use of 700,000 ratings, in addition to 500,000 written reviews posted by employees of all ranks, in different industries, types of companies, and in companies that underwent different types of ownership changes. Employee satisfaction is lower following a company acquisition; more so when it is a Leveraged Buy-Out (LBO).</description>
     </item>
     
@@ -35,6 +35,16 @@ Résumé: This paper offers a comprehensive view of employee satisfaction: we ma
       <guid>https://HECSciencesDecision.github.io/post/a2022/2022-10-28/</guid>
       <description>Date: vendredi 28 octobre 2022 Heure: Colloque organisé conjointement avec le CRM (Statlab)
 Résumé: Biographie du conférencier: Derek Bingham est professeur titulaire au département de statistique et de sciences actuarielles de l&amp;rsquo;Université Simon Fraser à Vancouver, où il a complété en 1999 un doctorat en statistique sous la gouverne de Randy Sitter. Dr Bingham est un spécialiste des devis expérimentaux, et travaille sur la calibration, l&amp;rsquo;émulation et la quantification de l&amp;rsquo;incertitude pour des modèles Bayésiens.</description>
+    </item>
+    
+    <item>
+      <title>Optimal and robust combination of forecasts via constrained optimization and shrinkage</title>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-10-14/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-10-14/</guid>
+      <description>Date: vendredi 14 octobre 2022 Heure: 15h-16h Colloque organisé conjointement avec Quantact
+Résumé: We introduce various methods that combine forecasts using constrained optimization with penalty. A non-negativity constraint is imposed on the weights, and several penalties are considered, taking the form of a divergence from a reference combination scheme. In contrast with most of the existing approaches, our framework performs forecast selection and combination in one step, allowing for potentially sparse combining schemes.</description>
     </item>
     
     <item>
