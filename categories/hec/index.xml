@@ -6,7 +6,16 @@
     <description>Recent content in HEC on Webinaires du département de sciences de la décision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/categories/hec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic Algorithms in the Large</title>
+      <link>https://HECSciencesDecision.github.io/post/a2022/2022-12-06/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/a2022/2022-12-06/</guid>
+      <description>Date: mardi 6 décembre 2022 Heure: 10h-11h Résumé: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD + M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit.</description>
+    </item>
+    
     <item>
       <title>(Almost) all of Entity Resolution</title>
       <link>https://HECSciencesDecision.github.io/post/a2022/2022-11-25/</link>

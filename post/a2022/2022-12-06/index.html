@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Stochastic Algorithms in the Large - Webinaires du département de sciences de la décision</title>
+    
+<meta name="description" content="Date: mardi 6 décembre 2022 Heure: 10h-11h Résumé: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD &#43; M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit.">
+
+<meta property="og:title" content="Stochastic Algorithms in the Large - Webinaires du département de sciences de la décision">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://HECSciencesDecision.github.io/post/a2022/2022-12-06/">
+<meta property="og:image" content="https://HECSciencesDecision.github.io/images/default.png">
+<meta property="og:site_name" content="Webinaires du département de sciences de la décision">
+<meta property="og:description" content="Date: mardi 6 décembre 2022 Heure: 10h-11h Résumé: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD &#43; M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Webinaires du département de sciences de la décision">
+<meta name="twitter:url" content="https://HECSciencesDecision.github.io/post/a2022/2022-12-06/">
+<meta name="twitter:title" content="Stochastic Algorithms in the Large - Webinaires du département de sciences de la décision">
+<meta name="twitter:description" content="Date: mardi 6 décembre 2022 Heure: 10h-11h Résumé: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD &#43; M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit.">
+<meta name="twitter:image" content="https://HECSciencesDecision.github.io/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/HECSciencesDecision.github.io\/"
+    },
+    "headline": "Stochastic Algorithms in the Large - Webinaires du département de sciences de la décision",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/HECSciencesDecision.github.io\/images\/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2022-12-06T00:00:00JST",
+    "dateModified": "2022-12-06T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Webinaires du département de sciences de la décision"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Webinaires du département de sciences de la décision",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/HECSciencesDecision.github.io\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: mardi 6 décembre 2022 Heure: 10h-11h Résumé: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD \u002b M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit."
+  }
+</script>
+
+
+    <link href="https://HECSciencesDecision.github.io/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://HECSciencesDecision.github.io/">Webinaires du département de sciences de la décision</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/archives/">Archives</a></li>
+              
+              
+              
+              <li><a href="/">Séminaires 2022-2023</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="https://HECSciencesDecision.github.io/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://HECSciencesDecision.github.io/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Courtney Paquette</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <h2 class="title">Stochastic Algorithms in the Large</h2>
+    <h3 class="post-meta">Courtney Paquette </h3>
+
+  </header>
+
+  
+
+  <div class="article-body"><h4 id="date-mardi-6-décembre-2022">Date: mardi 6 décembre 2022</h4>
+<h4 id="heure-10h-11h">Heure: 10h-11h</h4>
+<h4 id="heading"></h4>
+<h2 id="résumé">Résumé:</h2>
+<p>In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD + M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra equation. From this model, we identify a stability measurement, the implicit conditioning ratio (ICR), which regulates the ability of SGD+M to accelerate the algorithm. When the batch size exceeds this ICR, SGD+M converges linearly at a rate of $O(1/\sqrt{\kappa})$, matching optimal full-batch momentum (in particular performing as well as a full-batch but with a fraction of the size). For batch sizes smaller than the ICR, in contrast, SGD+M has rates that scale like a multiple of the single batch SGD rate. We give explicit choices for the learning rate and momentum parameter in terms of the Hessian spectra that achieve this performance. Finally we show this model matches performances on real data sets.</p>
+<h2 id="biographie-de-la-conférencière">Biographie de la conférencière:</h2>
+<p>Courtney Paquette est professeur adjointe à l&rsquo;université McGill et détentrice d&rsquo;une chaire en IA Canada. La recherche de Dr. Paquette est grossièrement centrée sur le devis et l&rsquo;analyse d&rsquo;algorithmes pour les problèmes d&rsquo;optimisation à grande échelle, motivés par des applications en science des données. Courtney Paquette a obtenu un doctorat en mathématiques de l&rsquo;Université de Washington en 2017, avant d&rsquo;entreprendre un stage postdoctoral à l&rsquo;Université Lehigh et l&rsquo;Université de Waterloo, cette fois en qualité de chercheuse NSF. Elle a également occupé un poste de scientifique chez Google Research, Brain Montreal (2019-2020). Sa recherche est financée par le biais de sa chaire CIFAR, par le MILA, le CRSNG et le FRQNT.</p>
+</div>
+
+  <footer class="article-footer">
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+          <aside>
+          <p><a href="https://www.hec.ca/mqg/">Département de sciences de la décision</a>, <a href="https://www.hec.ca/">HEC Montréal</a></p>
+          </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
