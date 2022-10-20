@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiver 2023 on Webinaires du département de sciences de la décision</title>
+    <link>https://HECSciencesDecision.github.io/tags/hiver-2023/</link>
+    <description>Recent content in hiver 2023 on Webinaires du département de sciences de la décision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://HECSciencesDecision.github.io/tags/hiver-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity</title>
+      <link>https://HECSciencesDecision.github.io/post/h2023/2023-02-24/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://HECSciencesDecision.github.io/post/h2023/2023-02-24/</guid>
+      <description>Date: vendredi 24 février 2023 Heure: 10h-11h Webinaire Zoom Résumé: We consider a seller who can dynamically adjust the price of a product at the individual customer level, by utilizing information about customers&amp;rsquo; characteristics encoded as a $d$-dimensional feature vector. We assume a personalized demand model, parameters of which depend on $s$ out of the $d$ features. The seller initially does not know the relationship between the customer features and the product demand, but learns this through sales observations over a selling horizon of $T$ periods.</description>
+    </item>
+    
+  </channel>
+</rss>
