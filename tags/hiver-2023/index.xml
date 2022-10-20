@@ -13,7 +13,7 @@
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://HECSciencesDecision.github.io/post/h2023/2023-02-24/</guid>
-      <description>Date: vendredi 24 février 2023 Heure: 10h-11h Webinaire Zoom Résumé: We consider a seller who can dynamically adjust the price of a product at the individual customer level, by utilizing information about customers&amp;rsquo; characteristics encoded as a $d$-dimensional feature vector. We assume a personalized demand model, parameters of which depend on $s$ out of the $d$ features. The seller initially does not know the relationship between the customer features and the product demand, but learns this through sales observations over a selling horizon of $T$ periods.</description>
+      <description>Date: vendredi 24 février 2023 Heure: 10h-11h Webinaire Zoom Résumé: We consider a seller who can dynamically adjust the price of a product at the individual customer level, by utilizing information about customers&#39; characteristics encoded as a $d$-dimensional feature vector. We assume a personalized demand model, parameters of which depend on $s$ out of the $d$ features. The seller initially does not know the relationship between the customer features and the product demand, but learns this through sales observations over a selling horizon of $T$ periods.</description>
     </item>
     
   </channel>
