@@ -2,7 +2,7 @@
 title: "À venir"
 author: "[Rosnel Sessinou](https://sites.google.com/view/rosnelsessinou)"
 date: 2023-01-20
-categories: [H23, Quantact]
+categories: [2022-2023, Quantact]
 draft: 
 room: ""
 time: 10h00

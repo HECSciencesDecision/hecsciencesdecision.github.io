@@ -2,7 +2,7 @@
 title: "Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity"
 author: "[Gah-Yi Ban](https://www.gahyiban.com/)"
 date: 2023-02-24
-categories: [H23, Zoom]
+categories: [2022-2023, Zoom]
 draft: 
 room: "Zoom"
 time: 10h00
@@ -15,4 +15,4 @@ We consider a seller who can dynamically adjust the price of a product at the in
 
 # Biographie
 
-Dr. Gah-Yi Ban est professeur aggrégée à l’école de gestion de Imperial College à Londres et anciennement de la London Business School et de l’Université du Maryland. Elle détient un doctorat en recherche opérationnelle de l’Université de Californie à Berkeley (UCB) et sert en qualité de rédactrice ajointe de Management Science, M&amp;SOM et de Operations Research Letter. Ses intérêts de recherche sont en analytique des mégadonnées, plus spécialement la prise de décision dans des environnements incertains en haute-dimension avec des applications en gestion. Ses recherches ont été couronnées du prix Best OM Paper in Operations Research award en 2021.
+Dr. Gah-Yi Ban est professeur agrégée à l’école de gestion de Imperial College à Londres et anciennement de la London Business School et de l’Université du Maryland. Elle détient un doctorat en recherche opérationnelle de l’Université de Californie à Berkeley (UCB) et sert en qualité de rédactrice ajointe de Management Science, M&amp;SOM et de Operations Research Letter. Ses intérêts de recherche sont en analytique des mégadonnées, plus spécialement la prise de décision dans des environnements incertains en haute-dimension avec des applications en gestion. Ses recherches ont été couronnées du prix Best OM Paper in Operations Research award en 2021.

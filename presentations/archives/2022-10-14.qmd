@@ -2,7 +2,7 @@
 title: "Optimal and robust combination of forecasts via constrained optimization and shrinkage"
 author: "[Frédéric Vrins](https://sites.google.com/view/fredericvrins)"
 date: 2022-10-14
-categories: [A22, Quantact]
+categories: [2022-2023, Quantact]
 draft: 
 room: "St-Hubert"
 time: 15h00

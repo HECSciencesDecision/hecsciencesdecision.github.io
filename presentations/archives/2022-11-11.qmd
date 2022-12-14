@@ -2,7 +2,7 @@
 title: "Optimal stopping mean-field games: a linear programming formulation and applications to entry-exit games in electricity markets"
 author: "[Roxana Dumitrescu](https://www.roxanadumitrescu.fr/)"
 date: 2022-11-11
-categories: [A22]
+categories: [2022-2023]
 draft: 
 room: "Zoom"
 time: 13h00

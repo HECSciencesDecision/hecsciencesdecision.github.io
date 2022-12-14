@@ -2,7 +2,7 @@
 title: "Computer Model Emulation Using Deep Gaussian Processes"
 author: "[Derek Bingham](http://people.stat.sfu.ca/~dbingham/)"
 date: 2022-10-28
-categories: [A22, Statlab]
+categories: [2022-2023, Statlab]
 draft: 
 room: "Hélène-Desmarais"
 time: 15h30

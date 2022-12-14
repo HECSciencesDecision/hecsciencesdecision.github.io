@@ -2,7 +2,7 @@
 title: "Employee Views of Leveraged Buy-Out Transactions"
 author: "[Marie Lambert](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U193807)"
 date: 2022-11-02
-categories: [A22, finance, Quantact]
+categories: [2022-2023, finance, Quantact]
 draft: 
 room: "Serge-Saucier"
 time: 12h00

@@ -3,7 +3,7 @@ title: "Optimal picking policies for e-commerce warehouses"
 author: "[Maximilian Schiffer](https://www.professoren.tum.de/en/schiffer-maximilian/)"
 date: 2019-09-10
 url: https://www.professoren.tum.de/en/schiffer-maximilian/
-categories: ["2019-2020, GERAD"]
+categories: ["2019-2020", "GERAD"]
 ---
 
 

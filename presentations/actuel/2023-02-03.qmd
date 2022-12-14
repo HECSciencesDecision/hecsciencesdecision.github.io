@@ -2,7 +2,7 @@
 title: "À venir"
 author: "[Katya Scheinberg](https://www.orie.cornell.edu/faculty-directory/katya-scheinberg)"
 date: 2023-02-03
-categories: [H23, GERAD]
+categories: [2022-2023, GERAD]
 draft: 
 room: ""
 time: 10h00

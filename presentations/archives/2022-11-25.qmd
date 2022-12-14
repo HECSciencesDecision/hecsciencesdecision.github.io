@@ -2,7 +2,7 @@
 title: "(Almost) All of Entity Resolution"
 author: "[Rebecca Steorts](https://resteorts.github.io/)"
 date: 2022-11-25
-categories: [A22, Statlab]
+categories: [2022-2023, Zoom, Statlab]
 draft: 
 room: "Zoom"
 time: 15h30

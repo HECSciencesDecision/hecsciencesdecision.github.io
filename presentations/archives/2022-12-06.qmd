@@ -2,7 +2,7 @@
 title: "Stochastic Algorithms in the Large"
 author: "[Courtney Paquette](https://cypaquette.github.io/)"
 date: 2022-12-06
-categories: [A22]
+categories: [2022-2023]
 draft: 
 room: "Hélène-Desmarais"
 time: 10h00
