@@ -1,0 +1,17 @@
+---
+title: "When does eco-efficiency rebound or backfire? An analytical model"
+author: "[Régis Chevanaz](https://sites.google.com/site/regischenavaz/home)"
+date: 2021-04-07
+url: https://sites.google.com/site/regischenavaz/home
+categories: ["2020-2021",Zoom]
+heure: "9h00"
+---
+
+# Résumé
+
+It is known that an eco-efficiency strategy, which saves resources in the production process, may be offset by a rebound effect; it may even backfire. Less known are the exact conditions under which eco-efficiency rebounds or backfires. This article fills the gap by providing an analytical model of the rebound and backfire effects. We propose an optimal control framework of dynamic pricing and eco-efficiency investment, for which eco-efficiency reduces the unit production cost and boosts the demand of environmentally concerned consumers. Results, which hold with a general demand formulation, examine the analytic conditions for the rebound and backfire effects. They also highlight the possibility of a reverse rebound effect. Such results pave the way to sounder sustainability strategies.
+
+
+# Biographie
+
+Régis Chevanaz is an associate professor of managerial economics and operations management at KEDGE Business School. His research focuses on operations management, firm micro-economics, and business analytics. He holds a PhD degree from Telecom Paris and an HDR from Université Nice Sophia Antipolis and his research has been featured notably in the European Journal of Operational Research and in Applied Economics.

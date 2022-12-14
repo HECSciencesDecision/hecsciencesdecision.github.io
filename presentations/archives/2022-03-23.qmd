@@ -1,0 +1,17 @@
+---
+title: "Comparative Probability Metrics: Using Posterior Probabilities to Account for Practical Equivalence in A/B tests"
+author: "[Nathaniel Stevens](https://uwaterloo.ca/scholar/nstevens/home)"
+date: 2022-03-23
+url: https://uwaterloo.ca/scholar/nstevens/home
+categories: ["2021-2022",Zoom]
+heure: "15h00"
+---
+
+# Résumé
+
+Online controlled experiments (i.e., A/B tests) have become an extremely valuable tool used by internet and technology companies for purposes of advertising, product development, product improvement, customer acquisition, and customer retention to name a few. The data-driven decisions that result from these experiments are typically informed by null hypothesis significance tests and analyses based on p-values. However, attention has recently been drawn to the shortcomings of hypothesis testing, and an emphasis has been placed on the development of new methodologies that overcome these shortcomings. We propose the use of posterior probabilities to facilitate comparisons that account for practical equivalence and that quantify the likelihood that a result is practically meaningful, as opposed to statistically significant. We call these posterior probabilities comparative probability metrics (CPMs). This Bayesian methodology provides a flexible and intuitive means of making meaningful comparisons by directly calculating, for example, the probability that two variants are practically equivalent, or the probability that one variant is practically superior to another. In this talk we describe a unified framework for constructing and estimating such probabilities, and we discuss a sample size determination methodology that may be used to determine how much data is required to calculate trustworthy CPMs.
+
+# Biographie
+
+Dr. Nathaniel Stevens est professeur adjoint à l'Université de Waterloo au sein du département de statistique et de science actuarielle. Après avoir complété son doctorat en 2015 à l'Université de Waterloo, il a travaillé de 2015 à 2018 à l'Université de San Francisco, où il a développé le programme de maîtrise en science des données. Nathaniel est un spécialiste des devis expérimentaux et des tests A/B. Il est actuellement directeur du programme BISRG à Waterloo et oeuvre à l'interface de la science des données et des statistiques industrielles. Le côté novateur de ses publications a été récompensé, notamment avec le prix  Søren Bisgaard en 2021 pour un article paru dans *Quality Engineering*. Nathaniel est actuellement président du groupe de Science des données de la Société statistique du Canada.
+

@@ -1,0 +1,16 @@
+---
+title: "The Use of Binary Choice Forests to Model and Estimate Discrete Choices"
+author: "[Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/)"
+date: 2020-10-09
+categories: [2020-2021,Zoom]
+url: http://individual.utoronto.ca/ningyuanchen/
+---
+
+# Résumé
+
+We show the equivalence of discrete choice models and the class of binary choice forests, which are random forests based on binary choice trees. This suggests that standard machine learning techniques based on random forests can serve to estimate discrete choice models with an interpretable output. This is confirmed by our data-driven theoretical results which show that random forests can predict the choice probability of any discrete choice model consistently, with its splitting criterion capable  of recovering preference rank lists. The framework has unique advantages: it can capture behavioral patterns such as irrationality or sequential searches; it handles nonstandard formats of training data that result from aggregation; it can measure product importance based on how frequently a random customer would make decisions depending on the presence of the product; it can also incorporate price information and customer features. Our numerical results show that using random forests to estimate customer choices represented by binary choice forests can outperform the best parametric models in synthetic and real datasets. The paper can be downloaded from [this link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430886).
+
+
+# Biographie
+
+Ningyuan Chen is assistant professor of the Department of Management at the University of Toronto, Mississauga. He received his PhD in Operations Research from Columbia University in 2015. His research interests include revenue management and dynamic pricing, networks, and statistics.

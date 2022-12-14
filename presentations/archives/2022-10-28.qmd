@@ -1,0 +1,18 @@
+---
+title: "Computer Model Emulation Using Deep Gaussian Processes"
+author: "[Derek Bingham](http://people.stat.sfu.ca/~dbingham/)"
+date: 2022-10-28
+categories: [A22, Statlab]
+draft: 
+room: "Hélène-Desmarais"
+time: 15h30
+url: http://people.stat.sfu.ca/~dbingham/
+---
+
+# Résumé
+
+Computer models are often used to explore physical systems. Increasingly, there are cases where the model is fast, the code is not readily accessible to scientists, but a large suite of model evaluations is available. In these cases, an &quot;emulator&quot; is used to stand in for the computer model. This work was motivated by a simulator for the chirp mass of binary black hole mergers where no output is observed for large portions of the input space and more than $10^6$ simulator evaluations are available. This poses two problems: (i) the need to address the discontinuity when observing no chirp mass; and (ii) performing statistical inference with a large number of simulator evaluations. The traditional approach for emulation is to use a stationary Gaussian process (GP) because it provides a foundation for uncertainty quantification for deterministic systems. We explore the impact of the choices when setting up the deep GP on posterior inference, apply the proposed approach to the real application and propose a sequential design approach for identifying new simulations.
+
+# Biographie
+
+Derek Bingham est professeur titulaire et directeur du département de statistique et de sciences actuarielles de l'Université Simon Fraser à Vancouver, où il a complété en 1999 un doctorat en statistique sous la gouverne de Randy Sitter. Dr Bingham est un spécialiste des devis expérimentaux, et travaille sur la calibration, l'émulation et la quantification de l'incertitude pour des modèles Bayésiens. Sa recherche se concentre actuellement sur le développement de modèles statistiques permettant de combiner des observations de modèles physiques avec des simulations par ordinateur à grande échelle. Derek a été professeur au département de statistique de l'Université de Michigan et titulaire d'une chaire de recherche du Canada niveau 2 en statistique industrielle de 2003 à 2013. Il a été le récipiendaire du prix CRM-SSC en statistique en 2013.

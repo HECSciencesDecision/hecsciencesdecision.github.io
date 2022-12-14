@@ -1,0 +1,18 @@
+---
+title: "(Almost) All of Entity Resolution"
+author: "[Rebecca Steorts](https://resteorts.github.io/)"
+date: 2022-11-25
+categories: [A22, Statlab]
+draft: 
+room: "Zoom"
+time: 15h30
+url: https://resteorts.github.io/
+---
+
+# Résumé
+
+Whether the goal is to estimate the number of people that live in a congressional district, to estimate the number of individuals that have died in an armed conflict, or to disambiguate individual authors using bibliographic data, all these applications have a common theme — integrating information from multiple sources. Before such questions can be answered, databases must be cleaned and integrated in a systematic and accurate way, commonly known as record linkage, de-duplication, or entity resolution. In this article, we review motivational applications and seminal papers that have led to the growth of this area. Specifically, we review the foundational work that began in the 1940’s and 50’s that have led to modern probabilistic record linkage. We review clustering approaches to entity resolution, semi- and fully supervised methods, and canonicalization, which are being used throughout industry and academia in applications such as human rights, official statistics, medicine, citation networks, among others. Finally, we discuss current research topics of practical importance. This is joint work with Olivier Binette.
+
+# Biographie
+
+Rebecca Steorts est professeure adjointe au département de sciences statistiques à l’Université Duke depuis 2015 et est affiliée au U.S. Census Bureau, où elle est mathématicienne statisticienne et responsable des accords coopératifs sur le recensement pour la résolution d’entités et la fusion d’identifiants. Elle a obtenu un doctorat en statistique à l’Université de la Floride encadrée par Malay Ghosh et a été professeure adjointe en visite à Carnegie Mellon entre 2012 et 2015, chapeautée par Stephen Fienberg. Dr. Steorts a publié une trentaine d’articles dans des revues arbitrées.

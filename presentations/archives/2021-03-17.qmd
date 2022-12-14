@@ -1,0 +1,19 @@
+---
+title: "Convex Optimization"
+author: "[Stephen P. Boyd](https://web.stanford.edu/~boyd/)"
+date: 2021-03-17
+categories: ["2020-2021", "Zoom"]
+url: https://web.stanford.edu/~boyd/
+time: "15h00"
+---
+
+# Résumé
+
+Convex optimization has emerged as useful tool for applications that include data analysis and model fitting, resource allocation, engineering design, network design and optimization, finance, and control and signal processing. After an overview of the mathematics, algorithms, and software frameworks for convex optimization, we turn to common themes that arise across applications, such as sparsity and relaxation. We describe recent work on real-time embedded convex optimization, in which small problems are solved repeatedly in millisecond or microsecond time frames.
+
+
+# Biographie
+
+Stephen P. Boyd is the Samsung Professor of Engineering, Professor of Electrical Engineering in the Information Systems Laboratory, and chair of the Electrical Engineering Department at Stanford University. His current research focus is on convex optimization applications in control, signal processing, machine learning, and finance.
+
+Professor Boyd received a PhD in EECS from U. C. Berkeley in 1985. In 1985 he joined the faculty of Stanford's Electrical Engineering Department. He is the author of many research articles and four books. His group has produced many open source tools, including CVX (with Michael Grant), CVXPY (with Steven Diamond), Convex.jl (with Madeleine Udell and others), and CVXR (with Anqi Fu and A. Narasimhan), widely used parser-solvers for convex optimization. His group's CVXGEN software is used in many applications, including the SpaceX Falcon 9 landing system. Stephen P. Boyd has received many awards and honors for his research in control systems engineering and optimization, including an ONR Young Investigator Award, a Presidential Young Investigator Award, and the AACC Donald P. Eckman Award. In 2013, he received the IEEE Control Systems Award, given for outstanding contributions to control systems engineering, science, or technology. In 2012, Michael Grant and he were given the Mathematical Optimization Society's Beale-Orchard-Hays Award, given every three years for excellence in computational mathematical programming. He is a Fellow of the IEEE, SIAM, and INFORMS, a Distinguished Lecturer of the IEEE Control Systems Society, a member of the US National Academy of Engineering (NAE), a foreign member of the Chinese Academy of Engineering (CAE), and a foreign member of the National Academy of Engineering of Korea (NAEK). He has been invited to deliver more than 90 plenary and keynote lectures at major conferences in control, optimization, signal processing, and machine learning.

@@ -1,0 +1,27 @@
+---
+title: "Séminaires à venir"
+listing:
+  id: actuel-listings
+  fields: [date, time, author, title,  room]
+  contents: "presentations/actuel/*.qmd"
+  sort: "date"
+  field-display-names:
+    time: "Heure"
+    room: "Local"
+  date-format: medium
+  type: table
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+
+Nos séminaires sont webdiffusés via la plateforme Zoom. Remplissez le formulaire [suivant](https://docs.google.com/forms/d/1QnxS8GRJaV48MGI8YbTxPvqmdV--PJDjZF4-nwdOKw8/) pour recevoir les informations de connexion par courriel.
+
+
+*Our seminars are broadcasted live on Zoom. You can [sign-up using this form](https://docs.google.com/forms/d/1QnxS8GRJaV48MGI8YbTxPvqmdV--PJDjZF4-nwdOKw8/) to get Zoom credentials by email.*
+
+::: {#actuel-listings}
+:::

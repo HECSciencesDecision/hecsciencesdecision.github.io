@@ -1,0 +1,19 @@
+---
+title: "Dynamic Optimization for Multi-Goals-Based Wealth Management"
+author: "[Sanjiv R. Das](https://www.scu.edu/business/finance/faculty/das/), [Daniel N. Ostrov](https://math.scu.edu/~dostrov/)"
+date: 2021-05-06
+url: [https://www.scu.edu/business/finance/faculty/das/,https://math.scu.edu/~dostrov/]
+categories: ["2020-2021", Zoom]
+heure: "13h30"
+---
+
+# Résumé
+
+We develop a dynamic programming methodology that seeks to maximize investor outcomes over multiple, potentially competing goals (such as upgrading a home, paying college tuition, or maintaining an income stream in retirement), even when financial resources are limited. Unlike Monte Carlo approaches currently in wide use in the wealth management industry, our approach uses investor preferences to dynamically make the optimal determination for fulfilling or not fulfilling each goal and for selecting the investor’s investment portfolio. This can be computed quickly, even for numerous investor goals spread over different or concurrent time periods, where each goal may allow for partial fulfillment or be all-or-nothing. The probabilities of attaining each (full or partial) goal under the optimal scenario are also computed, so the investor can ensure the algorithm accurately reflects their preference for the relative importance of each of their goals. These portfolio prescriptions are consistent with Prospect Theory.
+
+
+# Biographie
+
+Sanjiv Das is the William and Janice Terry Professor of Finance at Santa Clara University's Leavey School of Business. He holds post-graduate degrees in Finance (M.Phil and Ph.D. from New York University), Computer Science (M.S. from UC Berkeley), an MBA from the Indian Institute of Management, Ahmedabad, B.Com in Accounting and Economics (University of Bombay, Sydenham College), and is also a qualified Cost and Works Accountant. He is a senior editor of The Journal of Investment Management, co-editor of The Journal of Derivatives, and Associate Editor of other academic journals. Prior to being an academic, Sanjiv Das worked in the derivatives business in the Asia-Pacific region as a Vice-President at Citibank. His current research interests include: the modeling of default risk, machine learning, social networks, derivatives pricing models, portfolio theory, and venture capital. He has published over eighty articles in academic journals, and has won numerous awards for research and teaching. His recent book "Derivatives: Principles and Practice" was published in May 2010. He currently also serves as a Senior Fellow at the FDIC Center for Financial Research.
+
+Daniel N. Ostrov is a Professor of Mathematics and Computer Science at Santa Clara University. He holds a PhD in Applied Mathematics and a MS in Engineering from Brown University. His research area is Mathematical Finance, with an emphasis on using techniques from control theory and partial differential equations to analyze questions concerning optimal investment and personal finance. 

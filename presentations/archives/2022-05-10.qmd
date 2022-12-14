@@ -1,0 +1,23 @@
+---
+title: "Learning and reasoning with constraint solving"
+author: "[Tias Guns](https://people.cs.kuleuven.be/~tias.guns/)"
+date: 2022-05-10
+categories: ["2021-2022",Zoom, "GERAD"]
+url: https://people.cs.kuleuven.be/~tias.guns/
+heure: "11h00"
+---
+
+# Résumé
+
+Industry and society are increasingly automating processes, which requires solving constrained optimisation problems. This includes vehicle routing, demand-response planning, rostering and more. To find not just optimal solutions, but also 'desirable' solution by the end user, it is increasingly important to offer tools that automatically learn from the user and the environment and that support the constraint modelling in interpretable ways.
+
+In this talk I will provide an overview of three different ways in which part of the problem specification can be learned from data. This includes learning from the user (preference learning in VRP), learning from the environment (end-to-end decision focussed learning) and explanation generation, that sit at the intersection of learning and reasoning.
+
+As part of this work, we are building a modern constraint programming language called CPMpy(http://cpmpy.readthedocs.io) that eases integration of multiple constraint solving paradigms with machine learning and other scientific python libraries. I will shortly highlight its possibilities beyond the above cases, as well as our larger vision of conversational human-aware technology for optimisation.
+
+# Biographie
+
+Tias Guns is Associate Professor at the DTAI lab of KU Leuven, in Belgium. His research is at the intersection of machine learning and combinatorial optimisation.
+
+Tias' expertise is in the hybridisation of machine learning systems with constraint solving systems, more specifically building constraint solving systems that reason both on explicit knowledge as well as knowledge learned from data. For example learning the preferences of planners in vehicle routing, and solving new routing problems taking both operational constraints and learned human preferences into account; or building energy price predictors specifically for energy-aware scheduling, and planning maintenance crews based on expected failures. He was awarded a prestigious EU ERC Consolidator grant in 2021 to work on conversational human-aware technology for optimisation.
+

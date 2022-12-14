@@ -1,0 +1,17 @@
+---
+title: "Opinionated practices for teaching reproducibility: motivation, guided instruction and practice"
+author: "[Tiffany Timbers](https://www.tiffanytimbers.com/)"
+date: 2021-10-29
+categories: ["2020-2021",Zoom, Statlab]
+url: https://www.tiffanytimbers.com/
+heure: "15h30"
+---
+
+# Résumé
+
+ In the data science courses at the University of British Columbia, we define data science as the study, development and practice of reproducible and auditable processes to obtain insight from data. While reproducibility is core to our definition, most data science learners enter the field with other aspects of data science in mind, for example predictive modelling, which is often one of the most interesting topic to novices. This fact, along with the highly technical nature of the industry standard reproducibility tools currently employed in data science, present out-ofthe gate challenges in teaching reproducibility in the data science classroom. Put simply, students are not as intrinsically motivated to learn this topic, and it is not an easy one for them to learn. What can a data science educator do? Over several iterations of teaching courses focused on reproducible data science tools and workflows, we have found that providing extra motivation, guided instruction and lots of practice are key to effectively teaching this challenging, yet important subject. Here we present examples of how we deeply motivate, effectively guide and provide ample practice opportunities to data science students to effectively engage them in learning about this topic.
+
+
+# Biographie
+
+Tiffany Timbers est professeure adjointe volet enseignement au département de statistique de l'Université de la Colombie-Britannique (UBC) à Vancouver et co-directrice du programme de maîtrise en science des données (Vancouver) de UBC. Dans le cadre de son travail, elle enseigne et supervise le développement du cursus pour une application responsable de la science des données appliquée à des problèmes pratiques. Parmi ses cours favoris figure un cours des cycles supérieurs sur le développement de logiciels collaboratifs, qui traite de création de paquets R et Python à l'aide des outils et d'un flux de travail moderne.

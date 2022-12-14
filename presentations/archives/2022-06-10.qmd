@@ -1,0 +1,16 @@
+---
+title: "The Leverage Effect and Propagation"
+author: "[Leopoldo Catania](https://pure.au.dk/portal/en/persons/leopoldo-catania(5d29f2ff-3942-4a3d-a74d-006b55ae3836).html)"
+date: 2022-06-10
+url: https://pure.au.dk/portal/en/persons/leopoldo-catania(5d29f2ff-3942-4a3d-a74d-006b55ae3836).html
+categories: ["2021-2022","Quantact"]
+heure: "11h00"
+---
+
+# Résumé
+
+This paper proposes a new way to measure the leverage effect and its propagation over time. We also show that, with respect to the newly proposed measure, common volatility models like the GJRGARCH, the Exponential GARCH, and the asymmetric SV can be inaccurate to correctly represent the leverage effect and its propagation for financial time series. We propose to modify the variance recursion of common volatility models by including an auxiliary leverage process which allows for a proper representation of the leverage effect and its propagation over time. Empirical results indicate that the inclusion of the auxiliary leverage process improves both in sample and out of sample.
+
+# Biographie
+
+Leopoldo Catania est professeur agrégé au sein de l'école de gestion et de sciences sociales de l'Université d'Aarhus au Danemark. Ses intérêts de recherche gravitent autour de l'économétrie financière et de l'analyse des séries chronologiques, notamment pour le développement et l'estimation de modèles pour la gestion quantitative du risque unidimensionnel et multidimensionnel, l'estimation de la densité prédictive de niveaux de retours, la dépendance temporelle et la volatilité. Il est titulaire d'une maîtrise en finance de l'Université Sapienza de Rome et d'un doctorat en économie et finance de l'Université de Rome II (*Tor Vergata*).

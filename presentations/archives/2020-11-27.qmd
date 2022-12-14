@@ -1,0 +1,32 @@
+---
+title: "High-Frequency Factor Models and Regressions"
+author: "[Ilze Kalnina](https://www.ilzekalnina.net/)"
+date: 2020-11-27
+categories: ["2020-2021",Zoom]
+url: https://www.ilzekalnina.net/
+---
+
+# Résumé
+
+We consider a nonparametric time series regression model. Our
+framework allows precise estimation of betas without the usual
+assumption of betas being piecewise constant. This property makes our
+framework particularly suitable to study individual stocks. We provide
+an inference framework for all components of the model, including
+idiosyncratic volatility and idiosyncratic jumps. Our empirical
+analysis investigates the largest data set in the high-frequency
+literature. First, we use all traded stocks from NYSE, AMEX, and
+NASDAQ stock markets for 1996-2017 to construct the five Fama-French
+factors and the momentum factor at the 5-minute frequency. Second, we
+document the key empirical properties across all the stocks and the
+new factors, and apply the nonparametric time series regression model
+with the new high-frequency Fama-French factors. We find that this
+factor model is effective in explaining the systematic component of
+the risk of individual stocks. In addition, we provide evidence that
+idiosyncratic jumps are related to idiosyncratic events such as
+earnings disappointments. This is joint work with Y. Ait-Sahalia and D. Xiu
+
+
+# Biographie
+
+Ilze Kalnina is an Assistant Professor of Economics at the Poole College of Management of North Carolina State University (NCSU). She researches nonparametric estimation and inference for volatility with high frequency data. Prior to joining NC State, Kalnina was an assistant professor at the University of Montreal. Kalnina received a doctorate degree in economics from the London School of Economics.

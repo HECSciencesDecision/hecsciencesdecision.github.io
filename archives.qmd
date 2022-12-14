@@ -1,0 +1,19 @@
+---
+title: "Séminaires passés"
+listing:
+  id: archives-listings
+  fields: [date, author, title]
+  contents: "presentations/archives/*.qmd"
+  sort: "date desc"
+  date-format: medium
+  type: table
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+
+::: {#archives-listings}
+:::

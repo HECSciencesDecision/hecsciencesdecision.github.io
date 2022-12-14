@@ -1,0 +1,25 @@
+---
+title: "Size Distribution of Firms and Strategic Investments in Large Markets: A Stochastic Mean Field Game Approach"
+author: "[Justin Johnson Kakeu](https://sites.google.com/site/johnsonkakeu2016/)"
+date: 2021-11-05
+categories: ["2021-2022",Zoom]
+heure: "14h00"
+---
+
+# Résumé
+
+This paper analyzes how firm size heterogeneity distribution affects capacity investments and profits in large competitive markets with both idiosyncratic and aggregate uncertainty shocks.  We use a mean field game approach where firms' sizes are heterogeneously distributed and decisions on capacity investments (addition) or disinvestments (withdrawal) are optimally made over time to enhance prospects of earning profits under uncertainty. A mean field game framework allows for consideration of markets with a large population of interacting firms. The dynamic of capacity decisions in the market equilibrium is characterized through a fully coupled system of forward-backward stochastic differential equations (FBSDEs), one evolving forward in time and one evolving backward in time. The equilibrium behavior of firms is solved in closed form and market dashboards are used to illustrate how changes in market uncertainty shocks affect the evolution of the size distribution of firms, the market prices, and the distribution of profits. Numerical simulations of the dynamics of the stochastic competitive market with a large number of firms suggest the followings: 
+
+1. There is a positive relation between growth rates and the size of firms, with larger firms growing faster.
+2. The equilibrium size distribution of all firms exhibits two tails.
+3. The equilibrium size distribution of large firms is highly asymmetrical and skewed toward the right.
+4. The size distribution for small-sized firms is highly skewed to the left.
+5. A bimodal shape appears in the size distribution of medium-sized firms.
+6. There is a U-shaped relation between the size category and the variance of growth rates in the sense that the variance of large-sized and small-sized firms is greater than the variance of medium-sized firms.
+
+
+# Biographie
+
+Dr. Justin Johnson Kakeu is an Assistant Professor of Economics at University of Prince Edward Island (UPEI) in Canada. He holds a Ph.D. in Economics from University of Montreal (Canada), a Master’s in Statistics and Economics, and a Master’s in Applied Mathematics and Mechanics. Before joining the University of Prince Edward, he taught at Georgia Institute of Technology and Morehouse College in USA.
+
+His research interests include Energy and Environmental Economics, Dynamic Macroeconomics, Sustainable Finance and Investing, Uncertainty in Resource and Climate Change Policies.

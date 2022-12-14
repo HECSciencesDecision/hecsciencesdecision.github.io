@@ -1,0 +1,16 @@
+---
+title: "Differentially private inference via noisy optimization"
+author: "[Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home)"
+date: 2022-02-25
+categories: ["2021-2022","Zoom", "Stat ULaval"]
+heure: "15h00"
+url: https://sites.google.com/site/marcoavellamedina/home
+---
+
+# Résumé
+
+We propose a general optimization-based framework for computing differentially private M-estimators and a new method for constructing differentially private confidence regions. Firstly, we show that robust statistics can be used in conjunction with noisy gradient descent or noisy Newton methods in order to obtain optimal private estimators with global linear or quadratic convergence, respectively. We establish local and global convergence guarantees, under both local strong convexity and self-concordance, showing that our private estimators converge with high probability to a nearly optimal neighborhood of the non-private M-estimators. Secondly, we tackle the problem of parametric inference by constructing differentially private estimators of the asymptotic variance of our private M-estimators. This naturally leads to approximate pivotal statistics for constructing confidence regions and conducting hypothesis testing. We demonstrate the effectiveness of a bias correction that leads to enhanced small-sample empirical performance in simulations. We illustrate the benefits of our methods in several numerical examples.
+
+# Biographie
+
+Dr. Marco Avella est professeur adjoint en prétitularisation conditionnelle au département de statistique de l'Université Columbia. Il a complété un doctorat au sein du *Geneva School of Economics and Management* (GSEM) à l'Université de Genève sous la direction d'Elvezio Ronchetti et un stage postdoctoral au MIT. Son domaine d'expertise principal se situe à l'intersection de la statistique robuste, l'apprentissage automatique et les données en haute dimension. 

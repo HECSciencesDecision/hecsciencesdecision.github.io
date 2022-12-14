@@ -1,0 +1,18 @@
+---
+title: "Optimal stopping mean-field games: a linear programming formulation and applications to entry-exit games in electricity markets"
+author: "[Roxana Dumitrescu](https://www.roxanadumitrescu.fr/)"
+date: 2022-11-11
+categories: [A22]
+draft: 
+room: "Zoom"
+time: 13h00
+url: https://www.roxanadumitrescu.fr/
+---
+
+# Résumé
+
+In this talk, we present recent results on the linear programming approach to stopping mean-field games in a general setting. This relaxed control approach allows to prove existence results under weak assumptions, and lends itself well to numerical implementation. We consider mean-field game problems where the representative agent chooses the optimal time to exit the game, where the instantaneous reward function and the coefficients of the state process may depend on the distribution of the other agents. Furthermore, we establish the equivalence between mean-field games equilibria obtained by the linear programming approach and the ones obtained via other approaches used in the previous literature. We then present a fictious play algorithm to approximate the mean-field game population dynamics in the context of the linear programming approach. Finally, we give an application of the theoretical and numerical contributions introduced in the first part of the talk to an entry-exit game in electricity markets. The talk is based on several works, joint with R. Aïd, G. Bouveret, M. Leutscher and P. Tankov.
+
+# Biographie
+
+Roxana Dumitrescu is an associate professor at King’s College London, United Kingdom. She is a leading expert in stochastic control and mean-field games, with publications in leading journals in the field. She has been recently working on optimal stopping mean-field games, a new trend in the literature, and developed together with several co-authors a new approach to solve them based on a linear-programming formulation.  Prior to the appointment at King’s College, she has been an associate researcher in the Mathematics Department at Humboldt University in Berlin and a member of the reasearch training group “Stochastic Analysis with Applications in Finance, Physics and Biology” (2015-2016). She defended her PhD in Mathematics at University Dauphine, in Paris (2015). During her PhD studies, she was a researcher in the Financial Mathematics Group at the National French Institute for Research in Computer Science and Automatics Control, INRIA, France.

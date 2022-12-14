@@ -1,0 +1,18 @@
+---
+title: "Stochastic Algorithms in the Large"
+author: "[Courtney Paquette](https://cypaquette.github.io/)"
+date: 2022-12-06
+categories: [A22]
+draft: 
+room: "Hélène-Desmarais"
+time: 10h00
+url: https://cypaquette.github.io/
+---
+
+# Résumé
+
+In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of stochastic optimization algorithms (e.g., stochastic gradient descent (SGD) and momentum (SGD + M)) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra equation. From this model, we identify a stability measurement, the implicit conditioning ratio (ICR), which regulates the ability of SGD+M to accelerate the algorithm. When the batch size exceeds this ICR, SGD+M converges linearly at a rate of $O(1/\sqrt{\kappa})$, matching optimal full-batch momentum (in particular performing as well as a full-batch but with a fraction of the size). For batch sizes smaller than the ICR, in contrast, SGD+M has rates that scale like a multiple of the single batch SGD rate. We give explicit choices for the learning rate and momentum parameter in terms of the Hessian spectra that achieve this performance. Finally we show this model matches performances on real data sets.
+
+# Biographie
+
+Courtney Paquette est professeur adjointe à l’université McGill et détentrice d’une chaire en IA Canada. La recherche de Dr. Paquette est grossièrement centrée sur le devis et l’analyse d’algorithmes pour les problèmes d’optimisation à grande échelle, motivés par des applications en science des données. Courtney Paquette a obtenu un doctorat en mathématiques de l’Université de Washington en 2017, avant d’entreprendre un stage postdoctoral à l’Université Lehigh et l’Université de Waterloo, cette fois en qualité de chercheuse NSF. Elle a également occupé un poste de scientifique chez Google Research, Brain Montreal (2019-2020). Sa recherche est financée par le biais de sa chaire CIFAR, par le MILA, le CRSNG et le FRQNT.

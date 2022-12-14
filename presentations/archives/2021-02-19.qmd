@@ -1,0 +1,16 @@
+---
+title: "Joint integrative analysis of multiple data sources with correlated vector outcomes"
+author: "[Emily Hector](https://www.emilyhector.com/)"
+date: 2021-02-19
+categories: ["2020-2021","Zoom","McGill Stat"]
+url: https://www.emilyhector.com/
+heure: "15h30"
+---
+
+# Résumé
+
+We consider the joint estimation of regression parameters from multiple potentially heterogeneous data sources with correlated vector outcomes. The primary goal of this joint integrative analysis is to estimate covariate effects on all vector outcomes through a marginal regression model in a statistically and computationally efficient way. We present a general class of distributed estimators that can be implemented in a parallelized computational scheme. Modelling, computational and theoretical challenges are overcome by first fitting a local model within each data source and then combining local results while accounting for correlation between data sources. This approach to distributed estimation and inference is formulated using Hansen’s generalized method of moments but implemented via an asymptotically equivalent and communication-efficient meta-estimator. We show both theoretically and numerically that the proposed method yields efficiency improvements and is computationally fast. We illustrate the proposed methodology with the joint integrative analysis of metabolic pathways in a large multi-cohort study.
+
+# Biographie
+
+Emily Hector is an Assistant Professor of Statistics at North Carolina State University. She earned a B.Sc. in mathematics (Honours Probability and Statistics) from McGill University and a PhD in Biostatistics at the University of Michigan, working under the supervision of Peter X.-K. Song. Her current methodological interests revolve around data integration, especially of correlated, heterogeneous, high-dimensional data, estimating equations and the generalized method of moments and methods that leverage recent computing and algorithmic developments, with applications in metabolomics, neuroimaging and wearable devices. 

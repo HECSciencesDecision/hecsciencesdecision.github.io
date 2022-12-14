@@ -1,0 +1,19 @@
+---
+title: "Some statistical applications of generative neural networks"
+author: "[Mu Zhu](https://sites.google.com/site/mzhu95/)"
+date: 2020-01-09
+categories: ["2019-2020"]
+url: https://sites.google.com/site/mzhu95/
+heure: "15h30" 
+---
+
+# Résumé
+
+We present some examples of how the field of statistics can benefit from the Deep Learning movement. First, using generative neural networks (GNNs), we are now able to produce quasi Monte Carlo samples from "almost any" copula model. For example, we can do this even for mixtures of copulas with singular components. Second, using GNNs, we can now model and, most importantly, forecast multivariate time series without having to restrict ourselves to using only a few parametric copula families to describe the underlying multivariate dependence. We have empirical evidence that a better dependence model does indeed translate into better forecasts. 
+
+This is joint work with Marius Hofert and Avinash Prasad.
+
+
+# Biographie
+
+Mu Zhu is a professor of statistics at the University of Waterloo and a Fellow of the American Statistical Association. A Phi Beta Kappa graduate of Harvard University, he obtained his PhD from Stanford University. His research has received a prestigious Discovery Accelerator Supplement Award from the Natural Sciences and Engineering Research Council of Canada (NSERC). Mu's main research interests are machine learning, multivariate analysis, and network data analysis, with their applications to bioinformatics, health informatics, and data mining. 

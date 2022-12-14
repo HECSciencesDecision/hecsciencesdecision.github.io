@@ -1,0 +1,15 @@
+---
+title: "Developing an Open Energy Outlook for the United States Using Tools for Energy Model Optimization and Analysis (Temoa)"
+author: "[Joseph DeCarolis](https://www.ccee.ncsu.edu/people/jfdecaro/)"
+date: 2020-11-05
+categories: ["2020-2021",Zoom]
+url: https://www.ccee.ncsu.edu/people/jfdecaro/
+---
+
+# Résumé
+Climate change coupled with rapid technological innovation is driving large scale change in the global energy system. Computer models of the energy system – referred to as energy optimization system models – provide a way to examine future energy system evolution, test the effects of proposed policy, and explore the role of future uncertainty. In this talk, I will describe Tools for Energy Model Optimization and Analysis (Temoa), an open source energy system optimization model designed to conduct rigorous uncertainty analysis. Temoa is currently being used to develop an Open Energy Outlook for the United States, which aims to apply best practices of policy-focused energy system modeling, ensure transparency, build a networked community, and work towards a common purpose: examining possible U.S. energy system futures to inform energy and climate policy efforts.
+
+
+# Biographie
+
+Dr. DeCarolis is a Professor in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. His research program is focused on addressing energy and environmental challenges at the intersection of engineering, economics, and public policy. His primary focus is the development and application of energy system models to analyze how energy technology and public policy can shape a sustainable future. He received his PhD in Engineering and Public Policy from Carnegie Mellon University in 2004 and is the recipient of an NSF CAREER Award.

@@ -1,0 +1,21 @@
+---
+title: "Media and the stock market: Their relationship and abnormal dynamics around earnings announcements"
+author: "[Keven Bluteau](https://kevenbluteau.com/)"
+date: 2019-10-16
+url: https://kevenbluteau.com/
+categories: [2019-2020]
+---
+
+# Résumé
+
+This paper investigates the abnormal tone dynamics of media news articles about firms near
+earnings announcements and how it relates to earnings results and the stock market. We document a 
+post-earnings abnormal tone drift, suggesting inertia in the media opinion. Also, we find 
+that negative cumulative abnormal tone at the earnings events predicts a subsequent stock price 
+reversal. Higher investor's attention, due to event coverage by the three type of sources (i.e., 
+newswire, newspaper, web publications), amplifies the reversal. Finally, a high level of abnormal 
+share turnover at those events suggests that the reversal is due to overreacting investors.
+
+# Biographie
+
+Keven Bluteau has a joint Ph.D. in finance and business economics from the University of Neuchâtel and Vrije Universiteit Brussel. His research focuses on volatility modeling and sentiment analysis applied to finance and business problems. His current work is centered around the field of "Sentometrics", which lies at the intersection of sentiment analysis and econometrics. Keven is also a proponent of the open-source philosophy. He is the co-author of several R packages that are actively used in the industry, as well as in the research community.

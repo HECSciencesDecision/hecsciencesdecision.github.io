@@ -1,0 +1,18 @@
+---
+title: "Employee Views of Leveraged Buy-Out Transactions"
+author: "[Marie Lambert](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U193807)"
+date: 2022-11-02
+categories: [A22, finance, Quantact]
+draft: 
+room: "Serge-Saucier"
+time: 12h00
+url: https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U193807
+---
+
+# Résumé
+
+This paper offers a comprehensive view of employee satisfaction: we make use of 700,000 ratings, in addition to 500,000 written reviews posted by employees of all ranks, in different industries, types of companies, and in companies that underwent different types of ownership changes. Employee satisfaction is lower following a company acquisition; more so when it is a Leveraged Buy-Out (LBO). However, there is significant heterogeneity. Our first key finding is that previous ownership type is the main source of heterogeneity for employee satisfaction. A large decrease is observed for Public-to-Private transactions only. The employee drop in satisfaction in these types of transactions is four times larger than in a traditional M&amp;A. We do not find however any difference between Private-to-Private transactions and regular M&amp;As. We conducted a Latent Dirichlet Allocation analysis on about 500,000 written cons reviews and show that for Public-to-Private transactions, employees complain specifically about layoffs, restructuring and cost cutting as well as about the management team. However, these employees also complain less about the operations or their benefits which were a problem before the transaction.
+
+# Biographie
+
+Marie Lambert has a joint Ph.D. in Finance from the Universities of Liège and Luxembourg (2010). She is Full Professor and Vice-Dean for Research at HEC Liège - Management School of the University of Liège. She leads the track “Banking and Asset Management” of the master in management and teaches courses on Asset Management, Alternative Investments, Corporate Finance and Financial Modeling. Marie is also Affiliate Professor at EDHEC Business School (Nice) and at Paris Dauphine as well as a Research Associate at the EDHEC Risk Institute and a research fellow of the Quantitative Management Initiative. She is an Associate Editor of Global Finance Journal, Credit and Capital Markets, and Applied Finance Letters. She sits at the management board of the BENELUX Corporate Finance Network. Marie has developed a research expertise in asset pricing models, market anomalies, investment styles (value, growth investing), and hedge funds. Her work has been published in international peer-reviewed journals and has been presented to leading academic and professional conferences. Her current research interests lie in sustainable finance (e.g., climate risk pricing, disagreement in the measurement of firm sustainable ratings, performance analysis of sustainable investments) and private equity.

@@ -1,0 +1,19 @@
+---
+title: "Tail risk and style dependence in the fund industry: A multivariate extreme value approach"
+author: "[Linda Mhalla](https://lindamhalla.netlify.com/)"
+date: 2020-03-05
+categories: ["2019-2020"]
+url: https://lindamhalla.netlify.com/
+heure: "15h30"
+---
+
+# Résumé
+
+In this paper, we study the connectedness between extreme losses of hedge funds, a crucial feature for systemic risk management. To do so, we exploit cross-sections of hedge funds monthly returns grouped by investment styles, and build a time- varying measure of tail dependence across styles. Relying on extreme value theory and regression techniques, we study the dynamics of the tail dependencies between fund styles conditional on factors reflecting the economic uncertainty and the stock market performance. The resulting tail dependence measures are used to construct a time-varying network between extreme losses of the various investment styles. We show that during a crisis period, while the extremal dependence between some pairs of investment styles remains stable, other pairs show a striking increase of their extremal connectedness. Our results highlight that a proactive regulatory framework should account for the dynamic nature of the tail dependence and its link with financial stress.
+
+This is a joint work with Julien Hambuckers and Marie Lambert. 
+
+
+# Biographie
+
+Linda Mhalla is a postdoctoral researcher at HEC Montréal. She did her studies in Mathematics and Statistics at EPFL and completed her PhD in 2018 from the University of Geneva, under the supervision of Prof. Valérie Chavez-Demoulin and Prof. Elvezio Ronchetti. Her research interests are in extreme value theory, tail dependence modelling, and causal inference. She is the recipient of a postdoctoral fellowship from the Swiss National Science Foundation.

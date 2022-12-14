@@ -1,0 +1,15 @@
+---
+title: "Optimizing the design of textual indices: Impression management and Sentometrics"
+author: "[Kris Boudt](https://research.vu.nl/en/persons/kmr-boudt)"
+date: 2019-10-11
+url: https://research.vu.nl/en/persons/kmr-boudt
+categories: ["2019-2020, finance"]
+---
+
+# Résumé
+
+Textual sentiment analysis requires to select relevant texts and design weighting schemes to aggregate the intra-textual, across-text and across-time polarity expressed in textual communications. The selection and weighting decisions need to be optimized for the intended use case and account for the underlying data features like impression management by the author and the non i.i.d. nature of the textual data. The seminar will combine an overview of methodology together with application to CEO letters and media articles.
+
+# Biographie
+
+Kris Boudt is professor of finance and econometrics at Ghent University, Vrije Universiteit Brussel and Vrije Universiteit Amsterdam. He is part of the core team at Sentometrics. He teaches the online courses "Introduction to portfolio analysis in R" and "GARCH models in R" at Datacamp. He is also affiliated with the KU Leuven and an invited lecturer at the University of Illinois in Chicago, Renmin University, SWUFE and the University of Aix-Marseille. Kris Boudt obtained his PhD in 2008 for his developments in the modelling and estimation of financial risk under a non-normal distribution. He has published his research in the Journal of Econometrics, Journal of Portfolio Management, Journal of Statistical Software, and the Review of Finance, among others. Kris Boudt received several awards for outstanding research and refereeing and is an active contributor to the open source community.

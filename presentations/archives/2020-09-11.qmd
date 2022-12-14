@@ -1,0 +1,17 @@
+---
+title: "Machine Learning for Causal Inference"
+author: "[Stefan Wager](https://web.stanford.edu/~swager/index.html)"
+url: https://web.stanford.edu/~swager/index.html
+date: 2020-09-11
+categories: [2020-2021, Zoom, Statlab]
+---
+
+
+# Résumé
+
+Given advances in machine learning over the past decades, it is now possible to accurately solve difficult non-parametric prediction problems in a way that is routine and reproducible. In this talk, I'll discuss how machine learning tools can be rigorously integrated into observational study analyses, and how they interact with classical statistical ideas around randomization, semiparametric modeling, double robustness, etc. I'll also survey some recent advances in methods for treatment heterogeneity. When deployed carefully, machine learning enables us to develop causal estimators that reflect an observational study design more closely than basic linear regression based methods.
+
+# Biographie
+
+Stefan Wager is an assistant professor of Operations, Information, and Technology at Stanford University. He completed a PhD in statistics at the same university in 2016 with Brad Efron and Guenther Walther, and spent a year as a postdoctoral researcher at Columbia University.
+His research focuses on adapting ideas from machine learning to statistical problems that arise in scientific applications. His research interests are broad anc include causal inference, non-parametric statistics, uses of subsampling for data analysis, and empirical Bayes methods. 

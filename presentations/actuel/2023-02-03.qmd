@@ -1,0 +1,18 @@
+---
+title: "À venir"
+author: "[Katya Scheinberg](https://www.orie.cornell.edu/faculty-directory/katya-scheinberg)"
+date: 2023-02-03
+categories: [H23, GERAD]
+draft: 
+room: ""
+time: 10h00
+url: https://www.orie.cornell.edu/faculty-directory/katya-scheinberg
+---
+
+# Résumé
+
+
+
+# Biographie
+
+Katya Scheinberg is a full professor in the School of Operations Research and Information Engineering at Cornell. She joined the ORIE faculty after serving as the Harvey E. Wagner Endowed Chair Professor at the Department of Industrial and Systems Engineering at Lehigh University. She was also a co-director of Lehigh Institute on Data, Intelligent Systems and Computation. Professor Scheinberg was born in Moscow, Russia, and earned her undergraduate degree in operations research from the Lomonosov Moscow State University in 1992 and then received her Ph.D. in operations research from Columbia in 1997. She was a research staff member at the IBM T.J. Watson Research Center for over a decade, where she worked on various applied and theoretical problems in optimization.

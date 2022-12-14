@@ -1,0 +1,20 @@
+---
+title: "À venir"
+author: "[Rosnel Sessinou](https://sites.google.com/view/rosnelsessinou)"
+date: 2023-01-20
+categories: [H23, Quantact]
+draft: 
+room: ""
+time: 10h00
+url: https://sites.google.com/view/rosnelsessinou
+---
+
+# Résumé
+
+
+
+# Biographie
+
+Rosnel Sessinou est actuellement stagiaire postdoctoral à HEC Montréal. Il est détenteur d’un doctorat en sciences économiques de l’Université Aix-Marseille. Ses intérêts de recherche portent sur l’économétrie, la finance, l’apprentissage statistique et la statistique en haute-dimension.
+
+

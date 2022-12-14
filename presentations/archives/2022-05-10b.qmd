@@ -1,0 +1,16 @@
+---
+title: "Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices"
+author: "[Emanuele Guidotti](https://guidotti.dev/)"
+date: 2022-05-10
+categories: ["2021-2022","finance"]
+url: https://guidotti.dev/
+heure: "12h00"
+---
+
+# Résumé
+
+[This paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3892335) formally derives an efficient estimator of the bid-ask spread from open, high, low, and close prices. The estimator is asymptotically unbiased and optimally combines the full set of price data to minimize the estimation variance. In absence of quote data, it delivers the most accurate estimates of bid-ask spreads theoretically, numerically, and empirically. The estimator is easy to calculate and has a broad applicability in empirical finance. 
+
+# Biographie
+
+Emanuele Guidotti est doctorant en finance à l'Université de Neuchâtel spécialisé dans la tarification empirique des actifs. Il est également chercheur associé au CREST, Japan Science and Technology Agency depuis 2017 au sein du projet YUIMA, une équipe internationale de recherche qui oeuvre à développer un environnement complet pour l'estimation et la simulation d'équations différentielles stochastiques. Il est également partenaire au sein de Algo Finance Sagl, une jeune pousse spécialisé dans la création de logiciels et d'algorithmes en finance pour le secteur de la gestion d'actifs. Emanuele enseigne à titre de professeur associé à l'Université de Milan au sein du programme de maîtrise en science des données et économie. Emanuele détient une licence en physique et une maîtrise en économie et en finance quantitive, toutes deux décernées par l'Université de Milan cum laude.
