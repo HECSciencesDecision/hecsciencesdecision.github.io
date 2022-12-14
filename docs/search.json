@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Séminaires à venir",
     "section": "",
-    "text": "Our seminars are broadcasted live on Zoom. You can sign-up using this form to get Zoom credentials by email.\n\n\n\n\n\n\nDate\n\n\nHeure\n\n\nInvité(e)\n\n\nTitre de l’exposé\n\n\nLocal\n\n\n\n\n\n\n20 janv. 2023\n\n\n10h00\n\n\nRosnel Sessinou\n\n\nÀ venir\n\n\n\n\n\n\n3 févr. 2023\n\n\n10h00\n\n\nKatya Scheinberg\n\n\nÀ venir\n\n\n\n\n\n\n24 févr. 2023\n\n\n10h00\n\n\nGah-Yi Ban\n\n\nPersonalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity\n\n\nZoom\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Our seminars are broadcasted live on Zoom. You can sign-up using this form to get Zoom credentials by email.\n\n\n\n\n\n\nDate\n\n\nHeure\n\n\nInvité(e)\n\n\nTitre de l’exposé\n\n\nLocal\n\n\n\n\n\n\n20 janv. 2023\n\n\n10h00\n\n\nRosnel Sessinou\n\n\nPrecision Least Squares: Estimation and Inference in High-Dimensional Linear Regression Models\n\n\nsalle BMO\n\n\n\n\n3 févr. 2023\n\n\n10h00\n\n\nKatya Scheinberg\n\n\nÀ venir\n\n\n\n\n\n\n24 févr. 2023\n\n\n10h00\n\n\nGah-Yi Ban\n\n\nPersonalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity\n\n\nZoom\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "presentations/actuel/2023-02-03.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "presentations/actuel/2023-01-20.html",
     "href": "presentations/actuel/2023-01-20.html",
-    "title": "À venir",
+    "title": "Precision Least Squares: Estimation and Inference in High-Dimensional Linear Regression Models",
     "section": "",
     "text": "Biographie\nRosnel Sessinou est actuellement stagiaire postdoctoral à HEC Montréal. Il est détenteur d’un doctorat en sciences économiques de l’Université Aix-Marseille. Ses intérêts de recherche portent sur l’économétrie, la finance, l’apprentissage statistique et la statistique en haute-dimension."
   },

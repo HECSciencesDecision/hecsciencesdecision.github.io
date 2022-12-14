@@ -1,15 +1,17 @@
 ---
-title: "À venir"
+title: "Precision Least Squares: Estimation and Inference in High-Dimensional Linear Regression Models"
 author: "[Rosnel Sessinou](https://sites.google.com/view/rosnelsessinou)"
 date: 2023-01-20
 categories: [2022-2023, Quantact]
-draft: 
-room: ""
+draft: false
+room: "[salle BMO](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/bmo.html)"
 time: 10h00
 url: https://sites.google.com/view/rosnelsessinou
 ---
 
 # Résumé
+
+As the least squares estimator can be cast to depend only on the precision matrix, we show that a consistent estimator of the latter can be directly used to obtain an expression of the former, even in high-dimensional regression problems where the number of covariates can be larger than the sample size. Since bias can still occur when using consistent regularized precision matrix estimators, we show how to construct a nearly unbiased least squares estimator irrespective of the sparsity within the data generating process. We call this the *precision least squares* estimator and show that it is asymptotically Gaussian and delivers uniformly valid inference. We employ precision least squares to estimate the predictive connectedness among the daily asset returns of 88 global banks. We find evidence that such connections drastically decrease during crisis periods. Network density (modularity) is then proposed as an empirical measure of crisis proximity.
 
 
 
