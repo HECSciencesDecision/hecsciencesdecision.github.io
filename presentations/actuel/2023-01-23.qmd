@@ -1,0 +1,22 @@
+---
+title: "Records Analysis in Climate Attribution"
+author: "[Philippe Naveau](https://www.lsce.ipsl.fr/Pisp/philippe.naveau/)"
+date: 2023-01-23
+categories: [2022-2023, Quantact]
+draft: false
+room: "salle à déterminer"
+time: 10h00
+url: https://www.lsce.ipsl.fr/Pisp/philippe.naveau/
+---
+
+# Résumé
+
+Numerical climate models are complex and combine a large number of physical processes. They are key tools in quantifying the relative contribution of potential anthropogenic causes (e.g., the current increase in greenhouse gases) on high-impact atmospheric variables like heavy rainfall or temperatures. These so-called climate extreme event attribution problems are particularly challenging in a multivariate context, that is, when the atmospheric variables are measured on a possibly high-dimensional grid. In addition, global climate models like any in sillico numerical experiments are affected by different types of bias.
+In this talk, I will discuss about how to combine to two statistical theories to assess causality in the context of extreme event attribution. In addition, the question of uncertainties quantification that remains a challenge in any climate attribution analysis will be explored from various directions. In particular, a simple model bias correction step for records will described in details. To illustrate our approach, we infer emergence times in precipitation from the CMIP5 and CMIP6 archives.
+
+This is joint work with Anna Kiriliouk, Paula Gonzalez Soulivanh Thao and Julien Worms.
+
+
+# Biographie
+
+Philippe Naveau est chercheur scientifique senior au Laboratoire des Sciences du Climat et de l’Environnement du CNRS à Gif-sur-Yvette (Saclay, France). Il travaille notamment sur la détection et l'attribution d'événements extrêmes. Phillipe a obtenu un doctorat en statistique de *Colorado State University* en 1998 sous la direction de R. Tweedie et R. Davis et a travaillé à University of Boulder et NCAR avant de rejoindre le CNRS.
