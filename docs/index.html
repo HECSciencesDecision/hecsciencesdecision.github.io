@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.163">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -110,7 +110,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archives.html">Séminaires passés</a>
+    <a class="nav-link" href="./archives.html">
+ <span class="menu-text">Séminaires passés</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -136,6 +137,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -217,7 +219,24 @@ salle à déterminer
 <td class="listing-room">
 </td>
 </tr>
-<tr data-index="3" data-categories="2022-2023,Zoom" data-listing-date-sort="1677214800000" data-listing-file-modified-sort="1671032951219" data-listing-reading-time-sort="1.715" data-listing-title-sort="Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity" data-listing-filename-sort="2023-02-24.qmd">
+<tr data-index="3" data-categories="2022-2023,finance,Quantact" data-listing-date-sort="1675832400000" data-listing-file-modified-sort="1672855791663" data-listing-reading-time-sort="1.435" data-listing-title-sort="Court Shopping, Pro-Debtor Bias, and Bankruptcy Outcomes" data-listing-filename-sort="2023-02-08.qmd">
+<td class="listing-date">
+8 févr. 2023
+</td>
+<td class="listing-time">
+12h00
+</td>
+<td class="listing-author">
+<a href="https://researchportal.vub.be/en/persons/kris-boudt">Kris Boudt</a>
+</td>
+<td class="listing-title">
+<a href="./presentations/actuel/2023-02-08.html" class="title">Court Shopping, Pro-Debtor Bias, and Bankruptcy Outcomes</a>
+</td>
+<td class="listing-room">
+<a href="https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/xerox.html">salle Xerox Canada</a>
+</td>
+</tr>
+<tr data-index="4" data-categories="2022-2023,Zoom" data-listing-date-sort="1677214800000" data-listing-file-modified-sort="1671032951219" data-listing-reading-time-sort="1.715" data-listing-title-sort="Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity" data-listing-filename-sort="2023-02-24.qmd">
 <td class="listing-date">
 24 févr. 2023
 </td>
@@ -287,7 +306,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copié");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copié");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -323,24 +359,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

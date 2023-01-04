@@ -1,0 +1,19 @@
+---
+title: "Court Shopping, Pro-Debtor Bias, and Bankruptcy Outcomes"
+author: "[Kris Boudt](https://researchportal.vub.be/en/persons/kris-boudt)"
+date: 2023-02-08
+categories: [2022-2023, finance, Quantact]
+draft: 
+room: "[salle Xerox Canada](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/xerox.html)"
+time: 12h00
+url: https://researchportal.vub.be/en/persons/kris-boudt
+---
+
+# Résumé
+
+The Bankruptcy Venue Reform Act of 2021 requires large corporations to file for bankruptcy in their principle place of business or where significant assets are located. We study the impact of this bill on the firm’s chances to emerge successfully from bankruptcy, and on the leniency of court judges in grating motions that affect the debtor’s access to cash, access to credit and control of the reorganization plan. We use these three dimensions to quantify the effective pro-debtor bias of Chapter 11 bankruptcy judges based on their decisions within the first 120 days of a voluntary Chapter 11 reorganization of large, publicly held companies between 2004 and 2020. We find a positive association between court shopping and pro-debtor bias, but no effect on firm survival. Our results suggest that the refiling rate can be improved by providing more opportunities to creditors to be involved in the reorganization plan.
+
+
+# Biographie
+
+Kris Boudt is professor of finance and econometrics at Ghent University, Vrije Universiteit Brussel and Vrije Universiteit Amsterdam. He is part of the core team at Sentometrics. He teaches the online courses “Introduction to portfolio analysis in R” and “GARCH models in R” at Datacamp. He is also affiliated with the KU Leuven and an invited lecturer at the University of Illinois in Chicago, Renmin University, SWUFE and the University of Aix-Marseille. Kris Boudt obtained his PhD in 2008 for his developments in the modelling and estimation of financial risk under a non-normal distribution. He has published his research in the Journal of Econometrics, Journal of Portfolio Management, Journal of Statistical Software, and the Review of Finance, among others. Kris Boudt received several awards for outstanding research and refereeing and is an active contributor to the open source community.
