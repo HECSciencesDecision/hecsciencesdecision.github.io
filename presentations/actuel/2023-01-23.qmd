@@ -4,7 +4,7 @@ author: "[Philippe Naveau](https://www.lsce.ipsl.fr/Pisp/philippe.naveau/)"
 date: 2023-01-23
 categories: [2022-2023, Quantact]
 draft: false
-room: "salle à déterminer"
+room: "[salle Saine Marketing](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/saine-marketing.html)"
 time: 10h00
 url: https://www.lsce.ipsl.fr/Pisp/philippe.naveau/
 ---
