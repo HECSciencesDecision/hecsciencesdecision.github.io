@@ -1,0 +1,19 @@
+---
+title: "Efficient evaluation of prediction rules in semi-supervised settings under stratified sampling"
+author: "[Jessica Gronsbell](https://sites.google.com/view/jgronsbell/)"
+date: 2023-04-07
+categories: [2022-2023]
+draft: 
+room: "salle à déterminer"
+time: 10h00
+url: https://sites.google.com/view/jgronsbell/
+---
+
+# Résumé
+
+In many contemporary applications, large amounts of unlabelled data are readily available while labelled examples are limited. There has been substantial interest in semi-supervised learning (SSL) which aims to leverage unlabelled data to improve estimation or prediction. However, current SSL literature focuses primarily on settings where labelled data are selected uniformly at random from the population of interest. Stratified sampling, while posing additional analytical challenges, is highly applicable to many real-world problems. Moreover, no SSL methods currently exist for estimating the prediction performance of a fitted model when the labelled data are not selected uniformly at random. In this paper, we propose a two-step SSL procedure for evaluating a prediction rule derived from a working binary regression model based on the Brier score and overall misclassification rate under stratified sampling. In step I, we impute the missing labels via weighted regression with nonlinear basis functions to account for stratified sampling and to improve efficiency. In step II, we augment the initial imputations to ensure the consistency of the resulting estimators regardless of the specification of the prediction model or the imputation model. The final estimator is then obtained with the augmented imputations. We provide asymptotic theory and numerical studies illustrating that our proposals outperform their supervised counterparts in terms of efficiency gain. Our methods are motivated by electronic health record (EHR) research and validated with a real data analysis of an EHR-based study of diabetic neuropathy.
+
+
+# Biographie
+
+Dr. Jessica Gronsbell est professeure adjointe au département de statistique à l'Université de Toronto. Ses intérêts de recherche sont centrés sur le développement des méthodes statistiques et d'algorithme d'apprentissage automatique pour les dossiers médicaux électroniques et les données médicales mobiles. Avant de rejoindre l'Université de Toronto, Jessica a reçu un baccalauréat en mathématiques appliquées à l'Université de la Californie (Berkeley) et un doctorat en biostatistique sous la direction de Tianxi Cai à l'Université Harvard. Elle a ensuite fait un stage postdoctoral avec Lu Tian à Stanford et passé quelques années comme scientifique des données dans le groupe *Mental Health Research and Development group* au sein du groupe *Verily Life Sciences* chez Alphabet.

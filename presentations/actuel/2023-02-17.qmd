@@ -1,0 +1,19 @@
+---
+title: "Autoregressive conditional betas"
+author: "[Sébastien Laurent](https://slaurent.pagesperso-orange.fr/)"
+date: 2023-02-17
+categories: [2022-2023, Quantact]
+draft: 
+room: "salle à déterminer"
+time: 10h00
+url: https://slaurent.pagesperso-orange.fr/
+---
+
+# Résumé
+
+[This paper](https://slaurent.pagesperso-orange.fr/pdf/ACB_new.pdf) introduces an autoregressive conditional beta (ACB) model that allows regressions with dynamic betas (or slope coefficients) and residuals with GARCH conditional volatility. The model fits in the quasi score-driven approach recently pro- posed in the literature, and it is semi-parametric in the sense that the distributions of the innovations are not necessarily specified. The time-varying betas are allowed to depend on past shocks and exogenous variables. We establish the existence of a stationary solution for the ACB model, the invertibility of the score-driven filter for the time-varying betas, and the asymptotic properties of one-step and multistep QMLEs for the new ACB model. The finite sample properties of these estimators are studied by means of an extensive Monte Carlo study. Finally, we also propose a strategy to test for the constancy of the conditional betas. In a financial application, we find evidence for time-varying conditional betas and highlight the empirical relevance of the ACB model in a portfolio and risk management empirical exercise. This is joint work with Francisco Blasques and Christian Francq.
+
+
+# Biographie
+
+Dr. Sébastien Laurent est professeur titulaire en économétrie à l'école d'économie d'Aix-Marseille (AMSE) et membre de l'Institut d'administration des entreprises (IAE). Son expertise de recherche est en économétrie financière et computationnelle. Il est détenteur d'une maîtrise et d'un doctorat en économétrie financière de l'Université Maastricht. Il est l'auteur de 42 publications dans des revues avec comités de relecture et co-éditeur du *Handbook of Volatility Models and Their Applications* paru en 2012.
