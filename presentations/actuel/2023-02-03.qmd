@@ -1,18 +1,19 @@
 ---
-title: "À venir"
+title: "Overview of adaptive stochastic optimization methods."
 author: "[Katya Scheinberg](https://www.orie.cornell.edu/faculty-directory/katya-scheinberg)"
 date: 2023-02-03
 categories: [2022-2023, GERAD]
 draft: 
-room: ""
+room: "salle à déterminer"
 time: 10h00
 url: https://www.orie.cornell.edu/faculty-directory/katya-scheinberg
 ---
 
 # Résumé
 
-
+Recently a variety of stochastic variants of adaptive methods have been developed and analyzed. These include stochastic step search, trust region and cubicly regularized Newton methods. Such methods adapt the step size parameter and use it to dictate the accuracy required or stochastic approximations. The requirements on stochastic approximations are, thus, also adaptive and in principle can be biased and even inconsistent. The step size parameters in these method can increase and decrease based on the perceived progress, but unlike the deterministic case they are not bounded away from zero. This creates obstacles in complexity analysis of such methods. We will show how by viewing such algorithms as stochastic processes with martingale behavior we  can derive bounds on expected complexity that also apply in high probability. We also show that it is possible to derive a lower bound on step size parameters in high probability for the methods in this general framework. We will discuss various stochastic settings, where the framework easily applies,  such as expectation minimization, black box and simulation optimization, expectation minimization with corrupt samples, etc.
 
 # Biographie
 
-Katya Scheinberg is a full professor in the School of Operations Research and Information Engineering at Cornell. She joined the ORIE faculty after serving as the Harvey E. Wagner Endowed Chair Professor at the Department of Industrial and Systems Engineering at Lehigh University. She was also a co-director of Lehigh Institute on Data, Intelligent Systems and Computation. Professor Scheinberg was born in Moscow, Russia, and earned her undergraduate degree in operations research from the Lomonosov Moscow State University in 1992 and then received her Ph.D. in operations research from Columbia in 1997. She was a research staff member at the IBM T.J. Watson Research Center for over a decade, where she worked on various applied and theoretical problems in optimization.
+Dr. Katya Scheinberg is a Professor and Director of Graduate Studies at the School of Operations Research and Information Engineering at Cornell University.  Prior to joining Cornell she was the Harvey E. Wagner Endowed Chair Professor at the Industrial and Systems Engineering Department at Lehigh University.
+She attended Moscow University for her undergraduate studies and received her PhD degree from Columbia University. She worked at the IBM T.J. Watson Research Center as a research staff member for over a decade before joining Lehigh in 2010. Katya’s main research areas are related to developing practical algorithms (and their theoretical analysis) for various problems in continuous optimization, such as convex optimization, derivative free optimization, machine learning, quadratic programming, etc. She is an Informs Fellow, a recipient of the Lagrange Prize from  SIAM and MOS, the Farkas Prize from Informs Optimization Society and the Outstanding Simulation Publication award from Informs Simulation Society.  Katya is currently the editor-in-chief of Mathematics of Operations Research, and co-editor of Mathematical Programming. She served as  the Chair of SIAM Activity Group on Optimization from 2020 until 2022.

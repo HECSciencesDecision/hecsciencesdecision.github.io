@@ -1,0 +1,16 @@
+---
+title: "À déterminer"
+author: "[Karim Barigou](https://karimbarigou.com/)"
+date: 2023-02-24
+categories: [2022-2023, Quantact]
+draft: 
+room: "salle à déterminer"
+time: 10h00
+url: https://karimbarigou.com/
+---
+
+# Résumé
+
+# Biographie
+
+Dr. Karim Barigou est professeur adjoint de sciences actuarielles à l'Université Laval à Québec. Il était précédemment chercheur postdoctoral à l'ISFA (Université Lyon 1) suite à la complétion d'un Ph.D. en Business Economics de l'université KU Leuven en septembre 2019 sous la direction de Jan Dhaene. Ses intérêts de recherche sont à l'interface entre l'assurance vie et la finance quantitative.
