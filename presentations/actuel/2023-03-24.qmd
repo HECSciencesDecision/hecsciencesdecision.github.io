@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Derivatives under market impact: Disentangling cost and information"
 author: "[Karim Barigou](https://karimbarigou.com/)"
 date: 2023-02-24
 categories: [2022-2023, Quantact]
@@ -10,6 +10,9 @@ url: https://karimbarigou.com/
 ---
 
 # Résumé
+
+This paper studies the role of market impact in option pricing theory through the non-restrictive case study of the existence of a large trader. Under market impact, the standard Black-Scholes model and unique risk-neutral pricing theory are no more applicable. We postulate then that there are two sides to the story: i) the transaction costs and ii) the information of the large trader about its own activity.
+To disentangle these two factors, we define a hypothetical trader called the insider trader who has the same level of information as the large trader but does not bear any transaction costs. We show that there exist a set of probability measures, which we call information-neutral probabilities under which the discounted asset is a martingale for the insider trader. We then derive the optimal cost hedging program for the large trader and emphasize the importance of avoiding any market manipulation in the optimal hedge problem so that it does not become inherent to the model. We conclude with pricing models and numerical examples for both the large and insider trader.
 
 # Biographie
 

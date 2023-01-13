@@ -4,7 +4,7 @@ author: "[Katya Scheinberg](https://www.orie.cornell.edu/faculty-directory/katya
 date: 2023-02-03
 categories: [2022-2023, GERAD]
 draft: 
-room: "salle à déterminer"
+room: "[salle Xerox Canada](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/xerox.html)"
 time: 10h00
 url: https://www.orie.cornell.edu/faculty-directory/katya-scheinberg
 ---
