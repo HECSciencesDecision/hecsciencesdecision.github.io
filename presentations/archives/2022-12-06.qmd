@@ -4,7 +4,7 @@ author: "[Courtney Paquette](https://cypaquette.github.io/)"
 date: 2022-12-06
 categories: [2022-2023]
 draft: 
-room: "Hélène-Desmarais"
+room: "salle Hélène-Desmarais"
 time: 10h00
 url: https://cypaquette.github.io/
 ---

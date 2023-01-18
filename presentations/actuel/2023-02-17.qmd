@@ -4,7 +4,7 @@ author: "[Sébastien Laurent](https://slaurent.pagesperso-orange.fr/)"
 date: 2023-02-17
 categories: [2022-2023, Quantact]
 draft: 
-room: "salle à déterminer"
+room: "[salle Hélène-Desmarais](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: 10h00
 url: https://slaurent.pagesperso-orange.fr/
 ---
