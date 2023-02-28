@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Gah-Yi Ban">
+<meta name="author" content="Jessica Gronsbell">
 
-<title>Séminaires de sciences de la décision - Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity</title>
+<title>Séminaires de sciences de la décision - Efficient evaluation of prediction rules in semi-supervised settings under stratified sampling</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,7 +59,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -93,10 +92,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Personalized Dynamic Pricing with Machine Learning: High Dimensional Features and Heterogeneous Elasticity</h1>
+      <h1 class="title">Efficient evaluation of prediction rules in semi-supervised settings under stratified sampling</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">2022-2023</div>
-                <div class="quarto-category">Zoom</div>
               </div>
                   </div>
   </div>
@@ -107,14 +105,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Invité(e)</div>
       <div class="quarto-title-meta-contents">
-               <p><a href="https://www.gahyiban.com/">Gah-Yi Ban</a> </p>
+               <p><a href="https://sites.google.com/view/jgronsbell/">Jessica Gronsbell</a> </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Date</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">24 février 2023</p>
+        <p class="date">14 avril 2023</p>
       </div>
     </div>
     
@@ -134,11 +132,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
-<p>We consider a seller who can dynamically adjust the price of a product at the individual customer level, by utilizing information about customers’ characteristics encoded as a <span class="math inline">\(d\)</span>-dimensional feature vector. We assume a personalized demand model, parameters of which depend on <span class="math inline">\(s\)</span> out of the <span class="math inline">\(d\)</span> features. The seller initially does not know the relationship between the customer features and the product demand, but learns this through sales observations over a selling horizon of <span class="math inline">\(T\)</span> periods. We prove that the seller’s expected regret, i.e., the revenue loss against a clairvoyant who knows the underlying demand relationship, is at least of order <span class="math inline">\(s\sqrt{T}\)</span>% under any admissible policy. We then design a near-optimal pricing policy for a “semi-clairvoyant” seller (who knows which <span class="math inline">\(s\)</span> of the <span class="math inline">\(d\)</span> features are in the demand model) that achieves an expected regret of order <span class="math inline">\(s\sqrt{T}\log T\)</span>. We extend this policy to a more realistic setting where the seller does not know the true demand predictors, and show that this policy has an expected regret of order <span class="math inline">\(s\sqrt{T} (\log d＋\log T)\)</span>, which is also near-optimal. Finally, we test our theory on simulated data and on a data set from an online auto loan company in the United States. On both data sets, our experimentation-based pricing policy is superior to intuitive and/or widely-practiced customized pricing methods such as myopic pricing and segment-then-optimize policies. Furthermore, our policy improves upon the loan company’s historical pricing decisions by 47% in expected revenue over a six-month period.</p>
+<p>In many contemporary applications, large amounts of unlabelled data are readily available while labelled examples are limited. There has been substantial interest in semi-supervised learning (SSL) which aims to leverage unlabelled data to improve estimation or prediction. However, current SSL literature focuses primarily on settings where labelled data are selected uniformly at random from the population of interest. Stratified sampling, while posing additional analytical challenges, is highly applicable to many real-world problems. Moreover, no SSL methods currently exist for estimating the prediction performance of a fitted model when the labelled data are not selected uniformly at random. In this paper, we propose a two-step SSL procedure for evaluating a prediction rule derived from a working binary regression model based on the Brier score and overall misclassification rate under stratified sampling. In step I, we impute the missing labels via weighted regression with nonlinear basis functions to account for stratified sampling and to improve efficiency. In step II, we augment the initial imputations to ensure the consistency of the resulting estimators regardless of the specification of the prediction model or the imputation model. The final estimator is then obtained with the augmented imputations. We provide asymptotic theory and numerical studies illustrating that our proposals outperform their supervised counterparts in terms of efficiency gain. Our methods are motivated by electronic health record (EHR) research and validated with a real data analysis of an EHR-based study of diabetic neuropathy.</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
-<p>Dr.&nbsp;Gah-Yi Ban est professeur agrégée à l’école de gestion de Imperial College à Londres et anciennement de la London Business School et de l’Université du Maryland. Elle détient un doctorat en recherche opérationnelle de l’Université de Californie à Berkeley (UCB) et sert en qualité de rédactrice ajointe de Management Science, M&amp;SOM et de Operations Research Letter. Ses intérêts de recherche sont en analytique des mégadonnées, plus spécialement la prise de décision dans des environnements incertains en haute-dimension avec des applications en gestion. Ses recherches ont été couronnées du prix Best OM Paper in Operations Research award en 2021.</p>
+<p>Dr.&nbsp;Jessica Gronsbell est professeure adjointe au département de statistique à l’Université de Toronto. Ses intérêts de recherche sont centrés sur le développement des méthodes statistiques et d’algorithme d’apprentissage automatique pour les dossiers médicaux électroniques et les données médicales mobiles. Avant de rejoindre l’Université de Toronto, Jessica a reçu un baccalauréat en mathématiques appliquées à l’Université de la Californie (Berkeley) et un doctorat en biostatistique sous la direction de Tianxi Cai à l’Université Harvard. Elle a ensuite fait un stage postdoctoral avec Lu Tian à Stanford et passé quelques années comme scientifique des données dans le groupe <em>Mental Health Research and&nbsp;Development group</em> au sein du groupe <em>Verily Life Sciences</em> chez Alphabet.</p>
 
 
 </section>

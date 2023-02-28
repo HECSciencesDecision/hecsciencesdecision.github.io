@@ -1,11 +1,11 @@
 ---
 title: "Efficient evaluation of prediction rules in semi-supervised settings under stratified sampling"
 author: "[Jessica Gronsbell](https://sites.google.com/view/jgronsbell/)"
-date: 2023-04-07
+date: 2023-04-14
 categories: [2022-2023]
 draft: 
-room: "salle à déterminer"
-time: 10h00
+room: "[salle Xerox-Canada](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/xerox.html)"
+time: 13h30
 url: https://sites.google.com/view/jgronsbell/
 ---
 
