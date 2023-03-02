@@ -1,0 +1,19 @@
+---
+title: "Consensus and Dissensus in Multi-population Multi-agent Systems"
+author: "[Tamer Başar](http://tamerbasar.csl.illinois.edu/)"
+date: 2023-05-18
+categories: [2022-2023,"Chaire de théorie des jeux et gestion"]
+draft: 
+room: "à déterminer"
+time: "11h00"
+url: http://tamerbasar.csl.illinois.edu/
+---
+
+# Résumé
+
+The talk will start with a general overview of mean field games approach to decision making in multi-agent dynamical systems in both model-based and model-free settings and discuss connections to finite-population games. Following this general introduction, the talk will focus on the structured setting of discrete-time infinite-horizon linear-quadratic-Gaussian dynamic games, where the players are partitioned into finitely-many populations with an underlying graph topology --- a framework motivated by paradigms where consensus and dissensus co-exist. Mean field games approach will be employed to arrive at approximate Nash equilibria, and learning algorithms will be presented for the model-free setting, along with sample complexity analysis.
+
+
+# Biographie
+
+Tamer Başar est titulaire émérite de la chaire dotée Swanlund et professeur émérite au *Center for Advanced Study* du département d'ingénierie électrique et informatique de l'Université de l'Illinois à Urbana-Champaign. Il est également professeur de recherche au *Coordinated Science Laboratory* et au *Information Trust Institute* et directeur exécutif de *Illinois at Singapore Pte. Ltd*. Dr.  Başar est détenteur d'un Ph.D. de l'Université Yale. Il est le (co-)auteur de près de 1000 publications dans les domaines du contrôle optimal, robuste et adaptif, stochastique, de la théorie de l'estimation et des jeux dynamiques. Il est également l'auteur de l'ouvrage *Dynamic Noncooperative Game Theory*, coauteur de *Game Theory for Next Generation Wireless and Communication Networks: Modeling, Analysis, and Design* et (co-)éditeur de plusieurs ouvrages de référence dans le domaine. Tamer Başar a reçu de nombreux prix durant sa carrière: il est notamment membre de l'académie nationale d'ingénierie des États-Unis et fellow de l'IEEE depuis 1983. Une [biographie complète](http://tamerbasar.csl.illinois.edu/bio.html) est disponible en ligne.

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Titre à déterminer"
 author: "[Serge Darolles](https://dauphine.psl.eu/recherche/cvtheque/darolles-serge)"
 date: 2023-10-13
 categories: [2023-2024]
