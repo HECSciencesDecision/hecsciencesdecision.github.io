@@ -4,7 +4,7 @@ author: "[Mohamad Elmasri](https://sites.google.com/view/mohamadelmasri)"
 date: 2023-03-17
 categories: [2022-2023]
 draft: 
-room: "à déterminer"
+room: "[salle Société canadienne des postes](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/postes.html)"
 time: 11h00
 url: https://sites.google.com/view/mohamadelmasri
 ---
