@@ -1,0 +1,18 @@
+---
+title: "Predictive inference for travel time on transportation networks"
+author: "[Mohamad Elmasri](https://sites.google.com/view/mohamadelmasri)"
+date: 2023-03-17
+categories: [2022-2023]
+draft: 
+room: "à déterminer"
+time: 11h00
+url: https://sites.google.com/view/mohamadelmasri
+---
+
+# Résumé
+
+Recent statistical methods fitted on large-scale GPS data can provide accurate estimations of the expected travel time between two points. However, little is known about the distribution of travel time, which is key to decision-making across a number of logistic problems. With sufficient data, single road-segment travel time can be well approximated. The challenge lies in understanding how to aggregate such information over a route to arrive at the route-distribution of travel time. We develop a novel statistical approach to this problem. We show that, under general conditions, without assuming a distribution of speed, travel time divided by route distance follows a Gaussian distribution with route-invariant population mean and variance. We develop efficient inference methods for such parameters and propose asymptotically tight population prediction intervals for travel time. Using road-level information (e.g., traffic flow), we further develop a trip-specific Gaussian-based predictive distribution, resulting in tight prediction intervals for short and long trips. Our methods, implemented in an R package, are illustrated in a real-world case study using mobile GPS data, showing that our trip-specific and population intervals both achieve the 95% theoretical coverage levels. Compared to alternative approaches, our trip-specific predictive distribution achieves (a) the theoretical coverage at every level of significance, (b) tighter prediction intervals, (c) less predictive bias, and (d) more efficient estimation and prediction procedures. This makes our approach promising for low-latency, large-scale transportation applications.
+
+# Biographie
+
+Dr. Mohamad Elmasri est stagiaire postdoctoral au sein du département de statistique de l'Université de Toronto, financé par une bourse du CRSNG. Il était précédemment chercheur au sein de l'équipe *ETA & Routing* chez Lyft et postdoctorant au MILA et à HEC Montréal. Ses intérêts de recherche sont en statistique bayésienne et computationnelle, notamment pour l'analyse de réseaux et les modèles graphiques. Mohamad a complété son doctorat à McGill avec David Stephens et travaillé au sein de l'UNESCO.

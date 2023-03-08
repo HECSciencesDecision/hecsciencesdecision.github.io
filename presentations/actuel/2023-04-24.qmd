@@ -1,9 +1,9 @@
 ---
-title: "Titre à confirmer"
+title: "Spatial scale-aware tail dependence modeling for high-dimensional spatial extremes"
 author: "[Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/)"
 date: 2023-04-24
 categories: [2022-2023]
-draft: true
+draft:
 room: "à déterminer"
 time: 10h00
 url: https://www.stat.colostate.edu/~bshaby/
@@ -12,7 +12,9 @@ url: https://www.stat.colostate.edu/~bshaby/
 # Résumé
 
 
+Extreme events over large spatial domains like the contiguous United States may exhibit highly heterogeneous tail dependence characteristics, yet most existing spatial extremes models yield only one dependence class over the entire spatial domain. To accurately characterize `storm dependence' in analysis of extreme events, we propose a mixture  model that achieves flexible dependence properties and allows high-dimensional inference for extremes of spatial processes. We modify the popular random scale construction that multiplies a (transformed) Gaussian random field by a single radial variable; that is, we add non-stationarity to the Gaussian process while allowing the radial variable to vary smoothly across space. As the level of extremeness increases, this single model exhibits both long-range asymptotic independence and short-range weakening dependence strength that can lead to either asymptotic dependence or independence.
+
 # Biographie
 
-Ben Shaby est professeur aggrégé au département de statistique du *Colorado State University* depuis 2019, en provenance de Pennsylvania State. Ses intérêts de recherche gravitent autour des modèles Bayésiens pour les données spatio-temporelles extrêmes. Dr. Shaby a reçu un doctorat de Cornell aavec David Ruppert et Marty Wells avant de compléter des stages postdoctoraux à SAMSI, Duke et à l'Université de la Californie à Berkeley avec Cari Kaufman. Ben a reçu un CAREER Award de la NSF en 2019.
+Dr. Ben Shaby est professeur aggrégé au département de statistique du *Colorado State University* depuis 2019, en provenance de Pennsylvania State. Ses intérêts de recherche gravitent autour des modèles Bayésiens pour les données spatio-temporelles extrêmes. Dr. Shaby a reçu un doctorat de Cornell encadré par David Ruppert et Marty Wells avant de compléter des stages postdoctoraux à SAMSI, Duke et à l'Université de la Californie à Berkeley avec Cari Kaufman. Ben a reçu un CAREER Award de la NSF en 2019.
 

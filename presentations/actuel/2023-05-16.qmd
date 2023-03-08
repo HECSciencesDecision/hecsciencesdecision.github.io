@@ -1,0 +1,18 @@
+---
+title: "Titre à déterminer"
+author: "[Jocelyn Martel](https://faculty.essec.edu/cv/fr-martel-jocelyn/)"
+date: 2023-05-16
+categories: [2022-2023]
+draft: 
+room: "à déterminer"
+time: "11h00"
+url: https://faculty.essec.edu/cv/fr-martel-jocelyn/
+---
+
+# Résumé
+
+
+
+# Biographie
+
+Dr. Jocelyn Martel est professeur titulaire au département de finance de l'école de gestion ESSEC depuis 2012 et spécialiste de l'économétrie financière. Son champ d'expertise est en théorie financière, faillites, restructurations et évaluations d'entreprises. Il est co-directeur de la chaire Amundi en gestion du risque et des actifs. Il a défendu son habilitation à diriger des recherches à Cergy-Pontoise en 2008 et a obtenu une maîtrise et un doctorat en économie de l'Université de Montréal.
