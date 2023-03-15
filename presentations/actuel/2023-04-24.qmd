@@ -3,7 +3,7 @@ title: "Spatial scale-aware tail dependence modeling for high-dimensional spatia
 author: "[Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/)"
 date: 2023-04-24
 categories: [2022-2023]
-draft: true
+draft: 
 room: "à déterminer"
 time: 10h00
 url: https://www.stat.colostate.edu/~bshaby/
