@@ -4,7 +4,7 @@ author: "[Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/)"
 date: 2023-04-24
 categories: [2022-2023]
 draft: 
-room: "à déterminer"
+room: "[salle Esdras-Minville](https://www.hec.ca/campus/edifices/cote_sainte_catherine/4e_etage/salles/esdras-minville.html)"
 time: 10h00
 url: https://www.stat.colostate.edu/~bshaby/
 ---
@@ -17,4 +17,5 @@ Extreme events over large spatial domains like the contiguous United States may 
 # Biographie
 
 Dr. Ben Shaby est professeur aggrégé au département de statistique du *Colorado State University* depuis 2019, en provenance de Pennsylvania State. Ses intérêts de recherche gravitent autour des modèles Bayésiens pour les données spatio-temporelles extrêmes. Dr. Shaby a reçu un doctorat de Cornell encadré par David Ruppert et Marty Wells avant de compléter des stages postdoctoraux à SAMSI, Duke et à l'Université de la Californie à Berkeley avec Cari Kaufman. Ben a reçu un CAREER Award de la NSF en 2019.
+
 
