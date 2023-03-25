@@ -4,7 +4,7 @@ author: "[Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/)"
 date: 2023-04-24
 categories: [2022-2023]
 draft: 
-room: "[salle Esdras-Minville](https://www.hec.ca/campus/edifices/cote_sainte_catherine/4e_etage/salles/esdras-minville.html)"
+room: "[salle Sony](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/sony.html)"
 time: 10h00
 url: https://www.stat.colostate.edu/~bshaby/
 ---
