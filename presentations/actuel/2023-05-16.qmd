@@ -4,7 +4,7 @@ author: "[Jocelyn Martel](https://faculty.essec.edu/cv/fr-martel-jocelyn/)"
 date: 2023-05-16
 categories: [2022-2023]
 draft: 
-room: "à déterminer"
+room: "[salle Xerox-Canada](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/xerox.html)"
 time: "11h00"
 url: https://faculty.essec.edu/cv/fr-martel-jocelyn/
 ---

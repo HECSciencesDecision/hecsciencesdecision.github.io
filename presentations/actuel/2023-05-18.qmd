@@ -4,7 +4,7 @@ author: "[Tamer Başar](http://tamerbasar.csl.illinois.edu/)"
 date: 2023-05-18
 categories: [2022-2023,"Chaire de théorie des jeux et gestion"]
 draft: 
-room: "à déterminer"
+room: "[salle Hélène-Desmarais](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "11h00"
 url: http://tamerbasar.csl.illinois.edu/
 ---
