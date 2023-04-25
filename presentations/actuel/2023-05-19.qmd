@@ -1,0 +1,20 @@
+---
+title: "Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming"
+author: "[Merve Bodur](https://sites.google.com/site/mervebodr/merve-bodur)"
+date: 2023-05-19
+categories: [2022-2023,"GERAD"]
+draft: 
+room: "[salle St-Hubert](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/st-Hubert.html)"
+time: "10h00"
+url: https://sites.google.com/site/mervebodr/merve-bodur
+---
+
+# Résumé
+
+We introduce a novel aggregation framework to address multi-stage stochastic programs with mixed-integer state variables and continuous local variables (MSILPs). Our aggregation framework imposes additional structure to the integer state variables by leveraging the information of the underlying stochastic process, which is modeled as a Markov chain (MC). We present an exact solution method to the aggregated MSILP, which can also be used in an approximation form to obtain dual bounds and implementable feasible solutions. Moreover, we apply two-stage linear decision rule (2SLDR) approximations and propose MC-based variants to obtain high-quality decision policies with significantly reduced computational effort. We test the proposed methodologies in a novel MSILP model for hurricane disaster relief logistics planning. 
+
+# Biographie
+
+Merve Bodur is an Assistant Professor in the Department of Mechanical and Industrial Engineering at the University of Toronto. She also held a Dean’s Spark Professorship in the Faculty of Applied Science and Engineering (2018-2021). She is a faculty associate of University of Toronto Transportation Research Institute, Smart Freight Centre, and Centre for Healthcare Engineering at the University of Toronto. Currently, she is the INFORMS Optimization Society Vice Chair of Integer and Discrete Optimization. She obtained her Ph.D. from University of Wisconsin-Madison and did a postdoc at Georgia Institute of Technology. She received her B.S. in Industrial Engineering and B.A. in Mathematics from Bogazici University, Turkey. Her research interests include stochastic programming, integer programming, multiobjective optimization and combinatorial optimization, with applications in a variety of areas such as scheduling, transportation, power systems, healthcare and telecommunications.
+
+

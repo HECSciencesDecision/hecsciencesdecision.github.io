@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Benjamin Shaby">
 
-<title>Séminaires de sciences de la décision - Séminaires à venir</title>
+<title>Séminaires de sciences de la décision - Spatial scale-aware tail dependence modeling for high-dimensional spatial extremes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +24,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -59,48 +58,18 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Envoyer"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-actuel-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-time','listing-author','listing-title','listing-room',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-actuel-listings'] = new List('listing-actuel-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Séminaires de sciences de la décision</span>
     </a>
   </div>
@@ -110,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archives.html">
+    <a class="nav-link" href="../../archives.html">
  <span class="menu-text">Séminaires passés</span></a>
   </li>  
 </ul>
@@ -120,23 +89,38 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Séminaires à venir</h1>
-</div>
+<h1 class="title">Spatial scale-aware tail dependence modeling for high-dimensional spatial extremes</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">2022-2023</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Invité(e)</div>
+    <div class="quarto-title-meta-contents">
+             <p><a href="https://www.stat.colostate.edu/~bshaby/">Benjamin Shaby</a> </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Date</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">24 avril 2023</p>
+    </div>
+  </div>
   
     
   </div>
@@ -144,92 +128,16 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Nos séminaires sont webdiffusés via la plateforme Zoom. Remplissez le formulaire <a href="https://docs.google.com/forms/d/1QnxS8GRJaV48MGI8YbTxPvqmdV--PJDjZF4-nwdOKw8/">suivant</a> pour recevoir les informations de connexion par courriel.</p>
-<p><em>Our seminars are broadcasted live on Zoom. You can <a href="https://docs.google.com/forms/d/1QnxS8GRJaV48MGI8YbTxPvqmdV--PJDjZF4-nwdOKw8/">sign-up using this form</a> to get Zoom credentials by email.</em></p>
-<div id="listing-actuel-listings" class="quarto-listing quarto-listing-container-table">
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Heure
-</th>
-<th>
-Invité(e)
-</th>
-<th>
-Titre de l’exposé
-</th>
-<th>
-Local
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="2022-2023" data-listing-date-sort="1684209600000" data-listing-file-modified-sort="1681736726769" data-listing-reading-time-sort="1.32" data-listing-title-sort="Institutional Ownership and the Resolution of Financial Distress" data-listing-filename-sort="2023-05-16.qmd">
-<td class="listing-date">
-16 mai 2023
-</td>
-<td class="listing-time">
-11h00
-</td>
-<td class="listing-author">
-<a href="https://faculty.essec.edu/cv/fr-martel-jocelyn/">Jocelyn Martel</a>
-</td>
-<td class="listing-title">
-<a href="./presentations/actuel/2023-05-16.html" class="title">Institutional Ownership and the Resolution of Financial Distress</a>
-</td>
-<td class="listing-room">
-<a href="https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/xerox.html">salle Xerox-Canada</a>
-</td>
-</tr>
-<tr data-index="1" data-categories="2022-2023,Chaire de théorie des jeux et gestion" data-listing-date-sort="1684382400000" data-listing-file-modified-sort="1680552685523" data-listing-reading-time-sort="1.305" data-listing-title-sort="Consensus and Dissensus in Multi-population Multi-agent Systems" data-listing-filename-sort="2023-05-18.qmd">
-<td class="listing-date">
-18 mai 2023
-</td>
-<td class="listing-time">
-11h00
-</td>
-<td class="listing-author">
-<a href="http://tamerbasar.csl.illinois.edu/">Tamer Başar</a>
-</td>
-<td class="listing-title">
-<a href="./presentations/actuel/2023-05-18.html" class="title">Consensus and Dissensus in Multi-population Multi-agent Systems</a>
-</td>
-<td class="listing-room">
-<a href="https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html">salle Hélène-Desmarais</a>
-</td>
-</tr>
-<tr data-index="2" data-categories="2022-2023,GERAD" data-listing-date-sort="1684468800000" data-listing-file-modified-sort="1682387731545" data-listing-reading-time-sort="1.25" data-listing-title-sort="Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming" data-listing-filename-sort="2023-05-19.qmd">
-<td class="listing-date">
-19 mai 2023
-</td>
-<td class="listing-time">
-10h00
-</td>
-<td class="listing-author">
-<a href="https://sites.google.com/site/mervebodr/merve-bodur">Merve Bodur</a>
-</td>
-<td class="listing-title">
-<a href="./presentations/actuel/2023-05-19.html" class="title">Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming</a>
-</td>
-<td class="listing-room">
-<a href="https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/st-Hubert.html">salle St-Hubert</a>
-</td>
-</tr>
-</tbody>
-
-</table>
-<div class="listing-no-matching d-none">
-Aucun article correspondant
-</div>
-</div>
+<section id="résumé" class="level1">
+<h1>Résumé</h1>
+<p>Extreme events over large spatial domains like the contiguous United States may exhibit highly heterogeneous tail dependence characteristics, yet most existing spatial extremes models yield only one dependence class over the entire spatial domain. To accurately characterize `storm dependence’ in analysis of extreme events, we propose a mixture model that achieves flexible dependence properties and allows high-dimensional inference for extremes of spatial processes. We modify the popular random scale construction that multiplies a (transformed) Gaussian random field by a single radial variable; that is, we add non-stationarity to the Gaussian process while allowing the radial variable to vary smoothly across space. As the level of extremeness increases, this single model exhibits both long-range asymptotic independence and short-range weakening dependence strength that can lead to either asymptotic dependence or independence.</p>
+</section>
+<section id="biographie" class="level1">
+<h1>Biographie</h1>
+<p>Dr.&nbsp;Ben Shaby est professeur aggrégé au département de statistique du <em>Colorado State University</em> depuis 2019, en provenance de Pennsylvania State. Ses intérêts de recherche gravitent autour des modèles Bayésiens pour les données spatio-temporelles extrêmes. Dr.&nbsp;Shaby a reçu un doctorat de Cornell encadré par David Ruppert et Marty Wells avant de compléter des stages postdoctoraux à SAMSI, Duke et à l’Université de la Californie à Berkeley avec Cari Kaufman. Ben a reçu un CAREER Award de la NSF en 2019.</p>
 
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
