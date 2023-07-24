@@ -1,0 +1,21 @@
+---
+title: "Statistical inference for multivariate extremes via a geometric approach"
+author: "[Ryan Campbell](https://www.ryanstats.com/)"
+date: 2023-09-28
+categories: [2023-2024]
+draft: false
+room: "salle à déterminer"
+time: "10h00"
+url: https://www.ryanstats.com/
+---
+
+# Résumé
+
+A recent addition to the set of modelling tools for multivariate extremes uses a geometric approach via the use of the so-called gauge function. The gauge function is intrinsically linked to the limit set, which itself is obtained by appropriately scaling random vectors whose marginal distributions are light-tailed, and allowing the sample size to grow arbitrarily large. The geometric shape of this limit set, and thus the gauge function, allows for a simple characterisation of the underlying dependence structure. Compared to other approaches, the geometric approach leads to statistical inference that is easier to interpret and has the ability to accurately estimate probabilities in extremal regions where other methods fail. The primary method proposed in this work relies on the use of parametric forms of gauge functions derived from known copulas. Time permitting, a more flexible semi-parametric Bayesian method to obtain a posterior fit of the limit set is presented. This allows for more accurate extremal probability estimates in dependence structures where non-Bayesian methods struggle. This is joint work with Jennifer Wadsworth (Lancaster University); the semi-parametric Bayesian work is done in collaboration with Ioannis Papastathopoulos and Lambert de Monte (University of Edinburgh).
+
+
+# Biographie
+
+Ryan Campbell est doctorant sous la tutelle de Jenny Wadsworth à l'Université Lancaster et spécialisé dans l'analyse de valeurs extrêmes. Originaire  de Montréal, il est détenteur d'une maîtrise en mathématiques de l'Université McGill et a travaillé brièvement comme scientifique des données chez Desjardins Assurances.
+
+

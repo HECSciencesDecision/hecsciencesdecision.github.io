@@ -1,0 +1,18 @@
+---
+title: "Strategic Sector Coupling? Market Power in Heat and Power Markets"
+author: "[Afzal S. Siddiqui](https://www.su.se/english/profiles/asidd-1.189734)"
+date: 2023-10-05
+categories: [2023-2024]
+draft: false
+room: "salle à déterminer"
+time: "15h15"
+url: https://www.su.se/english/profiles/asidd-1.189734
+---
+
+# Résumé
+
+Decarbonisation of the power sector envisages vast uptake of variable renewable energy (VRE) technologies. Coupling between heat and power sectors via combined heat and power (CHP) plants could provide the flexibility needed to mitigate intermittent VRE output. However, firms with CHP plants could use the link between the two energy sectors to manipulate electricity prices. We use a bi-level model to investigate the incentives for such strategic behaviour. At the upper level, a firm with both heat-only and CHP plants determines its heat output and is constrained by power-market operations at the lower level. Such a strategic firm produces more (less) heat from its CHP (heat-only) plant vis-à-vis the social optimum in order to constrain its maximum power output. Thus, it uses its leverage to manufacture scarcity in the power market to boost the electricity price. In order to mitigate welfare losses from such strategic behaviour, we devise a regulatory package consisting of (i) a subsidy on CHP output and (ii) a modification to the heat contract. This is joint work with Sebastian Maier (University College London)
+
+# Biographie
+
+Dr. Afzal S. Siddiqui est titulaire d'un doctorat en génie industriel et opérations de l'Université de la Californie à Berkeley et est professeur au département de science et systèmes informatiques de l'Université de Stockholm. Il était précédemment professeur d'économie de l'énergie au département des sciences statistique de UCL  et professeur affilié à Aalto et HEC Montréal. Ses intérêts de recherche sont dans l'application des méthodes de recherche opérationnelle pour l'analyse de la prise de décision dans un contexte d'incertitude et de compétition dans le secteur énergétique.

@@ -1,15 +1,17 @@
 ---
-title: "Titre à déterminer"
+title: "Managing Hedge Fund Liquidity Risks"
 author: "[Serge Darolles](https://dauphine.psl.eu/recherche/cvtheque/darolles-serge)"
 date: 2023-10-13
 categories: [2023-2024]
-draft: true
+draft: false
 room: "salle à déterminer"
-time: ""
+time: "11h00"
 url: https://dauphine.psl.eu/recherche/cvtheque/darolles-serge
 ---
 
 # Résumé
+
+We study hedge fund optimal portfolios in the presence of market and funding liquidity risks. We consider a two-period economy with a single hedge fund. The fund has access to cash which is available every period and to an illiquid asset which pays off only at the end of the second period. Funding liquidity risk takes the form of a random proportion of the fund's assets under management being withdrawn by clients in period one. The fund can then liquidate a part of the illiquid position by bidding on a secondary market where a random haircut on the effective selling price is applied. We solve the allocation problem of the fund and find its optimal portfolio. Whereas the cash buffer is monotonously decreasing in the secondary market liquidity, we show that the fund's default probability is bell-shaped. Finally, we apply our model in an asset pricing framework for different hedge fund strategies to see how both risks are priced over time. This is joint work with Guillaume Roussellet (McGill University).
 
 
 # Biographie
