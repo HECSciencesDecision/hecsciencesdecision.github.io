@@ -25,3 +25,4 @@ format:
       - html/custom.scss
   
 lang: fr
+date-format: "ddd, D MMM YYYY"

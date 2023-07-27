@@ -8,7 +8,7 @@ listing:
   field-display-names:
     time: "Heure"
     room: "Local"
-  date-format: medium
+  date-format: "ddd, D MMM YYYY"
   type: table
   categories: false
   sort-ui: false
