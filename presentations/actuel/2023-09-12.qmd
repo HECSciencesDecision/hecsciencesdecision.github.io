@@ -1,0 +1,19 @@
+---
+title: "À déterminer"
+author: "[Lambert De Monte](https://uk.linkedin.com/in/lambert-de-monte-006871153)"
+date: 2023-09-12
+categories: [2023-2024]
+draft: false
+room: "salle à déterminer"
+time: "13h30"
+url: https://uk.linkedin.com/in/lambert-de-monte-006871153
+---
+
+# Résumé
+
+
+# Biographie
+
+Lambert De Monte est un doctorant en statistique à l'Université d'Édimbourg spécialisé dans l'analyse de valeurs extrêmes et les méthodes probabilistes de prévisions. Il est encadré par Ioannis Papastathopoulos. Originaire  de Montréal, il est détenteur d'une maîtrise en mathématiques de l'Université McGill.
+
+

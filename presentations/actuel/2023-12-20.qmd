@@ -1,0 +1,16 @@
+---
+title: "À déterminer"
+author: "[Mario Ghoussoub](https://sites.google.com/site/marioghossoub/)"
+date: 2023-12-20
+categories: [2023-2024, GERAD]
+draft: false
+room: "[salle 4488, André-Aisenstadt ](https://www.gerad.ca/en/salles)"
+time: "11h00"
+url: https://sites.google.com/site/marioghossoub/
+---
+
+# Résumé
+
+# Biographie
+
+Mario Ghoussoub est professeur agrégé au départment de statistique et science actuarielle de l'Université de Waterloo, où il a obtenu son doctorat en 2011 avant de faire un stage postdoctoral à l'Université de Montréal. Après un passage à Imperial College, il est revenu à Waterloo. Ses intérêts de recherches portent principalement sur l'incertitude entourant les modèles et la théorie du choix sous incertitude et ambiguité, avec applications en assurance, mesures de risques et gestion, finance comportementale quantitative et la théorie du partage du risque.
