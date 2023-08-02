@@ -1,0 +1,17 @@
+---
+title: "À déterminer"
+author: "[Renyuan Xu](https://renyuanxu.github.io/)"
+date: 2023-11-10
+categories: [2023-2024,Quantact]
+draft: false
+room: "salle à déterminer"
+time: "13h00"
+url: https://renyuanxu.github.io/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Renyuan Xu est professeure adjointe WiSE Gabilan au départment de génie industriel et des systèmes à l'Université de la Californie du Sud. Avant de se joindre à USC, elle a passé deux années à Oxford avec Rama Cont comme fellow de recherche. Renyuan a obtenu son doctorat de l'Université de la Californie à Berkeley en 2019. Ses intérêts de recherche sont en théorie du contrôle et des jeux stochastiques, l'apprentissage par renforcement et l'apprentissage automatique avec application en finance et dans les transactions à haute fréquence.
