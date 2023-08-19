@@ -1,19 +1,22 @@
 ---
-title: "À déterminer"
+title: "Multivariate extremes – A geometric Bayesian inference approach "
 author: "[Lambert De Monte](https://uk.linkedin.com/in/lambert-de-monte-006871153)"
 date: 2023-09-12
 categories: [2023-2024]
 draft: false
-room: "salle à déterminer"
+room: "salle [Groupe Cholette](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)"
 time: "13h30"
 url: https://uk.linkedin.com/in/lambert-de-monte-006871153
 ---
 
 # Résumé
 
+ Multivariate extreme value theory (MEVT) is a branch of probability and statistics concerned with the characterisation of the extremes of finite-dimensional random vectors and the estimation of the probability of joint, rare events. Of particular interest is the task of extrapolating beyond the range of observed data; common environmental applications include modelling extreme hydrological events linked with flooding, harmful and damaging wind gusts as well as heatwaves intensity or duration and their impacts on livelihood.  
+
+The lack of natural ordering of vectors and the schism between the classes of asymptotically dependent and asymptotically independent random vectors gave rise to various theoretical and modelling frameworks. The geometric approach to MEVT arises through the study of suitably scaled sample clouds―or suitably scaled independent observations from random vectors―and their convergence in probability onto compact and star-shaped limit sets. The estimation of the shape of these limit sets and their associated gauge functions respectively allows for the estimation of well-known coefficients of extremal dependence and of the probability of rare or extreme events. Using a radial-angular decomposition of the random vector of interest, we consider the distribution of radial exceedances of high quantiles of the distribution of radii given angles. Using a limiting Poisson point process likelihood, we present a method using information both from the distribution of the radial exceedances and from the distribution of the angles along which the exceedances occur. We adopt a Bayesian approach in which special emphasis is placed on Hilbert space projections of Gaussian Markov random fields on spheres as flexible non-parametric models for the prior distribution of the gauge function and for the prior distribution of angles. We showcase our method with a simulation study and two case studies of river flow and sea level extremes. Joint work with Ioannis Papastathopoulos, Ryan Campbell, Håvard Rue.
 
 # Biographie
 
-Lambert De Monte est un doctorant en statistique à l'Université d'Édimbourg spécialisé dans l'analyse de valeurs extrêmes et les méthodes probabilistes de prévisions. Il est encadré par Ioannis Papastathopoulos. Originaire  de Montréal, il est détenteur d'une maîtrise en mathématiques de l'Université McGill.
+Lambert De Monte est un doctorant en statistique à l'Université d'Édimbourg spécialisé dans l'analyse de valeurs extrêmes et les méthodes probabilistes de prévisions. Il est encadré par Ioannis Papastathopoulos. Originaire  de Montréal, il est détenteur d'une maîtrise en mathématiques de l'Université McGill et d'un B.Sc. en mathématiques et informatique.
 
 
