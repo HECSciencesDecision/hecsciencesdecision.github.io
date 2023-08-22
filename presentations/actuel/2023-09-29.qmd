@@ -4,7 +4,7 @@ author: "[Ryan Campbell](https://www.ryanstats.com/)"
 date: 2023-09-29
 categories: [2023-2024]
 draft: false
-room: "salle à déterminer"
+room: "salle [Groupe Cholette](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)"
 time: "10h00"
 url: https://www.ryanstats.com/
 ---
