@@ -4,7 +4,7 @@ author: "[Afzal S. Siddiqui](https://www.su.se/english/profiles/asidd-1.189734)"
 date: 2023-10-05
 categories: [2023-2024]
 draft: false
-room: "salle à déterminer"
+room: "salle [Séoul](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/seoul.html)"
 time: "15h15"
 url: https://www.su.se/english/profiles/asidd-1.189734
 ---

@@ -4,7 +4,7 @@ author: "[Serge Darolles](https://dauphine.psl.eu/recherche/cvtheque/darolles-se
 date: 2023-10-13
 categories: [2023-2024,Quantact]
 draft: false
-room: "salle à déterminer"
+room: "salle [Accra](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/accra.html)"
 time: "11h00"
 url: https://dauphine.psl.eu/recherche/cvtheque/darolles-serge
 ---
