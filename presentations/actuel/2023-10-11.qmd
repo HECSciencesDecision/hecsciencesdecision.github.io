@@ -1,0 +1,17 @@
+---
+title: "À venir"
+author: "[Bahar Yetis Kara](https://ie.bilkent.edu.tr/~bkara/index.php)"
+date: 2023-10-11
+categories: [2023-2024,GERAD]
+draft: false
+room: "salle à déterminer"
+time: "13h00"
+url: https://ie.bilkent.edu.tr/~bkara/index.php
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Bahar Y. Kara est professeure titulaire au département de génie industriel de l'Université Bilkent, où elle a effectué toutes ses études et de laquelle elle a obtenu un doctorat sous la direction de B.C. Tansel en 1999. Elle a effectué un postdoctorat en gestion à McGill avant de retourner en Turquie. Ses intérêts de recherches sont en logistique, notamment logistique humanitaire et distribution, construction de réseau, problèmes de routages et.
