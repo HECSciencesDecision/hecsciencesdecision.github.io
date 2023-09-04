@@ -1,5 +1,5 @@
 ---
-title: "À venir"
+title: "Disaster Resilient Cities: An OR Approach to Disaster Management"
 author: "[Bahar Yetis Kara](https://ie.bilkent.edu.tr/~bkara/index.php)"
 date: 2023-10-11
 categories: [2023-2024,GERAD]
@@ -11,6 +11,11 @@ url: https://ie.bilkent.edu.tr/~bkara/index.php
 
 # Résumé
 
+There have been decades of research in the field of humanitarian logistics, and academics in the field of logistics are becoming more and more interested in it. That being said, we still acquire insight and identify new problems with each disaster. 
+
+We have also observed various humanitarian logistics applications during Covid-19, e.g. for PCR test sites and vaccination centers. Unfortunately, the recent earthquake in Turkey has led us to re-evaluate the response cycle of disaster management. Close inspection reveals that this response phase actually leads to a variety of new applications of distribution logistics problems.  
+
+We have conducted many meetings and workshops with municipalities that were very active during the response of the Maraş Earthquakes. Many municipalities  aim to have "earthquake resistant cities"  with correct action plans and being ready for potential disasters. Based on our discussions with these municipalities, we have developed an "ideal action plan". We also investigated the potential decision problems and linked these problems with OR literature.
 
 # Biographie
 
