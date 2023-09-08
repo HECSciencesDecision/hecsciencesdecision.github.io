@@ -4,7 +4,7 @@ author: "[Bahar Yetis Kara](https://ie.bilkent.edu.tr/~bkara/index.php)"
 date: 2023-10-11
 categories: [2023-2024,GERAD]
 draft: false
-room: "salle à déterminer"
+room: "salle [Budapest](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/budapest.html)"
 time: "13h00"
 url: https://ie.bilkent.edu.tr/~bkara/index.php
 ---

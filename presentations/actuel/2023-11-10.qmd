@@ -4,7 +4,7 @@ author: "[Renyuan Xu](https://renyuanxu.github.io/)"
 date: 2023-11-10
 categories: [2023-2024,Quantact]
 draft: false
-room: "salle à déterminer"
+room: "salle [Accra](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/accra.html)"
 time: "13h00"
 url: https://renyuanxu.github.io/
 ---
