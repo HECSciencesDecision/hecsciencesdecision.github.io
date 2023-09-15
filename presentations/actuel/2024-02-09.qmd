@@ -1,0 +1,16 @@
+---
+title: "À déterminer"
+author: "[Jim Luedtke](https://jrluedtke.github.io/)"
+date: 2024-02-09
+categories: [2023-2024, GERAD]
+draft: false
+room: "salle à déterminer"
+time: "10h00"
+url: https://jrluedtke.github.io/
+---
+
+# Résumé
+
+# Biographie
+
+Dr. Jim Luedtke est professeur titulaire au département d'ingénierie industrielle et système de l'Université de Wisconsin-Madison. Il a obtenu son doctorat de Georgia Institute of Technology en 2007. Spécialiste de l'optimisation nonlinéaire, stochastique et linéaire avec entiers mixtes, il est actif au sein de la société INFORMS d'optimisation et rédacteur adjoint de Mathematical Programming Computation.
