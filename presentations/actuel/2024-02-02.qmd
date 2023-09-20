@@ -1,0 +1,14 @@
+---
+title: "À déterminer"
+author: "[Samuel Burer](http://sburer.github.io/)"
+date: 2024-02-02
+categories: [2023-2024, GERAD]
+draft: false
+room: "salle à déterminer"
+time: "13h30"
+url: http://sburer.github.io/
+---
+
+# Résumé
+
+# Biographie
