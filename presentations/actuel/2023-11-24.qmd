@@ -1,0 +1,20 @@
+---
+title: "State-dependent Sampling in Observational Cohort Studies"
+author: "[Leilei Zeng](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/leilei-zeng)"
+date: 2023-11-24
+categories: [2023-2024,CMSQ]
+draft: false
+room: "salle à déterminer"
+time: "15h30"
+url: https://uwaterloo.ca/statistics-and-actuarial-science/profiles/leilei-zeng
+---
+
+# Résumé
+
+Observational cohort studies of chronic disease involve the recruitment and follow-up of a sample of individuals with the goal of learning about the course of the disease, the effect of fixed and time-varying risk factors. Analysis of this information is often facilitated by using multistate models with intensity functions governing transition between disease states. Chronic disease studies often involve conditions for recruitment, for example incident cohort involves individuals who are healthy at accrual, prevalent cohort samples individuals who have already developed the disease, and a length biased sampling includes individual who are alive at the time of recruitment. In this talk we discuss the impact of ignoring state-dependent sampling in life history analysis and the ways of addressing the issue using auxiliary information. A longitudinal study of aging and cognition among religious sisters is used to illustrate the related methodology. 
+
+# Biographie
+
+Dr. Leilei Zeng joined the Department of Statistics and Actuarial Science at the University of Waterloo as an associate professor in 2011, as  Graham Trust Chair in Health Statistics (2011-2016). Professor Zeng received her masters and PhD in Biostatistics from the University of Waterloo (1999-2005). She then worked as a postdoctoral fellow and then as an assistant professor (2006-2011) at Simon Fraser University (SFU). 
+
+Her research interests lies in the development of statistical methodologies for public health and medical research. Specific research topics include methods for event history and longitudinal data analysis, multistate models, marginal models, incomplete observed data, design of clinical and epidemiological studies, and model misspecification and evaluation. Her current main research collaborations and applications are related to studies in Rheumatic diseases, dementia and Alzheimer disease, and stress and reproduction in women.
