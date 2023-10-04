@@ -25,3 +25,4 @@ Nos séminaires sont webdiffusés via la plateforme Zoom. Remplissez le formulai
 
 ::: {#actuel-listings}
 :::
+
