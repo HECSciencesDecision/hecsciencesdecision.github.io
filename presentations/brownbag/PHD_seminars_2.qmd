@@ -1,0 +1,16 @@
+---
+title: "Quality Issues of Implied Volatilities of Index and Stock Options in the OptionMetrics IvyDB Database"
+author: "[Sebastien Legros](https://www.gerad.ca/fr/people/sebastien-legros)"
+date: "2023-10-20"
+categories: "2023-2024,brownbag"
+draft: false
+room: "salle [Cogeco](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cogeco.html)"
+time: "13h00"
+url: "https://www.gerad.ca/fr/people/sebastien-legros"
+---
+
+# Subject
+
+Sebastien will be presenting the paper [*Quality Issues of Implied Volatilities of Index and Stock Options in the OptionMetrics IvyDB Database*](https://dx.doi.org/10.2139/ssrn.4025257) by Martin Wallmeier. This paper discusses problems related to the OptionMetrics database and how to solve them.
+
+

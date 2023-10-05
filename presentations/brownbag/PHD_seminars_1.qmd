@@ -1,0 +1,15 @@
+---
+title: "On general semi-closed-form solutions for VIX derivative pricing"
+author: "[Etienne Bacon](https://www.gerad.ca/fr/people/etienne-bacon)"
+date: "2023-10-20"
+categories: "2023-2024,brownbag"
+draft: false
+room: "salle [Cogeco](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cogeco.html)"
+time: "13h30"
+url: "https://www.gerad.ca/fr/people/etienne-bacon"
+---
+
+# Subject
+
+Most pricing methods for VIX futures and European VIX options rely on the existence of the squared VIX moment generating function. Yet this function does not exist for some state-of-the-art option pricing models, which prevents their widespread use. This paper presents semi-closed form solutions for VIX futures and European VIX option prices that rely on the characteristic functions of the squared VIX. These pricing formulas are applicable to a wide class of models---virtually all exponentially affine models in the literature, among others---as the characteristic function always exists. We also test our newly proposed pricing methodologies against usual benchmarks in the literature and report that they lead to more efficient and accurate prices. The preprint is available [on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582816).
+

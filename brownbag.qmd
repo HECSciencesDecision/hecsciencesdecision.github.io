@@ -1,0 +1,24 @@
+---
+title: "Causeries"
+listing:
+  id: brownbag-listings
+  fields: [date, time, author, title,  room]
+  contents: "presentations/brownbag/*.qmd"
+  sort: "date"
+  field-display-names:
+    time: "Heure"
+    room: "Local"
+  date-format: "ddd, D MMM YYYY"
+  type: table
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+Les causeries aux cycles supérieurs sont organisés par les étudiant(e)s du doctorat et de la maîtrise en finance et en ingénierie financière. Pour information, contactez l'organisateur [Étienne Bacon](mailto:etienne.bacon@hec.ca).
+
+
+::: {#brownbag-listings}
+:::
