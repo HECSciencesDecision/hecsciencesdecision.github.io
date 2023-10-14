@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Serge Darolles">
 
-<title>Séminaires de sciences de la décision - Séminaires à venir</title>
+<title>Séminaires de sciences de la décision - Managing Hedge Fund Liquidity Risks</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +24,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,49 +59,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-actuel-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-time','listing-author','listing-title','listing-room',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-actuel-listings'] = new List('listing-actuel-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Séminaires de sciences de la décision</span>
     </a>
   </div>
@@ -113,11 +81,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./brownbag.html" rel="" target="">
+    <a class="nav-link" href="../../brownbag.html" rel="" target="">
  <span class="menu-text">Causeries</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./archives.html" rel="" target="">
+    <a class="nav-link" href="../../archives.html" rel="" target="">
  <span class="menu-text">Séminaires passés</span></a>
   </li>  
 </ul>
@@ -128,23 +96,39 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Séminaires à venir</h1>
-</div>
+<h1 class="title">Managing Hedge Fund Liquidity Risks</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">2023-2024</div>
+    <div class="quarto-category">Quantact</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Invité(e)</div>
+    <div class="quarto-title-meta-contents">
+             <p><a href="https://dauphine.psl.eu/recherche/cvtheque/darolles-serge">Serge Darolles</a> </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Date</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">ven., 13 oct. 2023</p>
+    </div>
+  </div>
   
     
   </div>
@@ -152,211 +136,16 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Nos séminaires sont webdiffusés via la plateforme Zoom. Remplissez le formulaire <a href="https://forms.gle/FiBuCH3fLcMGfA9RA">suivant</a> pour recevoir les informations de connexion par courriel.</p>
-<p><em>Our seminars are broadcasted live on Zoom. You can <a href="https://forms.gle/FiBuCH3fLcMGfA9RA">sign-up using this form</a> to get Zoom credentials by email.</em></p>
-<div id="listing-actuel-listings" class="quarto-listing quarto-listing-container-table">
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Heure
-</th>
-<th>
-Invité(e)
-</th>
-<th>
-Titre de l’exposé
-</th>
-<th>
-Local
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="2023-2024,Quantact" data-listing-date-sort="1699592400000" data-listing-file-modified-sort="1694485558482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Learning to Simulate Tail-risk Scenarios" data-listing-filename-sort="2023-11-10.qmd">
-<td>
-<span class="listing-date">ven., 10 nov. 2023</span>
-</td>
-<td>
-<span class="listing-time">13h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://renyuanxu.github.io/">Renyuan Xu</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2023-11-10.html" class="title listing-title">Learning to Simulate Tail-risk Scenarios</a>
-</td>
-<td>
-<span class="listing-room">salle <a href="https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/accra.html">Accra</a></span>
-</td>
-</tr>
-<tr data-index="1" data-categories="2023-2024,CMSQ" data-listing-date-sort="1700802000000" data-listing-file-modified-sort="1695986126511" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="State-dependent Sampling in Observational Cohort Studies" data-listing-filename-sort="2023-11-24.qmd">
-<td>
-<span class="listing-date">ven., 24 nov. 2023</span>
-</td>
-<td>
-<span class="listing-time">15h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://uwaterloo.ca/statistics-and-actuarial-science/profiles/leilei-zeng">Leilei Zeng</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2023-11-24.html" class="title listing-title">State-dependent Sampling in Observational Cohort Studies</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="2" data-categories="2023-2024,GERAD" data-listing-date-sort="1703048400000" data-listing-file-modified-sort="1694182354077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Equilibria in Centralized Insurance Markets: Monopolistic vs. Competitive Pricing" data-listing-filename-sort="2023-12-20.qmd">
-<td>
-<span class="listing-date">mer., 20 déc. 2023</span>
-</td>
-<td>
-<span class="listing-time">11h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://sites.google.com/site/marioghossoub/">Mario Ghoussoub</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2023-12-20.html" class="title listing-title">Equilibria in Centralized Insurance Markets: Monopolistic vs.&nbsp;Competitive Pricing</a>
-</td>
-<td>
-<span class="listing-room"><a href="https://www.gerad.ca/en/salles">salle 4488, André-Aisenstadt</a></span>
-</td>
-</tr>
-<tr data-index="3" data-categories="2023-2024,CMSQ" data-listing-date-sort="1706245200000" data-listing-file-modified-sort="1696428979380" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-01-26.qmd">
-<td>
-<span class="listing-date">ven., 26 janv. 2024</span>
-</td>
-<td>
-<span class="listing-time">15h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://trevorcampbell.me/">Trevor Campbell</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-01-26.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="4" data-categories="2023-2024,GERAD" data-listing-date-sort="1706850000000" data-listing-file-modified-sort="1695218856069" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-02-02.qmd">
-<td>
-<span class="listing-date">ven., 2 févr. 2024</span>
-</td>
-<td>
-<span class="listing-time">13h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="http://sburer.github.io/">Samuel Burer</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-02-02.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="5" data-categories="2023-2024,GERAD" data-listing-date-sort="1708059600000" data-listing-file-modified-sort="1695351436056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-02-16.qmd">
-<td>
-<span class="listing-date">ven., 16 févr. 2024</span>
-</td>
-<td>
-<span class="listing-time">10h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://jrluedtke.github.io/">Jim Luedtke</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-02-16.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="6" data-categories="2023-2024,CMSQ" data-listing-date-sort="1708664400000" data-listing-file-modified-sort="1695088749805" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-02-23.qmd">
-<td>
-<span class="listing-date">ven., 23 févr. 2024</span>
-</td>
-<td>
-<span class="listing-time">15h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="http://veronikarock.com/">Veronika Ročková</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-02-23.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="7" data-categories="2023-2024,CMSQ" data-listing-date-sort="1710475200000" data-listing-file-modified-sort="1693775878479" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-03-15.qmd">
-<td>
-<span class="listing-date">ven., 15 mars 2024</span>
-</td>
-<td>
-<span class="listing-time">15h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://danieledurante.github.io/web/">Daniele Durante</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-03-15.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="8" data-categories="2023-2024,GERAD" data-listing-date-sort="1710907200000" data-listing-file-modified-sort="1695428268271" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-03-20.qmd">
-<td>
-<span class="listing-date">mer., 20 mars 2024</span>
-</td>
-<td>
-<span class="listing-time">10h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://www.durham.ac.uk/business/our-people/lucia-sbragia/">Lucia Sbragia</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-03-20.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-<tr data-index="9" data-categories="2023-2024" data-listing-date-sort="1712289600000" data-listing-file-modified-sort="1697299686373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="À déterminer" data-listing-filename-sort="2024-04-05.qmd">
-<td>
-<span class="listing-date">ven., 5 avr. 2024</span>
-</td>
-<td>
-<span class="listing-time">11h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://sites.google.com/site/nicholasjrivers/">Nicholas Rivers</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2024-04-05.html" class="title listing-title">À déterminer</a>
-</td>
-<td>
-<span class="listing-room">salle à déterminer</span>
-</td>
-</tr>
-</tbody>
-
-</table>
-<div class="listing-no-matching d-none">
-Aucun article correspondant
-</div>
-</div>
+<section id="résumé" class="level1">
+<h1>Résumé</h1>
+<p>We study hedge fund optimal portfolios in the presence of market and funding liquidity risks. We consider a two-period economy with a single hedge fund. The fund has access to cash which is available every period and to an illiquid asset which pays off only at the end of the second period. Funding liquidity risk takes the form of a random proportion of the fund’s assets under management being withdrawn by clients in period one. The fund can then liquidate a part of the illiquid position by bidding on a secondary market where a random haircut on the effective selling price is applied. We solve the allocation problem of the fund and find its optimal portfolio. Whereas the cash buffer is monotonously decreasing in the secondary market liquidity, we show that the fund’s default probability is bell-shaped. Finally, we apply our model in an asset pricing framework for different hedge fund strategies to see how both risks are priced over time. This is joint work with Guillaume Roussellet (McGill University).</p>
+</section>
+<section id="biographie" class="level1">
+<h1>Biographie</h1>
+<p>Serge Darolles est Professeur de Finance à l’Université Paris-Dauphine où il enseigne l’économétrie de la finance et la finance empirique depuis 2012. Avant de rejoindre Dauphine, il a travaillé pour Lyxor Asset Management entre 2000 et 2012, où il a développé des modèles mathématiques pour diverses stratégies d’investissement. Il a également occupé des postes de consultants à la Caisse des Dépôts et Consignations, la Banque Paribas et le Commissariat à l’Energie Atomique. Serge est spécialisée est spécialisé en économétrie de la finance et a écrit de nombreux articles publiés dans de nombreuses revues académiques. Il est également membre du Conseil consultatif scientifique de l’AMF. Serge est titulaire d’un doctorat en mathématiques appliquées de l’Université de Toulouse et d’un DESS de l’ENSAE, Paris.</p>
 
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
