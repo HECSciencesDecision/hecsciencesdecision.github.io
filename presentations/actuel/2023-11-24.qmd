@@ -4,7 +4,7 @@ author: "[Leilei Zeng](https://uwaterloo.ca/statistics-and-actuarial-science/pro
 date: 2023-11-24
 categories: [2023-2024,CMSQ]
 draft: false
-room: "salle 5340, pavillon André-Aisenstadt"
+room: "salle 5340, André-Aisenstadt (UdeM)"
 time: "15h30"
 url: https://uwaterloo.ca/statistics-and-actuarial-science/profiles/leilei-zeng
 ---

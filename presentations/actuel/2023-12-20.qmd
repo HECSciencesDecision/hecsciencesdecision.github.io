@@ -4,7 +4,7 @@ author: "[Mario Ghoussoub](https://sites.google.com/site/marioghossoub/)"
 date: 2023-12-20
 categories: [2023-2024, GERAD]
 draft: false
-room: "[salle 4488, André-Aisenstadt ](https://www.gerad.ca/en/salles)"
+room: "[salle 4488, André-Aisenstadt (UdeM)](https://www.gerad.ca/en/salles)"
 time: "11h00"
 url: https://sites.google.com/site/marioghossoub/
 ---
