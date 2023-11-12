@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Equilibria in Centralized Insurance Markets: Monopolistic vs. Competitive Pricing"
 author: "[Mario Ghoussoub](https://sites.google.com/site/marioghossoub/)"
 date: 2023-12-20
 categories: [2023-2024, GERAD]
@@ -11,6 +11,11 @@ url: https://sites.google.com/site/marioghossoub/
 
 # Résumé
 
+
+
+Three fundamental concerns of any risk-sharing market are the willingness of agents to engage in an exchange, Pareto efficiency of allocations of the aggregate risk, and a characterization of equilibria in the market. In sequential-move insurance markets with monopolistic pricing, the notion of a Stackelberg Equilibrium (SE) has gained recent popularity as an equilibrium concept. In this talk, I will go over some of our recent work on the characterization of these equilibria, the examination of their relationship with Pareto-efficient (PE) allocations, as well as some extensions thereof. Specifically, while we show that SE  lead to PE allocations, we also show that only those PE allocations that make the policyholder(s) indifferent between suffering the loss and entering into the market can be decentralized through a SE. We interpret the latter result as indicative of the limitations of SE as an equilibrium concept in this literature. We then extend this market structure by introducing strategic price competition on the supply side between several insurers. We argue that the notion of a Subgame Perfect Nash Equilibrium (SPNE) is the appropriate solution concept for analyzing equilibria in that market, and that it is an extension of SE to the case of multiple insurer. We characterize SPNE and show that they lead to PE allocations. Additionally, we show that under mild conditions, the policyholder realizes a strict welfare gain, which addresses the aforementioned concerns with SE and thereby ultimately reflects the benefit to the policyholder of competition on the supply side.
+
 # Biographie
 
 Mario Ghoussoub est professeur agrégé au départment de statistique et science actuarielle de l'Université de Waterloo, où il a obtenu son doctorat en 2011 avant de faire un stage postdoctoral à l'Université de Montréal. Après un passage à Imperial College, il est revenu à Waterloo. Ses intérêts de recherches portent principalement sur l'incertitude entourant les modèles et la théorie du choix sous incertitude et ambiguité, avec applications en assurance, mesures de risques et gestion, finance comportementale quantitative et la théorie du partage du risque.
+
