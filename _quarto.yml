@@ -8,8 +8,6 @@ website:
     pinned: true
     background: "#003C71"
     right:
-      - text: "Causeries"
-        file: brownbag.qmd
       - archives.qmd
   search: 
     location: navbar
