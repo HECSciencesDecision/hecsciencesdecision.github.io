@@ -4,7 +4,9 @@ listing:
   id: brownbag-listings
   fields: [date, time, author, title,  room]
   contents: "presentations/brownbag/*.qmd"
-  sort: "date"
+  sort: 
+   - "date"
+   - "time"
   field-display-names:
     time: "Heure"
     room: "Local"

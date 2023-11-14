@@ -9,6 +9,7 @@ website:
     background: "#003C71"
     right:
       - archives.qmd
+      - brownbag.qmd
   search: 
     location: navbar
     type: textbox

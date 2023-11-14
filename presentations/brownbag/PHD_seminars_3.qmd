@@ -1,0 +1,15 @@
+---
+title: "Fund flows and investor concerns"
+author: "[Céleste Hardy](https://www.gerad.ca/fr/people/celeste-hardy)"
+date: "2023-11-24"
+categories: "2023-2024,causeries"
+draft: false
+room: "salle [Rona](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/rona.html)"
+time: "13h00"
+---
+
+# Subject
+
+While financial performance metrics such as risk-adjusted return have long been identified as the main driver of investment flows into the mutual funds industry, other non-financial performance measures have recently emerged. Recent literature has shown that investors have a multi-attribute utility function and do not only rely on the financial performance but also assess the sustainability performance (environmental and social performance) of their investments when making investment decision. However, these preferences are not stable over time and might vary with the concern presents in the economy. This paper examines the tradeoff between financial and non-financial performance through various levels of concerns in the market. We hypothesize that the preferences for sustainability might be driven by investors’ risk aversion towards social or environmental risks but that this risk aversion might vary according to the dominant concern in the economy.
+
+---

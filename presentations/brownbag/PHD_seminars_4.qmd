@@ -1,0 +1,14 @@
+---
+title: "Dynamic tail risk estimation using extreme value theory"
+author: "[Carlotta Pacifici](https://www.unibo.it/sitoweb/carlotta.pacifici/en)"
+date: "2023-11-24"
+categories: "2023-2024,causeries"
+draft: false
+room: "salle [Rona](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/rona.html)"
+time: "13h30"
+---
+
+# Subject
+
+This work sheds light on the estimation of time-varying tail risk using observations exceeding a high threshold. The reference distribution for this modelling framework is the Generalized Pareto Distribution (GPD). Concern is raised on the threshold selection that influences the quality of the GPD approximation. In this regard, Extended Generalized Pareto Distribution (EGPD) has been developed to reduce the impact of the threshold choice on the estimation of the tail quantities. Two dynamic versions of the EGPD are presented and compared with the corresponding GPD versions already known in the literature. Allowing for a time-varying dynamic in the distribution parameters makes the model able to adapt to changes in the probability of observing extreme events. Through a simulation study and an application to the S\&P500 index, the estimated EGPD proves to better capture the tail risk dynamic and shows lower dependence on the threshold if compared to the GPD.
+---

@@ -2,7 +2,7 @@
 title: "On general semi-closed-form solutions for VIX derivative pricing"
 author: "[Etienne Bacon](https://www.gerad.ca/fr/people/etienne-bacon)"
 date: "2023-10-20"
-categories: "2023-2024,brownbag"
+categories: "2023-2024,causeries"
 draft: false
 room: "salle [Cogeco](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cogeco.html)"
 time: "13h30"
