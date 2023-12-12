@@ -4,7 +4,7 @@ author: "[Jim Luedtke](https://jrluedtke.github.io/)"
 date: 2024-02-16
 categories: [2023-2024, GERAD]
 draft: false
-room: "salle à déterminer"
+room: "salle [Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "10h00"
 url: https://jrluedtke.github.io/
 ---

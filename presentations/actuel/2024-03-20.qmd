@@ -4,7 +4,7 @@ author: "[Lucia Sbragia](https://www.durham.ac.uk/business/our-people/lucia-sbra
 date: 2024-03-20
 categories: [2023-2024, GERAD]
 draft: false
-room: "salle à déterminer"
+room: "salle [Séoul](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/seoul.html)"
 time: "10h30"
 url: https://www.durham.ac.uk/business/our-people/lucia-sbragia/
 ---
