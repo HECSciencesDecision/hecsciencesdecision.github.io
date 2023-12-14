@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "An exploration-agnostic characterization of the ergodicity of parallel tempering"
 author: "[Trevor Campbell](https://trevorcampbell.me/)"
 date: 2024-01-26
 categories: [2023-2024, CMSQ]
@@ -11,6 +11,9 @@ url: https://trevorcampbell.me/
 
 # Résumé
 
+Non-reversible parallel tempering (NRPT) is an effective algorithm for sampling from target distributions with complex geometry, such as those arising from posterior distributions of weakly identifiable and high-dimensional Bayesian models. In this talk I will establish the uniform geometric ergodicity of NRPT under an efficient local exploration hypothesis, which avoids the intricacies of dealing with kernel-specific properties. The rates that we obtain are bounded in terms of an easily-estimable divergence, the global communication barrier (GCB), that was recently introduced in the literature. We obtain analogous ergodicity results for classical reversible parallel tempering, providing new evidence that NRPT dominates its reversible counterpart. I will also present some general properties of the GCB and bound it in terms of the total variation distance and the inclusive/exclusive Kullback-Leibler divergences. I will conclude the talk with simulations that validate the new theoretical analysis.
+
+This is based on joint work with Nikola Surjanovic, Saifuddin Syed, and Alexandre Bouchard-Côté.
 
 
 # Biographie
