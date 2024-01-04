@@ -4,8 +4,8 @@ author: "[Daniele Durante](https://danieledurante.github.io/web/)"
 date: 2024-03-15
 categories: [2023-2024, CMSQ]
 draft: false
-room: "salle [Groupe Cholette](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)"
-time: "15h30"
+room: "Zoom"
+time: "11h00"
 url: https://danieledurante.github.io/web/
 ---
 
@@ -14,4 +14,4 @@ url: https://danieledurante.github.io/web/
 # Biographie
 
 Dr. Daniele Durante est professeur adjoint à l'Université Bocconi depuis 2017 et chercheur affilié à l'institut de sciences des données et d'analytique de Bocconi, du centre DONDENA de recherche en dynamique sociale et politique publique et du Laboratoire de recherche sur la crise du coronavirus. Daniele a obtenu son doctorat sous la direction de Bruno Scarpa, co-encadré par David Dunson, à l'Université de Padoue, où ila également complété sa maîtrise et un stage post-doctoral. Il est éditeur associé de Biometrika, du *Journal of Computational and Graphical Statistics* et du *Journal of Multivariate Analysis*.
-Durante travaille sur la recherche disciplinaire et la méthodologie Bayésienne; il est le récipiendaire de nombreux prix, dont le prix Laplace, le prix Mitchell, et le prix de la meilleure thèse de doctorat de la *Società Italiana di Statistica*.
+Durante travaille sur la recherche disciplinaire et la méthodologie bayésienne; il est le récipiendaire de nombreux prix, dont le prix Laplace, le prix Mitchell, et le prix de la meilleure thèse de doctorat de la *Società Italiana di Statistica*.
