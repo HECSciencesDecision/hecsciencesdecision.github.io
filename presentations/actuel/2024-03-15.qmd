@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Skew-symmetric approximations of posterior distributions"
 author: "[Daniele Durante](https://danieledurante.github.io/web/)"
 date: 2024-03-15
 categories: [2023-2024, CMSQ]
@@ -10,6 +10,10 @@ url: https://danieledurante.github.io/web/
 ---
 
 # Résumé
+
+
+
+A broad class of regression models that routinely appear in several fields of application can be expressed as partially or fully discretized Gaussian linear regressions. Besides incorporating the classical Gaussian response setting, this class crucially encompasses probit, multinomial probit and tobit models, among others. The relevance of these representations has motivated decades of active research within the Bayesian field. A main reason for this constant interest is that, unlike for the Gaussian response setting, the posterior distributions induced by these models do not seem to belong to a known and tractable class, under the commonly-assumed Gaussian priors. In this seminar, I will review, unify and extend recent advances in Bayesian inference and computation for such a class of models, proving that unified skew-normal (SUN) distributions (which include Gaussians as a special case) are conjugate to the general form of the likelihood induced by these formulations. This result opens new avenues for improved sampling-based methods and more accurate and scalable deterministic approximations from variational Bayes. These results are further extended via a general and provably-optimal strategy to improve, via a simple perturbation, the accuracy of any symmetric approximation of a generic posterior distribution. Crucially, such a novel perturbation is derived without additional optimization steps and yields a similarly-tractable approximation within the class of skew-symmetric densities that provably enhances the finite-sample accuracy of the original symmetric approximation. Theoretical support is provided, in asymptotic settings, via a refined version of the Bernstein–von Mises theorem that relies on skew-symmetric limiting densities.
 
 # Biographie
 
