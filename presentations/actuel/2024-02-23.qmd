@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Adaptive Bayesian predictive inference"
 author: "[Veronika Ročková](http://veronikarock.com/)"
 date: 2024-02-23
 categories: [2023-2024, CMSQ]
@@ -11,4 +11,8 @@ url: http://veronikarock.com/
 
 # Résumé
 
+Bayesian predictive inference provides a coherent description of entire predictive uncertainty through predictive distributions. We examine several widely used sparsity priors from the predictive (as opposed to estimation) inference viewpoint. Our context is estimating a predictive distribution of a high-dimensional Gaussian observation with a known variance but an unknown sparse mean under the Kullback--Leibler loss. First, we show that LASSO (Laplace) priors are incapable of achieving rate-optimal performance. This new result contributes to the literature on negative findings about Bayesian LASSO posteriors. However, deploying the Laplace prior inside the Spike-and-Slab framework (for example with the Spike-and-Slab LASSO prior), rate-minimax performance can be attained with properly tuned parameters (depending on the sparsity level sn). We highlight the discrepancy be- tween prior calibration for the purpose of prediction and estimation. Going further, we investigate popular hierarchical priors which are known to attain adaptive rate-minimax performance for estimation. Whether or not they are rate-minimax also for predictive inference has, until now, been unclear. We answer affirmatively by showing that hierarchical Spike-and-Slab priors are adaptive and attain the minimax rate without the knowledge of sn. This is the first rate-adaptive result in the literature on predictive density estimation in sparse setups. This finding celebrates benefits of a fully Bayesian inference.
+
 # Biographie
+
+Veronika Ročková est professeure titulaire d'économétrie et de statistique à l'École de gestion Booth de l'Université de Chicago. Elle détient un doctorat en biostatistiques de l'université Erasmus Rotterdam, une maîtrise en mathématiques statistiques de l'Université Charles de Prague et une maîtrise en biostatistique de Hasselt en Belgique. Avant de venir à Chicago, Dre Ročková a complété un stage postdoctoral à l'école Warton de l'Université de Pennsylvanie. Son expertise se situe à l'intersection des méthodes bayésiennes et fréquentistes, notamment en ce qui a trait à la sélection de variables, la quantification de l'incertitude, les méthodes nonparamétriques bayésiennes, les modèles factoriels et dynamiques, la théorie de la décision en haute dimension. Dre Ročková a reçu le prix des Leaders émergents du COPPS en 2023 et une subvention CAREER en 2020. Elle siège sur le comité éditorial des revues *Annals of Statistics*, *Journal of the American Statistical Association* et du *Journal of Royal Statistical Society (Series B)*. 
