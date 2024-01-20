@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Recent Advances in Methods for Solving Stochastic Integer Programming Problems "
 author: "[Jim Luedtke](https://jrluedtke.github.io/)"
 date: 2024-02-16
 categories: [2023-2024, GERAD]
@@ -11,6 +11,13 @@ url: https://jrluedtke.github.io/
 
 # Résumé
 
+Stochastic integer programming (SIP) problems combine the power of integer decision variables for modeling discrete decisions and logical relationships with the ability of stochastic programming to manage uncertainty when operating, planning, and designing systems. Because of this combination, SIP can be useful in a wide range of applications including power grid operation, employee staffing, and supply chain network design. This combination of features also leads to models that can be extremely difficult so solve. We present recent work in solving these types of problems, including the enhancements to the branch-and-cut method for solving a single instance and techniques for accelerating the solution of multiple instances, as is required when using the sample average approximation technique. This is based on work with Rui Chen and Harshit Kothari.
+
+Bio:
+
+
 # Biographie
 
 Dr. Jim Luedtke est professeur titulaire au département d'ingénierie industrielle et système de l'Université de Wisconsin-Madison. Il a obtenu son doctorat de Georgia Institute of Technology en 2007. Spécialiste de l'optimisation nonlinéaire, stochastique et linéaire avec entiers mixtes, il est actif au sein de la société INFORMS d'optimisation et rédacteur adjoint de Mathematical Programming Computation.
+
+*Jim Luedtke is a Professor in the department of Industrial and Systems Engineering at the University of Wisconsin-Madison. Luedtke earned his Ph.D. at Georgia Tech and did postdoctoral work at the IBM T.J. Watson Research Center. Luedtke's research is focused on methods for solving stochastic and mixed-integer optimization problems, as well as applications of such models. Luedtke is a recipient of an NSF CAREER award, was a finalist in the INFORMS JFIG Best Paper competition, and was awarded the INFORMS Optimization Society Prize for Young Researchers. Luedtke serves on the editorial board of Mathematical Programming Computation, is chair of the Mathematical Optimization Society Publications Committee, and serves as Vice-Chair for Optimization under Uncertainty for the INFORMS Optimization Society.*
