@@ -4,7 +4,7 @@ author: "[Veronika Ročková](http://veronikarock.com/)"
 date: 2024-02-23
 categories: [2023-2024, CMSQ]
 draft: false
-room: "salle [Groupe Vilnius](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/vilnius.html)"
+room: "Zoom"
 time: "15h30"
 url: http://veronikarock.com/
 ---

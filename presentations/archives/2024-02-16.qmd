@@ -2,7 +2,7 @@
 title: "Recent Advances in Methods for Solving Stochastic Integer Programming Problems "
 author: "[Jim Luedtke](https://jrluedtke.github.io/)"
 date: 2024-02-16
-categories: [2023-2024, GERAD]
+categories: [2023-2024]
 draft: false
 room: "salle [Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "10h00"
@@ -12,8 +12,6 @@ url: https://jrluedtke.github.io/
 # Résumé
 
 Stochastic integer programming (SIP) problems combine the power of integer decision variables for modeling discrete decisions and logical relationships with the ability of stochastic programming to manage uncertainty when operating, planning, and designing systems. Because of this combination, SIP can be useful in a wide range of applications including power grid operation, employee staffing, and supply chain network design. This combination of features also leads to models that can be extremely difficult so solve. We present recent work in solving these types of problems, including the enhancements to the branch-and-cut method for solving a single instance and techniques for accelerating the solution of multiple instances, as is required when using the sample average approximation technique. This is based on work with Rui Chen and Harshit Kothari.
-
-Bio:
 
 
 # Biographie
