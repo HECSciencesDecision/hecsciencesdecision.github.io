@@ -2,15 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
-      "/presentations/actuel/2024-02-23.html",
       "/presentations/actuel/2024-03-15.html",
       "/presentations/actuel/2024-04-05.html",
-      "/presentations/actuel/2024-04-12.html"
+      "/presentations/actuel/2024-04-11.html",
+      "/presentations/actuel/2024-04-12.html",
+      "/presentations/actuel/2024-04-30.html"
     ]
   },
   {
     "listing": "/archives.html",
     "items": [
+      "/presentations/archives/2024-02-23.html",
       "/presentations/archives/2024-02-16.html",
       "/presentations/archives/2024-01-26.html",
       "/presentations/archives/2023-12-20.html",

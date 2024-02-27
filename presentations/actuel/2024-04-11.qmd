@@ -1,0 +1,21 @@
+---
+title: "On the design of public debate in social networks"
+author: "[Michael Grabisch](https://sites.google.com/site/michelgrabisch/)"
+date: 2024-04-11
+categories: [2023-2024,"Chaire de théorie des jeux et gestion"]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://sites.google.com/site/michelgrabisch/
+---
+
+# Résumé
+
+We propose a model of the joint evolution of opinions and social relationships in a setting where social influence decays over time. The dynamics are based on bounded confidence: social connections between individuals with distant opinions
+are severed while new connections are formed between individuals with similar opinions. Our model naturally gives raise to strong diversity, i.e., the persistence of heterogeneous opinions in connected societies, a phenomenon that most existing
+models fail to capture. The intensity of social interactions is the key parameter that governs the dynamics. First, it determines the asymptotic distribution of opinions. In particular, increasing the intensity of social interactions brings society closer to consensus. Second, it determines the risk of polarization, which is shown to increase with the intensity of social interactions. Our results allow to frame the problem of the design of public debates in a formal setting. We hence characterize the optimal strategy for a social planner who controls the intensity of the public debate and thus faces a trade-off between the pursuit of social consensus and the risk of polarization. We also consider applications to political campaigning and show that both minority and majority candidates can have incentives to lead society towards polarization.
+(with A. Mandel and A. Rusinowska).
+
+# Biographie
+
+Dr. Michel Grabisch est professeur titulaire de sciences informatiques à l'Université Paris I Panthéon-Sorbonne et à l'École d'économie de Paris. Il a obtenu un doctorat en traitement de signaux de l'ENSIEG et son HDR de l'Université Paris VI. Après 15 ans comme ingénieur dans des instituts recherche, il s'est joint à l'Université Paris VI pour ensuite devenir professeur titulaire à Paris I. Il est coéditeur en chef du *Quarterly Journal of Operations Research* et éditeur adjoint de plusieurs revues. Michel a publié cinq livres, 141 articles dans des journaux avec comités d'arbitres et 114 articles dans des comptes rendus arbitrés de congrès. Ses intérêts de recherche portent sur la prise de décision, la théorie des jeux coopératifs, les ensembles ordonnées, les mathématiques discrètes et la recherche opérationnelle. Michel est membre senior honoraire de l'Institut universitaire de France.

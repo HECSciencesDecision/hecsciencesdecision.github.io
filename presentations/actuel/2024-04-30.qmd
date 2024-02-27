@@ -1,0 +1,16 @@
+---
+title: "À déterminer"
+author: "[Lucia Sbragia](https://www.durham.ac.uk/business/our-people/lucia-sbragia/)"
+date: 2024-04-30
+categories: [2023-2024]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://www.durham.ac.uk/business/our-people/lucia-sbragia/
+---
+
+# Résumé
+
+# Biographie
+
+Dr. Lucia Sbragia est professeure agrégée de sciences économiques à l'école de gestion de l'Université Durham au Royaume-Uni. Ses intérêts de recherches portent sur l'application de concepts de théorie des jeux et de modélisation nonlinéaire dynamique pour l'étude d'enjeux en lien avec l'environnement et les ressources naturelle, notamment la pêche durable et les accords globaux pour la réduction des émissions de polluants. Elle est détentrice d'un doctorat en économie de l'*Università Cattolica del Sacro Cuore* à Milan.
