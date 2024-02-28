@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Evaluating a major home energy efficiency retrofit program"
 author: "[Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)"
 date: 2024-04-05
 categories: [2023-2024]
@@ -10,6 +10,8 @@ url: https://sites.google.com/site/nicholasjrivers/
 ---
 
 # Résumé
+
+We quantify realized energy consumption, bill savings, and rebates disbursed from Canada's energy efficiency retrofit program. We find that retrofits reduce natural gas consumption for up to 10 years in the average participating home by about 21%, representing 61% of model-predicted natural gas savings. Whole-envelope retrofits are predicted to reduce natural gas consumption by 67%, but in practice only half of these savings are realized. Electricity consumption did not appreciably change, and several recommended retrofits save zero energy. Program-induced gas bill savings peak among relatively low wealth households, whereas rebates were disbursed equally across the house wealth distribution. This is joint work with Maya Papineau and Kareman Yassin.
 
 # Biographie
 
