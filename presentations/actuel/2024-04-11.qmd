@@ -4,7 +4,7 @@ author: "[Michael Grabisch](https://sites.google.com/site/michelgrabisch/)"
 date: 2024-04-11
 categories: [2023-2024,"Chaire de théorie des jeux et gestion"]
 draft: false
-room: "salle à déterminer"
+room: "salle [Paris](https://www.hec.ca/campus/cote_sainte_catherine/3e_etage/salles_cours/paris.html), 3e"
 time: "11h00"
 url: https://sites.google.com/site/michelgrabisch/
 ---

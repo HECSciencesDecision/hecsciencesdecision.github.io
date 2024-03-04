@@ -4,7 +4,7 @@ author: "[Tim Schittekatte](https://www.linkedin.com/in/tim-schittekatte-15b40b5
 date: 2024-04-12
 categories: [2023-2024]
 draft: false
-room: "salle à déterminer"
+room: "salle [Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "13h30"
 url: https://www.linkedin.com/in/tim-schittekatte-15b40b53/
 ---

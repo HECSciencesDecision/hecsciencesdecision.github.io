@@ -4,7 +4,7 @@ author: "[Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)"
 date: 2024-04-05
 categories: [2023-2024]
 draft: false
-room: "salle à déterminer"
+room: "salle [Serge-Saucier](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/serge-saucier.html)"
 time: "11h00"
 url: https://sites.google.com/site/nicholasjrivers/
 ---
