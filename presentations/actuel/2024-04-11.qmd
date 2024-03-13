@@ -4,17 +4,14 @@ author: "[Michael Grabisch](https://sites.google.com/site/michelgrabisch/)"
 date: 2024-04-11
 categories: [2023-2024,"Chaire de théorie des jeux et gestion"]
 draft: false
-room: "salle [Paris](https://www.hec.ca/campus/cote_sainte_catherine/3e_etage/salles_cours/paris.html), 3e"
+room: "salle [Trudeau-Corporation](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/trudeau.html)"
 time: "11h00"
 url: https://sites.google.com/site/michelgrabisch/
 ---
 
 # Résumé
 
-We propose a model of the joint evolution of opinions and social relationships in a setting where social influence decays over time. The dynamics are based on bounded confidence: social connections between individuals with distant opinions
-are severed while new connections are formed between individuals with similar opinions. Our model naturally gives raise to strong diversity, i.e., the persistence of heterogeneous opinions in connected societies, a phenomenon that most existing
-models fail to capture. The intensity of social interactions is the key parameter that governs the dynamics. First, it determines the asymptotic distribution of opinions. In particular, increasing the intensity of social interactions brings society closer to consensus. Second, it determines the risk of polarization, which is shown to increase with the intensity of social interactions. Our results allow to frame the problem of the design of public debates in a formal setting. We hence characterize the optimal strategy for a social planner who controls the intensity of the public debate and thus faces a trade-off between the pursuit of social consensus and the risk of polarization. We also consider applications to political campaigning and show that both minority and majority candidates can have incentives to lead society towards polarization.
-(with A. Mandel and A. Rusinowska).
+We propose a model of the joint evolution of opinions and social relationships in a setting where social influence decays over time. The dynamics are based on bounded confidence: social connections between individuals with distant opinions are severed while new connections are formed between individuals with similar opinions. Our model naturally gives raise to strong diversity, i.e., the persistence of heterogeneous opinions in connected societies, a phenomenon that most existing models fail to capture. The intensity of social interactions is the key parameter that governs the dynamics. First, it determines the asymptotic distribution of opinions. In particular, increasing the intensity of social interactions brings society closer to consensus. Second, it determines the risk of polarization, which is shown to increase with the intensity of social interactions. Our results allow to frame the problem of the design of public debates in a formal setting. We hence characterize the optimal strategy for a social planner who controls the intensity of the public debate and thus faces a trade-off between the pursuit of social consensus and the risk of polarization. We also consider applications to political campaigning and show that both minority and majority candidates can have incentives to lead society towards polarization. This is joint work with A. Mandel and A. Rusinowska.
 
 # Biographie
 
