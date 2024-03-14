@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "International environmental agreements in the presence of adaptation and self-image"
 author: "[Lucia Sbragia](https://www.durham.ac.uk/business/our-people/lucia-sbragia/)"
 date: 2024-04-30
 categories: [2023-2024]
@@ -10,6 +10,9 @@ url: https://www.durham.ac.uk/business/our-people/lucia-sbragia/
 ---
 
 # Résumé
+
+We examine the stability and effectiveness of an international environmental agreement when countries can decide both their emissions and adaptation levels. We assume that adaptation requires a prior irreversible investment and presents the characteristics of a private good by reducing a country's vulnerability to the impact of pollution, while mitigation policies produce a public good by reducing the total amount of pollution.
+By using a stylized model capturing the main features of the Paris agreement, we show that investments in adaptation do not ameliorate the participation to the agreement, total emissions by countries are higher than when countries can only emit, and that global welfare is higher with adaptation than without. All this suggests that adaptation is beneficial even if there may be a loss in participation. We also investigate the impact of a regulated adaptation. This is based on joint work with Michèle Breton.
 
 # Biographie
 
