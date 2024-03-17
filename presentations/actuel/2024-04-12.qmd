@@ -1,5 +1,5 @@
 ---
-title: "À déterminer"
+title: "Designing Distribution Network Tariffs Under Increased Residential End-user Electrification: Can the North America Learn Something from Europe?"
 author: "[Tim Schittekatte](https://www.linkedin.com/in/tim-schittekatte-15b40b53/)"
 date: 2024-04-12
 categories: [2023-2024]
@@ -10,6 +10,9 @@ url: https://www.linkedin.com/in/tim-schittekatte-15b40b53/
 ---
 
 # Résumé
+
+
+As decarbonization policies lead to the electrification of the transportation, buildings, and other end-use sectors, it will be necessary to expand distribution network capacities, at significant cost. Most North American utilities currently recover both energy and network costs via time-invariant (flat) charges for kilowatt-hour (kWh) usage. While energy costs do vary with kWh usage, network costs vary instead with peak kilowatt (kW) demand, so recovering network costs via flat per-kWh charges can provide no incentives to shift peak demand to reduce the need for expensive network expansion. Time-of-use (TOU) tariffs that vary the cost per kWh to reflect changes in generation costs, for instance, give incentives to shift all electric vehicle (EV) charging to low-price periods, potentially raising kW demand in those periods and increasing network expansion costs. Efficiency (and, I will argue, equity) requires separating energy charges from network charges, with appropriate rate designs for each. Accordingly, this talk considers rate designs that unbundle energy and network charges and presents a realistic case study to investigate the implications of combining TOU energy charges with various network tariffs in the face of increased EV penetration. The results provide support for the adoption in North America of ex-ante subscribed capacity tariffs (subscription charges), which have been used in Europe for many years.
 
 # Biographie
 

@@ -2,7 +2,7 @@
 title: "Skew-symmetric approximations of posterior distributions"
 author: "[Daniele Durante](https://danieledurante.github.io/web/)"
 date: 2024-03-15
-categories: [2023-2024, CMSQ]
+categories: [2023-2024, CSMQ]
 draft: false
 room: "Zoom"
 time: "11h00"

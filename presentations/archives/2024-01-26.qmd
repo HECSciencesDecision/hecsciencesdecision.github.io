@@ -2,7 +2,7 @@
 title: "An exploration-agnostic characterization of the ergodicity of parallel tempering"
 author: "[Trevor Campbell](https://trevorcampbell.me/)"
 date: 2024-01-26
-categories: [2023-2024, CMSQ]
+categories: [2023-2024, CSMQ]
 draft: false
 room: "salle [Tkaronto](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/tkaronto.html)"
 time: "15h30"
