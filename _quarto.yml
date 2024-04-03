@@ -21,9 +21,12 @@ website:
       Fabriqué avec [Quarto](https://quarto.org/)
 format:
   html:
+#    template-partials:
+#      - html/title-block.html
     theme:
       - litera
       - html/custom.scss
-  
+
 lang: fr
 date-format: "ddd, D MMM YYYY"
+

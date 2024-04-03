@@ -4,7 +4,7 @@ author: "[Lucia Sbragia](https://www.durham.ac.uk/business/our-people/lucia-sbra
 date: 2024-04-30
 categories: [2023-2024]
 draft: false
-room: "salle à déterminer"
+room: "salle [Tkaronto](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/tkaronto.html)"
 time: "11h00"
 url: https://www.durham.ac.uk/business/our-people/lucia-sbragia/
 ---
