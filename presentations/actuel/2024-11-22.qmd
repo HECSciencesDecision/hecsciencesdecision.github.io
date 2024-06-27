@@ -5,7 +5,7 @@ date: 2024-11-22
 categories: [2024-2025]
 draft: false
 room: "salle à déterminer"
-time: "13h00"
+time: "14h00"
 url: https://uwaterloo.ca/scholar/lmhagar
 ---
 
