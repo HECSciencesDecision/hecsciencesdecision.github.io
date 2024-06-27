@@ -2,7 +2,7 @@
 title: "TBD"
 author: "[Roberto Renò](https://sites.google.com/essec.edu/reno/)"
 date: 2024-09-24
-categories: [2023-2024]
+categories: [2024-2025]
 draft: false
 room: "salle à déterminer"
 time: "14h00"
