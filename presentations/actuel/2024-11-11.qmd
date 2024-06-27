@@ -1,0 +1,16 @@
+---
+title: "TBD"
+author: "[Sibel Alumur Alev](https://uwaterloo.ca/scholar/salumura/home)"
+date: 2024-11-11
+categories: [GERAD, 2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://uwaterloo.ca/scholar/salumura/home
+---
+
+# Résumé
+
+# Biographie
+
+Dr. Alumur Alev is a tenured Associate Professor in the Department of Management Science and Engineering at the University of Waterloo. She received her Ph.D. degree in Industrial Engineering from Bilkent University in 2009 and subsequently served as a Post-Doctoral Researcher at the Institute of Operations Research at Karlsruhe Institute of Technology, Germany. Before joining the University of Waterloo in 2014, she worked as an Assistant Professor at TOBB University of Economics and Technology in Ankara. In 2017, she received the Chuck ReVelle Rising Star Award from the Institute for Operations Research and the Management Sciences (INFORMS) as a recognition of her research accomplishments in Location Analysis. In 2020, she received an Outstanding Performance Award at the University of Waterloo and in 2023, she was awarded the Engineering Research Excellence Award in recognition of her outstanding research accomplishments in the Faculty of Engineering.  She currently serves as the Senior Associate Editor for the journal Socio-Economic Planning Sciences, an Associate Editor for the journals Transportation Science and Service Science, an Editorial Board Editor for Transportation Research Part B, and an Editorial Board Member for Computers & Operations Research. Her research interests lie in optimizing facility locations and logistics operations, in particular, hub location, hub network design, supply chain and reverse logistics network design.

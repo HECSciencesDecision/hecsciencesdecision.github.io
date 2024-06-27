@@ -238,3 +238,44 @@ pre.text, pre.sourceCode, .cell-output pre {
 pre.text {
   color: #000;
 }
+
+
+#title-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px; // Chrome draws 1px white line between navbar and title block
+}
+
+#title-header .abstract {
+  margin-block-start: 1rem;
+}
+
+#title-header .abstract .abstract-title {
+  font-weight: 600;
+}
+
+#title-header a {
+  text-decoration: none;
+}
+
+#title-header .author,
+#title-header .date,
+#title-header .doi {
+  margin-block-end: 0.2rem;
+}
+
+#title-header .quarto-title > div {
+  display: flex;
+}
+
+#title-header .quarto-title > div > h1 {
+  flex-grow: 1;
+}
+
+#title-header .quarto-title .title > div > button {
+  flex-shrink: 0;
+  height: 2.25rem;
+  margin-top: 0;
+}
+
+

@@ -1,0 +1,16 @@
+---
+title: "TBD"
+author: "[Roberto Renò](https://sites.google.com/essec.edu/reno/)"
+date: 2024-09-24
+categories: [2023-2024]
+draft: false
+room: "salle à déterminer"
+time: "14h00"
+url: https://sites.google.com/essec.edu/reno/
+---
+
+# Résumé
+
+# Biographie
+
+Roberto Renò is Professor at the IDS Department (Information Systems, Decision Sciences and Statistics) at ESSEC Business School. He is a former professor  Quantitative Finance at the University of Siena. He holds a PhD in Financial Mathematics at Scuola Normale Superiore in Pisa, and a Degree in Physics at the University of Pisa. His research focuses on various aspects of econometrics and finance, with specific contributions in asset pricing, high frequency financial econometrics, nonparametric statistics. 

@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Marie-Pier Côté](https://www.fsg.ulaval.ca/corps-professoral/marie-pier-cote)"
+date: 2024-12-05
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://www.fsg.ulaval.ca/corps-professoral/marie-pier-cote
+---
+
+# Résumé
+
+
+# Biographie
+
+Marie-Pier Côté est professeure agrégée à l'École d'actuariat de l'Université Laval depuis 2018, et titulaire de la Chaire de leadership en enseignement en analyse de données massives pour l'actuariat - Intact. Elle détient un doctorat en statistique de l'Université McGill (2018) et est membre Fellow de la Société des actuaires. Ses travaux de recherche sur l'apprentissage statistique en actuariat lui ont valu le prix du meilleur article publié en 2021 dans le North American Actuarial Journal et le prix Patrick Brockett & Arnold Shapiro Award de l'American Risk and Insurance Association. Elle s'intéresse notamment à l'équité algorithmique en actuariat et à la modélisation statistique de la dépendance et des risques actuariels.

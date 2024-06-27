@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Tim Schittekatte">
+<meta name="author" content="Alexandre Bouchard-Côté">
 
-<title>Séminaires de sciences de la décision - Designing Distribution Network Tariffs Under Increased Residential End-user Electrification: Can the North America Learn Something from Europe?</title>
+<title>Séminaires de sciences de la décision - Computational Lebesgue Integration</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,6 +60,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -96,52 +98,55 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Computational Lebesgue Integration</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">CSMQ</div>
+                <div class="quarto-category">2024-2025</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Invité(e)</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://www.stat.ubc.ca/~bouchard/">Alexandre Bouchard-Côté</a> </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Date</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">ven., 27 sept. 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Designing Distribution Network Tariffs Under Increased Residential End-user Electrification: Can the North America Learn Something from Europe?</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">2023-2024</div>
-  </div>
-  </div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Invité(e)</div>
-    <div class="quarto-title-meta-contents">
-             <p><a href="https://www.linkedin.com/in/tim-schittekatte-15b40b53/">Tim Schittekatte</a> </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Date</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">ven., 12 avr. 2024</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-</header>
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
-<p>As decarbonization policies lead to the electrification of the transportation, buildings, and other end-use sectors, it will be necessary to expand distribution network capacities, at significant cost. Most North American utilities currently recover both energy and network costs via time-invariant (flat) charges for kilowatt-hour (kWh) usage. While energy costs do vary with kWh usage, network costs vary instead with peak kilowatt (kW) demand, so recovering network costs via flat per-kWh charges can provide no incentives to shift peak demand to reduce the need for expensive network expansion. Time-of-use (TOU) tariffs that vary the cost per kWh to reflect changes in generation costs, for instance, give incentives to shift all electric vehicle (EV) charging to low-price periods, potentially raising kW demand in those periods and increasing network expansion costs. Efficiency (and, I will argue, equity) requires separating energy charges from network charges, with appropriate rate designs for each. Accordingly, this talk considers rate designs that unbundle energy and network charges and presents a realistic case study to investigate the implications of combining TOU energy charges with various network tariffs in the face of increased EV penetration. The results provide support for the adoption in North America of ex-ante subscribed capacity tariffs (subscription charges), which have been used in Europe for many years.</p>
+<p>In many modern applications in science and engineering, we seek to reconstruct a complicated object x from noisy data y, for example, one may seek to reconstruct an evolutionary tree from sequencing data. In principle, Bayesian statistics provides a broad framework to approach such problems, by modelling knowns and unknowns as random variables <span class="math inline">\(X\)</span> and <span class="math inline">\(Y\)</span>. Since the notion of a posterior distribution, <span class="math inline">\(X \mid Y\)</span>, is defined under very general conditions, Bayesian inference is in a sense universal for the purpose of data analysis. In contrast, other inferential setups often require, among other things, for <span class="math inline">\(x\)</span> to be real-valued in order to use approximations such as those based on the central limit theorem. However, this generality hinges on being able to approximate expectation with respect to an arbitrary measure. Can we develop generic sampling methods in such an unstructured context? Surprisingly, practical generic methodologies are indeed possible. I will review the literature and describe some of our work in the area with a focus on recent developments based on non-reversible and regenerative MCMC. My group is also working on making these complex Monte Carlo methods easy to use: check out <code>https://pigeons.run/dev/</code>, a package allowing the user to leverage clusters of 1000s of nodes to speed-up difficult Monte Carlo problems without requiring knowledge of distributed algorithms.</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
-<p>Dr.&nbsp;Tim Schittekatte is a Senior Director at FTI Consulting in London, a senior lecturer at MIT and a part-time assistant professor at the Florence School of Regulation (FSR), where he worked as research fellow for five years. He is a former Research Scientist at the MIT Energy Initiative, where he researched on power market design and regulation. Before joining FSR in May 2016, he was a visiting researcher at the Grid Integration Group of the Lawrence Berkeley National Lab and a junior economist at Microeconomix in Paris. Tim holds a PhD in energy economics from University Paris-Sud XI.</p>
+<p>Alexandre Bouchard-Côté is a full professor at the University of British Columbia (Vancouver) in the Department of Statistics, which he joined in 2011 as assistant professor. Alex completed his PhD in Computer Science at the University of California, Berkeley in 2010, under the supervision of Michael Jordan and Dan Klein. Before that, he studied at McGill for a bachelor in mathematics and computer science (joint honours). His main field of research is in computational statistics/statistical machine learning, with applications in linguistics and biology. On the methodology side, he is interested in Monte Carlo methods such as SMC and MCMC, graphical models, non-parametric Bayesian statistics, randomized algorithms, and variational inference. He has received numerous awards, including the CRM-SSC Prize in Statistics (2024), the PIMS-UBC Mathematical Sciences Young Faculty Award (2018), the IMS Tweedie New Researcher Award (2016).</p>
 
 
 </section>

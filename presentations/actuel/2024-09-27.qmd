@@ -1,0 +1,18 @@
+---
+title: "Computational Lebesgue Integration"
+author: "[Alexandre Bouchard-Côté](https://www.stat.ubc.ca/~bouchard/)"
+date: 2024-09-27
+categories: [CSMQ, 2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "15h30"
+url: https://www.stat.ubc.ca/~bouchard/
+---
+
+# Résumé
+
+In many modern applications in science and engineering, we seek to reconstruct a complicated object x from noisy data y, for example, one may seek to reconstruct an evolutionary tree from sequencing data. In principle, Bayesian statistics provides a broad framework to approach such problems, by modelling knowns and unknowns as random variables $X$ and $Y$. Since the notion of a posterior distribution, $X \mid Y$, is defined under very general conditions, Bayesian inference is in a sense universal for the purpose of data analysis. In contrast, other inferential setups often require, among other things, for $x$ to be real-valued in order to use approximations such as those based on the central limit theorem. However, this generality hinges on being able to approximate expectation with respect to an arbitrary measure. Can we develop generic sampling methods in such an unstructured context? Surprisingly, practical generic methodologies are indeed possible. I will review the literature and describe some of our work in the area with a focus on recent developments based on non-reversible and regenerative MCMC. My group is also working on making these complex Monte Carlo methods easy to use: check out `https://pigeons.run/dev/`, a package allowing the user to leverage clusters of 1000s of nodes to speed-up difficult Monte Carlo problems without requiring knowledge of distributed algorithms.
+
+# Biographie
+
+Alexandre Bouchard-Côté is a full professor at the University of British Columbia (Vancouver) in the Department of Statistics, which he joined in 2011 as assistant professor. Alex completed his PhD in Computer Science at the University of California, Berkeley in 2010, under the supervision of Michael Jordan and Dan Klein. Before that, he studied at McGill for a bachelor in mathematics and computer science (joint honours). His main field of research is in computational statistics/statistical machine learning, with applications in linguistics and biology. On the methodology side, he is interested in Monte Carlo methods such as SMC and MCMC, graphical models, non-parametric Bayesian statistics, randomized algorithms, and variational inference. He has received numerous awards, including the CRM-SSC Prize in Statistics (2024), the PIMS-UBC Mathematical Sciences Young Faculty Award (2018), the IMS Tweedie New Researcher Award (2016).
