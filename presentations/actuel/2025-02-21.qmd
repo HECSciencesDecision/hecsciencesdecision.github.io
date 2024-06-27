@@ -1,0 +1,19 @@
+---
+title: "TBD"
+author: "[Genevera Allen](https://genevera.rice.edu/)"
+date: 2025-02-21
+categories: [CSMQ,2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "14h00"
+url: https://genevera.rice.edu/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Genevera Allen is a professor of statistics at Columbia University and an investigator at the Zuckerman Institute. Before joining Columbia, she served as assistant and associate professor of Electrical and Computer Engineering, Statistics, and Computer Science at Rice University and as investigator at the Jan and Dan Duncan Neurological Research Institute at Texas Children's Hospital and Baylor College of Medicine. She is also the Founding Director of the Rice Center for Transforming Data to Knowledge. Dr. Allen received her Ph.D. in statistics in 2010 from Stanford University under the mentorship of Prof. Robert Tibshirani.
+
+Dr. Allen's research develops new statistical machine learning tools to help people make reliable data-driven discoveries. She is known for her methods and theory work in the areas of unsupervised learning, interpretable machine learning, data integration, graphical models, and high-dimensional statistics. Dr. Allen is the recipient of several honors for both her research and educational efforts including a National Science Foundation Career Award, Rice University’s Duncan Achievement Award for Outstanding Faculty, the Curriculum Innovation Award, and the School of Engineering’s Research and Teaching Excellence Award.  In 2014, she was named to the “Forbes ’30 under 30′: Science and Healthcare” list.  She is also an elected member of the International Statistics Institute and an elected fellow of the American Statistical Association and of the Institute for Mathematical Statistics. 
