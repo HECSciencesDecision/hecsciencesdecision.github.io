@@ -1,19 +1,18 @@
 ---
-title: "Scalable design with posterior-based operating characteristics"
-author: "[Luke Hagar](https://uwaterloo.ca/scholar/lmhagar)"
+title: "Scalable Bayesian design for business innovation"
+author: "[Luke Hagar](https://lmhagar.github.io/)"
 date: 2024-11-22
 categories: [2024-2025]
 draft: false
 room: "salle à déterminer"
 time: "14h00"
-url: https://uwaterloo.ca/scholar/lmhagar
+url: https://lmhagar.github.io/
 ---
 
 # Résumé
 
 
-
-To design trustworthy Bayesian studies, criteria for posterior-based operating characteristics --- such as power and the type I error rate --- are often defined in clinical, industrial, and corporate settings. These posterior-based operating characteristics are typically assessed by exploring sampling distributions of posterior probabilities via simulation. In this paper, we propose a scalable method to determine optimal sample sizes and decision criteria that maps posterior probabilities to low-dimensional conduits for the data. Our method leverages this mapping and large-sample theory to explore sampling distributions of posterior probabilities in a targeted manner. This targeted exploration approach prompts consistent sample size recommendations with fewer simulation repetitions than standard methods. We repurpose the posterior probabilities computed in that approach to efficiently investigate various sample sizes and decision criteria using contour plots.
+Abstract: Trustworthy Bayesian studies can be designed to satisfy criteria for operating characteristics of posterior analyses – such as power and the type I error rate. Such studies may inform decision-making processes in business analytics, marketing strategies, and product development. Operating characteristics for posterior analyses are typically assessed by exploring entire sampling distributions of posterior probabilities via simulation. We propose a scalable method to determine optimal sample sizes and decision criteria that maps posterior probabilities to low-dimensional conduits for the data. Our method leverages this mapping and large-sample theory to explore segments of the relevant sampling distributions. This approach prompts consistent sample size recommendations with fewer simulation repetitions than standard methods. We repurpose the posterior probabilities computed in that approach to efficiently investigate various sample sizes and decision criteria using contour plots.
 
 # Biographie
 
