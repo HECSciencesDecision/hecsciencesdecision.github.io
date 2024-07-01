@@ -1,0 +1,16 @@
+---
+title: "TBD"
+author: "[Bart Van Parys](https://www.vanparys.xyz/)"
+date: 2024-10-18
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://www.vanparys.xyz/
+---
+
+# Résumé
+
+# Biographie
+
+Dr. Bart Van Parys is an associate professor in the stochastics group at the National research institute for mathematics and computer science (CWI) in Amsterdam, the Netherlands. Before joining CWI, he was an Assistant Professor in Operations Research and Statistics at the MIT Sloan School of Management. His research is located on the interface between optimization and machine learning, focusing on the development of novel mathematical methodologies and algorithms for better decision making based on data. Bart received a PhD degree with Manfred Morari from ETHZ in 2015.
