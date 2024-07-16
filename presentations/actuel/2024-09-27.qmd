@@ -3,7 +3,7 @@ title: "Computational Lebesgue Integration"
 author: "[Alexandre Bouchard-Côté](https://www.stat.ubc.ca/~bouchard/)"
 date: 2024-09-27
 categories: [CSMQ, 2024-2025]
-draft: false
+draft: true
 room: "salle à déterminer"
 time: "15h30"
 url: https://www.stat.ubc.ca/~bouchard/
