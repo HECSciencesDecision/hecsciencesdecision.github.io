@@ -1,0 +1,16 @@
+---
+title: "TBD"
+author: "[Luca Trapin](https://sites.google.com/site/lucatrapin/home)"
+date: 2024-08-29
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "10h00"
+url: https://sites.google.com/site/lucatrapin/home
+---
+
+# Résumé
+
+# Biographie
+
+Dr. Luca Trapin is an associate professor of economic statistics in the Department of Statistics at the University of Bologna. Before moving to Bologna, he was Assistant Professor of Econometrics at Università Cattolica del Sacro Cuore, Post-doctoral Fellow in the Quantitative Finance Group at Scuola Normale Superiore in Pisa, under the supervision of Prof. Davide Pirino, and Post-doctoral Fellow at the Department of Decision Sciences at HEC Montréal, under the supervision of Prof. Debbie Dupuis. Luca received my Ph.D. in Economics from IMT School for Advanced Studies Lucca, under the supervision of Prof. Massimo Riccaboni and Prof. Marco Bee. His research interests are in statistical analysis of financial data, extreme value analysis for policy decisions, economics and business forecasting.
