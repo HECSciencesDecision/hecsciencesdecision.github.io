@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "High-dimensional approximate dynamic matrix factor models: Estimation via the Kalman smoother and the EM algorithm"
 author: "[Luca Trapin](https://sites.google.com/site/lucatrapin/home)"
 date: 2024-08-29
 categories: [2024-2025]
@@ -10,6 +10,11 @@ url: https://sites.google.com/site/lucatrapin/home
 ---
 
 # Résumé
+
+
+High-dimensional matrix-variate time series data are becoming increasingly popular in economics and finance. This has stimulated the development of matrix factor models to achieve significant dimension reduction. This paper proposes an approximate dynamic matrix factor model that accounts for the time series nature of the data, and develops an estimator of the model parameters based on the EM algorithm and the Kalman smoother that allows to handle arbitrary patterns of missing data. We establish the consistency of the estimated loadings and factor matrices. The finite sample properties of the estimators are assessed through a large simulation study and an application to a financial dataset. This is joint work with Matteo Barigozzi (University of Bologna).
+
+ 
 
 # Biographie
 
