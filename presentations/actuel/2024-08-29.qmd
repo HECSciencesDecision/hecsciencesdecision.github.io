@@ -4,7 +4,7 @@ author: "[Luca Trapin](https://sites.google.com/site/lucatrapin/home)"
 date: 2024-08-29
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Paris](https://www.hec.ca/campus/cote_sainte_catherine/3e_etage/salles_cours/paris.html)"
 time: "10h00"
 url: https://sites.google.com/site/lucatrapin/home
 ---
