@@ -4,7 +4,7 @@ author: "[Roberto Renò](https://sites.google.com/essec.edu/reno/)"
 date: 2024-09-24
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Québecor](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html)"
 time: "14h00"
 url: https://sites.google.com/essec.edu/reno/
 ---
