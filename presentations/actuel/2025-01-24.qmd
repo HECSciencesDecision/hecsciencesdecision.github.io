@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Marie Davidian](https://statistics.sciences.ncsu.edu/people/davidian/)"
+date: 2025-01-24
+categories: [CSMQ,2024-2025]
+draft: false
+room: "Zoom"
+time: "15h30"
+url: https://statistics.sciences.ncsu.edu/people/davidian/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Marie Davidian is the J. Stuart Hunter Distinguished Professor at the Department of Statistics of North Carolina State University in Raleigh. She received her Ph.D. in Statistics from the Department of Statistics at the University of North Carolina at Chapel Hill in 1987 under the direction of Raymond J. Carroll. Her interests include statistical methods for estimating optimal treatment regimes from data; methods for analysis of clinical trials and observational studies, including approaches for drawing causal inferences; statistical models and methods for analysis of longitudinal data, especially nonlinear mixed effects models; methods for handling missing and mismeasured data; and pharmacokinetic and pharmacodynamic analysis. She is a former president of ENAR' COPS, a fellow of IMS, ASA, AAAS. Marie has published four books, more than 135 research papers. She has advised or co-supervised more than 30 PhD students and is recognized worldwide for her service to the profession and her expertise.
