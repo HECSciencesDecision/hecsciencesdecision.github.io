@@ -4,7 +4,7 @@ author: "[Sibel Alumur Alev](https://uwaterloo.ca/scholar/salumura/home)"
 date: 2024-11-11
 categories: [GERAD, 2024-2025]
 draft: false
-room: "salle [groupe Cholette](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)"
+room: "salle [Florence](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/florence.html)"
 time: "11h00"
 url: https://uwaterloo.ca/scholar/salumura/home
 ---
