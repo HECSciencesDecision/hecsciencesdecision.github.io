@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "Disciplined Decisions in the Face of Uncertainty and Data"
 author: "[Bart Van Parys](https://www.vanparys.xyz/)"
 date: 2024-10-18
 categories: [2024-2025]
@@ -10,6 +10,27 @@ url: https://www.vanparys.xyz/
 ---
 
 # Résumé
+
+Problem uncertainty typically limits how well decisions can
+be tailored to the problem at hand but often can not be avoided. The
+availability of large quantities of data in modern applications however
+presents an exciting opportunity to nevertheless make better informed
+decisions. Capitalizing on this opportunity requires developing novel
+tools on the intersection between operations research, stochastics as
+well as data science. In a modern setting the primitive describing
+uncertainty is often messy data rather than classical distributions.
+Simply quantifying the probability of an undesirable outcome becomes a
+challenging uncertainty quantification problem which I approach with a
+distributional optimization lens. Distributional robust optimization
+(DRO) has recently gained prominence as a paradigm for making
+data-driven decisions which are protected against adverse overfitting
+effects. We justify the effectiveness of this paradigm by pointing out
+that certain DRO formulations indeed enjoy optimal statistical
+properties. Furthermore, DRO formulations can also be tailored to
+efficiently protect decisions against overfitting even when working with
+messy corrupted data. Finally, as such formulations are often
+computationally tractable they provide a practical road to the
+development of tomorrow's trustworthy decision systems.
 
 # Biographie
 
