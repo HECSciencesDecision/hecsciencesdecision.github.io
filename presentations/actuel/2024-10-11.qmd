@@ -2,9 +2,9 @@
 title: "Transmission planning in an imperfectly competitive power sector with environmental externalities "
 author: "[Afzal Siddiqui](https://www.su.se/english/profiles/asidd-1.189734)"
 date: 2024-10-11
-categories: [2024-2025]
+categories: [2024-2025,Chaire de gestion du secteur de l’énergie]
 draft: false
-room: "salle à déterminer"
+room: "salle [BMO](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/bmo.html)"
 time: "13h00"
 url: https://www.su.se/english/profiles/asidd-1.189734
 ---
