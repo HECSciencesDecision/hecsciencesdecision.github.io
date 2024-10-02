@@ -1,17 +1,19 @@
 ---
-title: "TBD"
+title: "Inequality in Discrete Choice Models: Applications in the Mobility Context"
 author: "[André de Palma](https://www.cyu.fr/en/research-development/m-andre-de-palma)"
 date: 2024-10-15
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Québecor](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html)"
 time: "13h00"
 url: https://www.cyu.fr/en/research-development/m-andre-de-palma
 ---
 
 # Résumé
 
+Public policies are often evaluated using cost-benefit analysis, but their acceptability also hinges on the distribution of winners and losers. In this presentation, we assess inequality within a discrete choice model framework, starting with theoretical insights into how equity can be defined and measured using tools such as the Lorenz curve and the GINI coefficient. We also briefly examine the influence of heterogeneity on welfare outcomes.  Applications in the mobility sector are discussed, mainly through the dynamic traffic model METROPOLIS. We briefly introduce the model and clarify its link to the W. Vickrey theoretical approach. Finally, we use this framework to evaluate two policies: Low Emission Zones (LEZ) and dynamic carpooling.
 
+ 
 # Biographie
 
 Dr. André de Palma (Ph.D., HDR) est professeur titulaire de classe exceptionnelle à CY Cergy Paris Université, spécialisé dans l'économie du transport. Il est détenteur d'un doctorat en physique de l'Université Libre de Bruxelles et d'un doctorat en économie de l'Université de Bourgogne et d'une HDR en économie. Il est l'auteur de quatre ouvrages de référence, quatre livres à titre d'éditeur et il a publié près de 250 articles dans des revues arbitrés. Ses domaines d'expertises incluent l'économie urbaine et de transport, le finance bancaire et comportementale, l'organisation industrielle, les modèles à choix discrets et la théorie de la décision.
