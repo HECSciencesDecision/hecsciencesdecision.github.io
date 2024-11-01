@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "Selection bias in insurance: why portfolio-specific fairness fails to extend market-wide"
 author: "[Marie-Pier Côté](https://www.fsg.ulaval.ca/corps-professoral/marie-pier-cote)"
 date: 2024-12-05
 categories: [2024-2025]
@@ -11,6 +11,9 @@ url: https://www.fsg.ulaval.ca/corps-professoral/marie-pier-cote
 
 # Résumé
 
+
+
+Fairness centres on people. In insurance, the scope of fairness is the entire insured population, not solely an insurer’s clients. However, each insurance company’s portfolio represents a skewed subsample. Models fit to these selection-biased data do not generalize well for the broader population of insureds. Two biases stem from portfolio composition: representation bias, when large prediction errors are made on individuals from subpopulations infrequently observed, and selection bias, when underwriting and marketing skew the portfolio away from the insured population. We examine how portfolio composition affects fair premium methodologies for mitigating direct and indirect discrimination on a protected attribute. We illustrate how unfairness mitigation based on a selection-biased portfolio does not yield a fair market from the perspective of insureds. Relying on causal inference and a portfolio composition indicator, we describe the selection mechanism and determine conditions under which each bias affects various fairness-adjusted premiums. We propose a method to recover the population-wide fairness-adjusted premiums from selection-biased data, by using a (third-party provided) unbiased estimate of the prohibited attribute distribution. We show that this approach effectively mitigates selection bias but leads to overall premiums that are not balanced. In a limiting case, we show that portfolio-specific fairness-aware premiums can lead to a market-wide unawareness strategy: portfolio composition opens the back door to proxy discrimination.
 
 # Biographie
 
