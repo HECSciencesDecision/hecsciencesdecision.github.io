@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.1">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Renyuan Xu">
 
-<title>À déterminer – Séminaires de sciences de la décision</title>
+<title>Learning to Simulate Tail-risk Scenarios – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -111,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">À déterminer</h1>
+<h1 class="title">Learning to Simulate Tail-risk Scenarios</h1>
   <div class="quarto-categories">
     <div class="quarto-category">2023-2024</div>
     <div class="quarto-category">Quantact</div>
@@ -146,6 +146,10 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
+<p>The estimation of loss distributions for dynamic portfolios requires the simulation of scenarios representing realistic joint dynamics of their components. Scalability to large or heterogeneous portfolios involving multiple asset classes is particularly challenging, as is the accurate representation of tail risk.</p>
+<p>We propose a novel data-driven approach for the simulation of realistic multi-asset scenarios with a particular focus on the accurate estimation of tail risk for a given class of static and dynamic portfolios selected by the user. By exploiting the joint elicitability property of Value-at-Risk (VaR) and Expected Shortfall (ES), we design a Generative Adversarial Network (GAN) architecture capable of learning to simulate price scenarios that preserve tail risk features for these benchmark trading strategies, leading to consistent estimators for their VaR and ES.</p>
+<p>From a theoretical perspective, we show that different choices of score functions lead to different optimization landscapes and different complexities in GAN training. In addition, we prove that the generator in our GAN architecture enjoys a universal approximation property under the criteria of tail risk measures. In addition, we prove the bi-level optimization formulation between the generator and the discriminator is equivalent to a max-min game, leading to a more effective and practical formulation for training. From an empirical perspective, we demonstrate the accuracy and scalability of our method via extensive simulation experiments using synthetic and market data. Our results show that, in contrast to other data-driven scenario generators, our proposed scenario simulation method correctly captures tail risk for both static and dynamic portfolios in the input datasets.</p>
+<p>This is based on joint work with Rama Cont, Mihai Cucuringu, and Chao Zhang (Oxford).</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
