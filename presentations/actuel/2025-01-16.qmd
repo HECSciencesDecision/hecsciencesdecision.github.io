@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Guillaume A. Pouliot](https://sites.google.com/site/guillaumeallairepouliot/)"
+date: 2025-01-16
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://sites.google.com/site/guillaumeallairepouliot/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Guillaume A. Pouliot is assistant professor at the Harris School of Public Policy and the College at the University of Chicago. Pouliot received his PhD from Harvard University.  Previously, he received his B.A. (Honors) in economics as well as his M.S. (concurrent) in statistics from the University of Chicago. His current research focuses on developing statistical methods for nonstandard problems in public policy and economics, as well as the extension of machine learning methods for applications in public policy, and problems at the interface of econometrics and optimization. 
