@@ -1,0 +1,19 @@
+---
+title: "TBD"
+author: "[Pratheepa Jeganathan](https://pratheepaj.github.io/)"
+date: 2025-01-31
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://pratheepaj.github.io/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Pratheepa Jeganathan est professeur adjointe au départmeent de mathématiques et de statisitque de l'Unversité McMaster. Ses intérêts de recherche sont en lien avec l'aprentissage multitâche, les modèles génératifs, les résaux de neurones et la modélisation de données dépendantes. Pratheepa a complété un doctorat à l'Université Texas Tech et a effectué un stage postdoctoral à Stanford avec Susan Holmes.
+
+Dr. Jeganathan's research focuses on developing statistical and computational methods to analyze multi-domain data, especially addressing statistical challenges in microbiome multi-omic and spatial multi-omic data analysis. Current research includes multi-table integration, preprocessing and transformation of high-throughput sequencing data, visualization, hierarchical modeling, Bayesian statistics, statistical inference, block bootstrap method, data mining, and approximation theory in statistics.
