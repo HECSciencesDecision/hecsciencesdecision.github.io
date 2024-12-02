@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.7.1">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Sibel Alumur Alev">
+<meta name="author" content="Luke Hagar">
 
-<title>Locating Facilities for Smart and Sustainable Mobility – Séminaires de sciences de la décision</title>
+<title>Scalable Bayesian design for business innovation – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2bb0ec5e928ee8c40b12725cb7836c35.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d3600f1d3e87269ae6af99b01dd3207b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -102,56 +102,54 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Locating Facilities for Smart and Sustainable Mobility</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">GERAD</div>
-                <div class="quarto-category">2024-2025</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Invité(e)</div>
-      <div class="quarto-title-meta-contents">
-               <p><a href="https://uwaterloo.ca/scholar/salumura/home">Sibel Alumur Alev</a> </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Date</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">lun., 11 nov. 2024</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Scalable Bayesian design for business innovation</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">2024-2025</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Invité(e)</div>
+    <div class="quarto-title-meta-contents">
+             <p><a href="https://lmhagar.github.io/">Luke Hagar</a> </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Date</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">ven., 22 nov. 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
-<p>This talk will explore three facility location problems for smart and sustainable mobility. The first problem focuses on locating and sizing charging stations to support long-distance travel with electric vehicles. A bilevel optimization model is developed where the network planner (leader) minimizes infrastructure costs while meeting probabilistic service requirements for waiting times to charge. Electric vehicle users (followers) minimize their route lengths, affecting charging demand and wait times. The bilevel problem is reduced to a single-level mixed-integer model when stations operate as M/M/c queues and users cooperate. A decomposition-based solution method is developed using a logic-based Benders algorithm. Computational experiments on benchmark and real-world highway networks analyze the impact of route choice, service requirements, and deviation tolerance on decisions. The second problem involves designing hub networks for the strategic deployment of autonomous shuttles. Given a set of passenger trips in an urban area, the goal is to determine the origins and destinations of a fixed number of hub arcs representing shuttle connections to maximize users of the system. This problem is formulated as a maximal covering hub arc location model and solved to optimality using Benders decomposition. Two data-driven clustering-based methodologies are also implemented and compared with the optimization model. Computational experiments using the New York City taxi data compare optimization and data-driven approaches on key performance metrics. The final problem addresses infrastructure design for shared autonomous transportation by locating staging facilities and deploying autonomous lanes. A bi-objective model is developed that minimizes total travel distance as well as non-autonomous lane travel, given a lane deployment budget and the number of staging facilities to locate. Trade-offs are evaluated on benchmark instances.</p>
+<p>Abstract: Trustworthy Bayesian studies can be designed to satisfy criteria for operating characteristics of posterior analyses – such as power and the type I error rate. Such studies may inform decision-making processes in business analytics, marketing strategies, and product development. Operating characteristics for posterior analyses are typically assessed by exploring entire sampling distributions of posterior probabilities via simulation. We propose a scalable method to determine optimal sample sizes and decision criteria that maps posterior probabilities to low-dimensional conduits for the data. Our method leverages this mapping and large-sample theory to explore segments of the relevant sampling distributions. This approach prompts consistent sample size recommendations with fewer simulation repetitions than standard methods. We repurpose the posterior probabilities computed in that approach to efficiently investigate various sample sizes and decision criteria using contour plots.</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
-<p>Dr.&nbsp;Alumur Alev is a tenured Associate Professor in the Department of Management Science and Engineering at the University of Waterloo. She received her Ph.D.&nbsp;degree in Industrial Engineering from Bilkent University in 2009 and subsequently served as a Post-Doctoral Researcher at the Institute of Operations Research at Karlsruhe Institute of Technology, Germany. Before joining the University of Waterloo in 2014, she worked as an Assistant Professor at TOBB University of Economics and Technology in Ankara. In 2017, she received the Chuck ReVelle Rising Star Award from the Institute for Operations Research and the Management Sciences (INFORMS) as a recognition of her research accomplishments in Location Analysis. In 2020, she received an Outstanding Performance Award at the University of Waterloo and in 2023, she was awarded the Engineering Research Excellence Award in recognition of her outstanding research accomplishments in the Faculty of Engineering. She currently serves as the Senior Associate Editor for the journal Socio-Economic Planning Sciences, an Associate Editor for the journals Transportation Science and Service Science, an Editorial Board Editor for Transportation Research Part B, and an Editorial Board Member for Computers &amp; Operations Research. Her research interests lie in optimizing facility locations and logistics operations, in particular, hub location, hub network design, supply chain and reverse logistics network design.</p>
+<p>Dr.&nbsp;Luke Hagar is a postdoctoral fellow at McGill University. He obtained a PhD degree in statistics in 2024 from Waterloo, completed under the supervision of Nathaniel Stevens. Luke works in the field of experimental design: his research interests revolve around efficient sampling techniques, hypothesis testing, Bayesian methods, and computational inference.</p>
 
 
 </section>
@@ -239,8 +237,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -351,7 +347,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
