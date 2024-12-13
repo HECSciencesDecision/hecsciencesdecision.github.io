@@ -4,9 +4,9 @@ author: "[Genevera Allen](https://genevera.rice.edu/)"
 date: 2025-02-21
 categories: [CSMQ,2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Serge Saucier](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/serge-saucier.html)"
 time: "14h00"
-url: https://genevera.rice.edu/
+url: https://genevera-allen.com/
 ---
 
 # Résumé
