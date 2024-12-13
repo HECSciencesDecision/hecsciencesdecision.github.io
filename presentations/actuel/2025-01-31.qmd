@@ -4,7 +4,7 @@ author: "[Pratheepa Jeganathan](https://pratheepaj.github.io/)"
 date: 2025-01-31
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Serge Saucier](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/serge-saucier.html)"
 time: "11h00"
 url: https://pratheepaj.github.io/
 ---
