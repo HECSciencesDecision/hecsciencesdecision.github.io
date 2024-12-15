@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Jean-François Bégin](https://www.sfu.ca/~jbegin/)"
+date: 2025-03-26
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "13h30"
+url: https://www.sfu.ca/~jbegin/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Jean-François Bégin is an Associate Professor in the Department of Statistics and Actuarial Science at Simon Fraser University and a fellow of the Society of Actuaries and of the Canadian Institute of Actuaries. His research interests include probabilistic modelling in finance and insurance, financial econometrics, filtering methods, credit risk, option pricing, pension economics, mortality, and climate risk. Before joining SFU, he completed my PhD at HEC Montréal under the supervision of Geneviève Gauthier.
