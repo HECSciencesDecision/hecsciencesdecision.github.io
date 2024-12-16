@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Orla A. Murphy](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/orla-murphy.html)"
+date: 2025-04-15
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h"
+url: https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/orla-murphy.html
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Orla Murphy is an Assistant Professor in the Department of Mathematics and Statistics at Dalhousie University in Halifax. She completed a PhD at McGill in statistics with Johanna Nešlehová and Christian Genest before moving to McMaster for a postdoctoral fellowship under the guidance of Paul McNicholas. Her research interests revolve around multivariate statistics, notably for  clustering and mixture models, dependence modelling and extreme value analysis.
