@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "Robust Loss Reserve Prediction: A Comparative Analysis of Modern Statistical and Machine Learning Methods"
 author: "[Pratheepa Jeganathan](https://pratheepaj.github.io/)"
 date: 2025-01-31
 categories: [2024-2025]
@@ -11,6 +11,12 @@ url: https://pratheepaj.github.io/
 
 # Résumé
 
+
+In the property and casualty (P&C) and health insurance industries, unpaid losses represent the largest liability on insurers' balance sheets. These losses are typically organized into loss triangles, where rows correspond to accident years, columns denote development years, and cells contain cumulative paid losses up to a given calendar year. The lower triangle represents unpaid losses and requires accurate prediction to ensure solvency and effective risk management. Traditional methods focus on grouped lines of business (LOBs) with similar development patterns, aggregating these predictions to compute the overall reserve. However, such methods often ignore complex dependencies across LOBs—such as shared trends, cross-sectional correlations, and macroeconomic factors like inflation or strategic decisions—leading to non-robust predictions and unstable estimates of risk capital.
+
+In this talk, I will present advancements in using recurrent neural networks (RNNs) and generative adversarial networks (GANs) to tackle these challenges. RNNs excel at capturing complex dependencies in loss sequences, while a copula-based GAN generates synthetic data that mirrors the distributional properties of observed loss triangles. These techniques demonstrate significant improvements in predictive accuracy and stability over traditional methods.
+
+I will also discuss our progress in enhancing seemingly unrelated regression (SUR) models for reserve and risk capital prediction. By incorporating mixed effects to account for heterogeneity across companies and using copulas to model dependencies between LOBs, we improve the robustness of reserve and risk capital predictions. In addition, I will outline an estimation procedure that combines maximum likelihood and residual ranks to refine model parameters. This highlights the potential of a hybrid approach integrating RNNs with a SUR copula mixed model for robust reserve prediction. This is a joint work with Dr. Anas Abdallah and Pengfei Cai. 
 
 # Biographie
 

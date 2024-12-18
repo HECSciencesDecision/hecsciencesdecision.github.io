@@ -1,6 +1,6 @@
 ---
 title: "TBD"
-author: "[Genevera Allen](https://genevera.rice.edu/)"
+author: "[Genevera Allen](https://genevera-allen.com/)"
 date: 2025-02-21
 categories: [CSMQ,2024-2025]
 draft: false
