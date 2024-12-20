@@ -5,7 +5,7 @@ date: 2025-01-16
 categories: [2024-2025]
 draft: false
 room: "salle [Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
-time: "10h45"
+time: "10h30"
 url: https://sites.google.com/site/guillaumeallairepouliot/
 ---
 

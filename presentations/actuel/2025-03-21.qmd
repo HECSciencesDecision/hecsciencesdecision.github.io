@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Bo Zeng](https://www.engineering.pitt.edu/people/faculty/bo-zeng/)"
+date: 2025-03-21
+categories: [2024-2025]
+draft: false
+room: "salle à déterminer"
+time: "11h00"
+url: https://www.engineering.pitt.edu/people/faculty/bo-zeng/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Bo Zeng is an associate professor in the Department of Industrial Engineering, University of Pittsburgh. His research utilizes optimization and analytics tools to address challenges in real systems, especially discrete optimization models with uncertainties (robust and stochastic mixed integer programs), game theory models, and advanced data analysis and computing methods. Bo obtained his PhD from Purdue in 2007 and was professor at the  University of South Florida (USF), from 2009 to 2015. 
