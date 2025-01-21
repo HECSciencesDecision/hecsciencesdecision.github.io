@@ -4,7 +4,7 @@ author: "[Jean-François Bégin](https://www.sfu.ca/~jbegin/)"
 date: 2025-03-26
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "13h30"
 url: https://www.sfu.ca/~jbegin/
 ---

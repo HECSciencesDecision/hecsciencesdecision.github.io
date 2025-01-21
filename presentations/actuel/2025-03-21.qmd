@@ -4,7 +4,7 @@ author: "[Bo Zeng](https://www.engineering.pitt.edu/people/faculty/bo-zeng/)"
 date: 2025-03-21
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
+room: "salle [Associations étudiantes](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/associations-etudiantes.html)"
 time: "11h00"
 url: https://www.engineering.pitt.edu/people/faculty/bo-zeng/
 ---

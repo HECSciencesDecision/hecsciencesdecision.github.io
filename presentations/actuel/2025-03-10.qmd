@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Xiaofei Shi](https://xf-shi.github.io/)"
+date: 2025-03-10
+categories: [2024-2025, Quantact]
+draft: false
+room: "salle à déterminer"
+time: ""
+url: https://xf-shi.github.io/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr. Xiaofei Shi is an assistant professor in the Department of Statistical Sciences at the University of Toronto. Before joining UofT, she worked as a Term Assistant Professor at Columbia University. Xiaofei obtained a PhD in Mathematical Finance at Carnegie Mellon University, under the supervision of Prof. Johannes Muhle-Karbe. Her research interests revolve around  stochastic optimization and stochastic differential equations with applications to mathematical finance.

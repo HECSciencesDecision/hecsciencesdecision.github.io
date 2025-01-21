@@ -1,0 +1,17 @@
+---
+title: "TBD"
+author: "[Sebastian Jaimungal](https://sebastian.statistics.utoronto.ca/)"
+date: 2025-05-22
+categories: [2024-2025, Quantact]
+draft: false
+room: "salle à déterminer"
+time: ""
+url:  https://sebastian.statistics.utoronto.ca/
+---
+
+# Résumé
+
+
+# Biographie
+
+Dr Sebastian Jaimungal is a full professor of mathematical finance and the chair of the Department of Statistical Sciences at the University of Toronto. He is the former Chair for the SIAM activity group in Financial Mathematics and Engineering (SIAG/FM&E), and a Managing Editor of Quantitative Finance, an Associate Editor for the SIAM Journal on Financial Mathematics (SIFIN), Frontiers of Mathematical Finance, Journal of Dynamics and Games, the International Journal of Theoretical and Applied Finance (IJTAF),   and Journal of Risks. Sebastian is also a fellow of the Fields Institute for Mathematical Sciences and a member of the Oxford-Man Institute. He was a founding board member of the Commodities and Energy Markets Association and now serve on its advisory board. His research interest span stochastic control and games, reinforcement learning, machine learning, clean energy, and algorithmic trading.
