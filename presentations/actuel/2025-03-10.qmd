@@ -4,8 +4,8 @@ author: "[Xiaofei Shi](https://xf-shi.github.io/)"
 date: 2025-03-10
 categories: [2024-2025, Quantact]
 draft: false
-room: "salle à déterminer"
-time: ""
+room: "salle [Associations étudiantes](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/associations-etudiantes.html)"
+time: "13:30"
 url: https://xf-shi.github.io/
 ---
 
