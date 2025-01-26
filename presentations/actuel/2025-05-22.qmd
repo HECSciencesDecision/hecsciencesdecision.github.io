@@ -5,7 +5,7 @@ date: 2025-05-22
 categories: [2024-2025, Quantact]
 draft: false
 room: "salle à déterminer"
-time: ""
+time: "14h00"
 url:  https://sebastian.statistics.utoronto.ca/
 ---
 
