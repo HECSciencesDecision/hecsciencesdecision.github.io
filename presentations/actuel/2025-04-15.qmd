@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "Estimating Extreme Wave Surges in the Presence of Missing Data"
 author: "[Orla A. Murphy](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/orla-murphy.html)"
 date: 2025-04-15
 categories: [2024-2025]
@@ -12,6 +12,7 @@ url: https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/sta
 # Résumé
 
 
+The block maxima approach, which consists of dividing a series of observations into equal sized blocks to extract the block maxima, is commonly used for identifying and modelling extreme events using the generalized extreme value (GEV) distribution. In the analysis of coastal wave surge levels, the underlying data which generate the block maxima typically have missing observations. Consequently, the observed block maxima may not correspond to the true block maxima yielding biased estimates of the GEV distribution parameters. Various parametric modelling procedures are proposed to account for the presence of missing observations under a block maxima framework. The performance of these estimators is compared through an extensive simulation study and illustrated by an analysis of extreme wave surges in Atlantic Canada.
 # Biographie
 
 Dr. Orla Murphy is an Assistant Professor in the Department of Mathematics and Statistics at Dalhousie University in Halifax. She completed a PhD at McGill in statistics with Johanna Nešlehová and Christian Genest before moving to McMaster for a postdoctoral fellowship under the guidance of Paul McNicholas. Her research interests revolve around multivariate statistics, notably for  clustering and mixture models, dependence modelling and extreme value analysis.
