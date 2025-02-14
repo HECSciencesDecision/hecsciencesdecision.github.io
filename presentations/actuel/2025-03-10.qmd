@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "A Dynamic Equilibrium Model of Liquidity Risk"
 author: "[Xiaofei Shi](https://xf-shi.github.io/)"
 date: 2025-03-10
 categories: [2024-2025, Quantact]
@@ -10,6 +10,9 @@ url: https://xf-shi.github.io/
 ---
 
 # Résumé
+
+
+We present a framework for analyzing the equilibrium implications of liquidity risk dynamics on asset prices. Our model features two risk-averse agents who continuously trade a security to hedge nontraded risks, while facing stochastic transaction costs correlated with their trading needs. We derive explicit solutions for equilibrium prices and traded quantities under small transaction costs, showing that the illiquidity discount increases with the correlation between trading costs and trading needs. Calibrating the model using NYSE and AMEX data, we find that liquid portfolios recover faster from liquidity shocks and exhibit smaller fluctuations, whereas illiquid portfolios are highly sensitive to trading-cost dynamics. For the most illiquid portfolio, the illiquidity discount increases by 12.75% with full correlation comparing to the uncorrelated case.
 
 
 # Biographie
