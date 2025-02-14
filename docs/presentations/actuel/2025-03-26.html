@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.1">
+<meta name="generator" content="quarto-1.7.3">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Jean-François Bégin">
 
-<title>TBD – Séminaires de sciences de la décision</title>
+<title>A general option pricing framework for affine fractionally integrated models – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2bb0ec5e928ee8c40b12725cb7836c35.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-81b5c3e63835cfde897ecd3d35a35a41.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d3600f1d3e87269ae6af99b01dd3207b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-76164b780381909e4493a31020e82823.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,6 +66,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -101,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">TBD</h1>
+      <h1 class="title">A general option pricing framework for affine fractionally integrated models</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">2024-2025</div>
               </div>
@@ -142,10 +171,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
+<p>In this presentation, we study the impact of fractional integration on volatility modelling and option pricing. We propose a general discrete-time pricing framework based on affine multi-component volatility models that admit ARCH(<span class="math inline">\(\infty\)</span>)) representations. This not only nests a large variety of option pricing models from the literature, but also allows for the introduction of novel covariance-stationary long-memory affine GARCH pricing models. Using an infinite sum characterization of the log-asset price’s cumulant generating function, we derive semi-explicit expressions for the valuation of European-style derivatives under a general variance-dependent stochastic discount factor. Moreover, we carry out an extensive empirical analysis using returns and S&amp;P 500 options over the period 1996–2019. Overall, we find that once the informational content from options is incorporated into the parameter estimation process, the inclusion of fractionally integrated dynamics in volatility is beneficial for improving the out-of-sample option pricing performance. The largest improvements in the implied volatility root-mean-square errors occur for options with maturities longer than one year, reaching 28% and 18% when compared to standard one- and two-component short-memory models, respectively. This research is joint work with Maciej Augustyniak, Alexandru Badescu, and Sarath Kumar Jayaraman.</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
-<p>Dr.&nbsp;Jean-François Bégin is an Associate Professor in the Department of Statistics and Actuarial Science at Simon Fraser University and a fellow of the Society of Actuaries and of the Canadian Institute of Actuaries. His research interests include probabilistic modelling in finance and insurance, financial econometrics, filtering methods, credit risk, option pricing, pension economics, mortality, and climate risk. Before joining SFU, he completed my PhD at HEC Montréal under the supervision of Geneviève Gauthier.</p>
+<p>Dr.&nbsp;Jean-François Bégin is an Associate Professor in the Department of Statistics and Actuarial Science at Simon Fraser University and a fellow of the Society of Actuaries and of the Canadian Institute of Actuaries. His research interests include probabilistic modelling in finance and insurance, financial econometrics, filtering methods, credit risk, option pricing, pension economics, mortality, and climate risk. Before joining SFU, he completed a PhD in financial engineering at HEC Montréal under the supervision of Geneviève Gauthier.</p>
 
 
 </section>

@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "A general option pricing framework for affine fractionally integrated models"
 author: "[Jean-François Bégin](https://www.sfu.ca/~jbegin/)"
 date: 2025-03-26
 categories: [2024-2025]
@@ -11,7 +11,8 @@ url: https://www.sfu.ca/~jbegin/
 
 # Résumé
 
+In this presentation, we study the impact of fractional integration on volatility modelling and option pricing. We propose a general discrete-time pricing framework based on affine multi-component volatility models that admit ARCH($\infty$)) representations. This not only nests a large variety of option pricing models from the literature, but also allows for the introduction of novel covariance-stationary long-memory affine GARCH pricing models. Using an infinite sum characterization of the log-asset price’s cumulant generating function, we derive semi-explicit expressions for the valuation of European-style derivatives under a general variance-dependent stochastic discount factor. Moreover, we carry out an extensive empirical analysis using returns and S&P 500 options over the period 1996–2019. Overall, we find that once the informational content from options is incorporated into the parameter estimation process, the inclusion of fractionally integrated dynamics in volatility is beneficial for improving the out-of-sample option pricing performance. The largest improvements in the implied volatility root-mean-square errors occur for options with maturities longer than one year, reaching 28% and 18% when compared to standard one- and two-component short-memory models, respectively. This research is joint work with Maciej Augustyniak, Alexandru Badescu, and Sarath Kumar Jayaraman.
 
 # Biographie
 
-Dr. Jean-François Bégin is an Associate Professor in the Department of Statistics and Actuarial Science at Simon Fraser University and a fellow of the Society of Actuaries and of the Canadian Institute of Actuaries. His research interests include probabilistic modelling in finance and insurance, financial econometrics, filtering methods, credit risk, option pricing, pension economics, mortality, and climate risk. Before joining SFU, he completed my PhD at HEC Montréal under the supervision of Geneviève Gauthier.
+Dr. Jean-François Bégin is an Associate Professor in the Department of Statistics and Actuarial Science at Simon Fraser University and a fellow of the Society of Actuaries and of the Canadian Institute of Actuaries. His research interests include probabilistic modelling in finance and insurance, financial econometrics, filtering methods, credit risk, option pricing, pension economics, mortality, and climate risk. Before joining SFU, he completed a PhD in financial engineering at HEC Montréal under the supervision of Geneviève Gauthier.
