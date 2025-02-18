@@ -5,7 +5,7 @@ date: 2025-04-23
 categories: [2024-2025, GERAD]
 draft: false
 room: "salle à déterminer"
-time: "13h30"
+time: "11h00"
 url: http://sburer.github.io/
 ---
 
