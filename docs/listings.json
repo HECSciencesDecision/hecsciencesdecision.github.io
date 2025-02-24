@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/presentations/actuel/2025-02-21.html",
       "/presentations/actuel/2025-03-10.html",
       "/presentations/actuel/2025-03-21.html",
       "/presentations/actuel/2025-03-26.html",
@@ -23,6 +22,7 @@
   {
     "listing": "/archives.html",
     "items": [
+      "/presentations/archives/2025-02-21.html",
       "/presentations/archives/2025-01-31.html",
       "/presentations/archives/2025-01-24.html",
       "/presentations/archives/2025-01-16.html",
