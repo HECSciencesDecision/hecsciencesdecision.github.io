@@ -4,8 +4,8 @@ author: "[Orla A. Murphy](https://www.dal.ca/faculty/science/math-stats/faculty-
 date: 2025-04-15
 categories: [2024-2025]
 draft: false
-room: "salle à déterminer"
-time: "11h"
+room: "salle [Port-au-Prince](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/port-au-prince.html)"
+time: "11h00"
 url: https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/orla-murphy.html
 ---
 

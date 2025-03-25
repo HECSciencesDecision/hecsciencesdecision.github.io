@@ -4,7 +4,7 @@ author: "[Samuel Burer](http://sburer.github.io/)"
 date: 2025-04-23
 categories: [2024-2025, GERAD]
 draft: false
-room: "salle à déterminer"
+room: "salle [Budapest](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/budapest.html)"
 time: "11h00"
 url: http://sburer.github.io/
 ---
