@@ -1,16 +1,17 @@
 ---
-title: "TBD"
+title: "Broker-Trader Partial Information Nash-Equilibria"
 author: "[Sebastian Jaimungal](https://sebastian.statistics.utoronto.ca/)"
 date: 2025-05-22
-categories: [2024-2025, Quantact]
+categories: [2024-2025, Quantact, GERAD]
 draft: false
-room: "salle à déterminer"
-time: "14h00"
+room: "[salle 4488, Pavillon André-Aisenstadt (GERAD)](https://www.gerad.ca/fr/contact)"
+time: "15h00"
 url:  https://sebastian.statistics.utoronto.ca/
 ---
 
 # Résumé
 
+We study partial information Nash equilibrium between a broker and an informed trader. In this model, the informed trader, who possesses knowledge of a trading signal, trades multiple assets with the broker in a dealer market. Simultaneously, the broker trades these assets in a lit exchange where their actions impact the asset prices. The broker, however, only observes aggregate prices and cannot distinguish between underlying trends and volatility. Both the broker and the informed trader aim to maximize their penalized expected wealth. Using convex analysis, we characterize the Nash equilibrium and demonstrate its existence and uniqueness. Furthermore, we establish that this equilibrium corresponds to the solution of a nonstandard system of forward-backward stochastic differential equations (FBSDEs) that involves the two differing filtrations. For short enough time horizons, we prove that the solution of this system exists. Moreover, we show that the solution to the FBSDE system may be approximated by a power series in the strength of the transient impact to arbitrary order and prove that the error is controlled. If time permits, I will also discuss a new deep learning approach for approximating the solution to the system of FBSDEs.
 
 # Biographie
 
