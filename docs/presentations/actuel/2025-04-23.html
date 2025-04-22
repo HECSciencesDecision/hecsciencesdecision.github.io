@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Samuel Burer">
 
-<title>Séminaires à venir – Séminaires de sciences de la décision</title>
+<title>An Extended Validity Domain for Constraint Learning – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +24,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2bb0ec5e928ee8c40b12725cb7836c35.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d3600f1d3e87269ae6af99b01dd3207b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2bb0ec5e928ee8c40b12725cb7836c35.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-d3600f1d3e87269ae6af99b01dd3207b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,76 +65,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-actuel-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-time','listing-author','listing-title','listing-room',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-actuel-listings'] = new List('listing-actuel-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Séminaires de sciences de la décision</span>
     </a>
   </div>
@@ -146,7 +87,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archives.html"> 
+    <a class="nav-link" href="../../archives.html"> 
 <span class="menu-text">Séminaires passés</span></a>
   </li>  
 </ul>
@@ -157,99 +98,59 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">An Extended Validity Domain for Constraint Learning</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">2024-2025</div>
+                <div class="quarto-category">GERAD</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Invité(e)</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="http://sburer.github.io/">Samuel Burer</a> </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Date</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">mer., 23 avr. 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Séminaires à venir</h1>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta column-page">
-
-    
-  
-    
-  </div>
-  
 
 
-</header>
+<section id="résumé" class="level1">
+<h1>Résumé</h1>
+<p>We consider embedding a (predictive) machine-learning model within a (prescriptive) optimization problem. In this setting, called constraint learning, the computed optimal solution may be too far from the training data, that is, in a region where the machine-learning predictions are less accurate. To correct for this, researchers have proposed the concept of a validity domain, which further constrains the optimization to stay close to the training data. One common choice forces the decision variable to lie within the convex hull of the data. In this talk, we propose a new validity domain, which uses the convex-hull idea in an extended space. We investigate its properties and compare it empirically with existing techniques on a set of test problems for which the ground-truth optimization problem is known. We also consider our approach within a pricing case study using real-world data. This is joint work with Yilin Zhu at the University of Iowa.</p>
+</section>
+<section id="biographie" class="level1">
+<h1>Biographie</h1>
+<p>Sam Burer is the Tippie Rollins Professor in the Department of Business Analytics at the University of Iowa. He received his Ph.D.&nbsp;from Georgia Tech, and his research focuses on convex optimization. He is the recipient of the 2020 INFORMS Computing Paper Prize and the 2023 SIAM Optimization Test of Time Award. His work has been supported by grants from the National Science Foundation, including the CAREER award, and he currently serves as an area editor of Operations Research and as an associate editor for SIAM Journal on Optimization and Mathematical Programming. He also serves as Treasurer of the Mathematical Optimization Society and is a past Vice Chair of the SIAM Activity Group on Optimization. He teaches at all levels of business education, served as the founding faculty director of two Master’s programs, and is the 2022 recipient of the University of Iowa’s President and Provost Award for Teaching Excellence.</p>
 
 
-<p>Nos séminaires sont webdiffusés via la plateforme Zoom. Remplissez le formulaire <a href="https://forms.gle/DtthhJz4y3d4ro3EA">suivant</a> pour recevoir les informations de connexion par courriel.</p>
-<p><em>Our seminars are broadcasted live on Zoom. You can <a href="https://forms.gle/DtthhJz4y3d4ro3EA">sign-up using this form</a> to get Zoom credentials by email.</em></p>
-<div id="listing-actuel-listings" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Heure
-</th>
-<th>
-Invité(e)
-</th>
-<th>
-Titre de l’exposé
-</th>
-<th>
-Local
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="MjAyNC0yMDI1JTJDR0VSQUQ=" data-listing-date-sort="1745380800000" data-listing-file-modified-sort="1742914174672" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="301" data-listing-title-sort="An Extended Validity Domain for Constraint Learning" data-listing-filename-sort="2025-04-23.qmd">
-<td>
-<span class="listing-date">mer., 23 avr. 2025</span>
-</td>
-<td>
-<span class="listing-time">11h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="http://sburer.github.io/">Samuel Burer</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2025-04-23.html" class="title listing-title">An Extended Validity Domain for Constraint Learning</a>
-</td>
-<td>
-<span class="listing-room">salle <a href="https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/budapest.html">Budapest</a></span>
-</td>
-</tr>
-<tr data-index="1" data-categories="MjAyNC0yMDI1JTJDUXVhbnRhY3QlMkNHRVJBRA==" data-listing-date-sort="1747886400000" data-listing-file-modified-sort="1745356519047" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329" data-listing-title-sort="Broker-Trader Partial Information Nash-Equilibria" data-listing-filename-sort="2025-05-22.qmd">
-<td>
-<span class="listing-date">jeu., 22 mai 2025</span>
-</td>
-<td>
-<span class="listing-time">15h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://sebastian.statistics.utoronto.ca/">Sebastian Jaimungal</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2025-05-22.html" class="title listing-title">Broker-Trader Partial Information Nash-Equilibria</a>
-</td>
-<td>
-<span class="listing-room"><a href="https://www.gerad.ca/fr/contact">salle 4488, Pavillon André-Aisenstadt (GERAD)</a></span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-Aucun article correspondant
-</div>
-</div>
-
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
