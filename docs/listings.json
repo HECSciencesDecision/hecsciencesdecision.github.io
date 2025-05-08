@@ -2,16 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/presentations/actuel/2025-05-22.html"
-    ]
-  },
-  {
-    "listing": "/brownbag.html",
-    "items": [
-      "/presentations/brownbag/PHD_seminars_2.html",
-      "/presentations/brownbag/PHD_seminars_1.html",
-      "/presentations/brownbag/PHD_seminars_3.html",
-      "/presentations/brownbag/PHD_seminars_4.html"
+      "/presentations/actuel/2025-05-22.html",
+      "/presentations/actuel/2025-05-23.html"
     ]
   },
   {
@@ -97,6 +89,15 @@
       "/presentations/archives/2019-10-16.html",
       "/presentations/archives/2019-10-11.html",
       "/presentations/archives/2019-09-10.html"
+    ]
+  },
+  {
+    "listing": "/brownbag.html",
+    "items": [
+      "/presentations/brownbag/PHD_seminars_2.html",
+      "/presentations/brownbag/PHD_seminars_1.html",
+      "/presentations/brownbag/PHD_seminars_3.html",
+      "/presentations/brownbag/PHD_seminars_4.html"
     ]
   }
 ]
