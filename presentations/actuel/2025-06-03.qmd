@@ -1,0 +1,20 @@
+---
+title: "Universal Arbitrage-Free Volatility Surfaces"
+author: "[Anastasis Kratsios](https://experts.mcmaster.ca/display/kratsioa)"
+date: 2025-06-03
+categories: [2025-2026, Quantact]
+draft: false
+room: "[salle TBD, CSC, HEC Montréal)](https://www.hec.ca/campus/cote_sainte_catherine/index.html)"
+time: "11h00"
+url:  https://experts.mcmaster.ca/display/kratsioa
+---
+
+# Résumé
+
+The undeniable centrality of volatility surfaces (VSs) in modern quantitative finance has inspired many hand-crafted arbitrage-free VS models; each designed to capture specific stylized features of empirically observed VSs; nevertheless, there remains no generic VS framework devoid of static arbitrage.  Though deep learning pipelines provide hope for generic VS modelling, these AI-based approaches presently fail as they typically violate static no-arbitrage conditions. We close this gap in the literature.   Our analysis begins with the newly uncovered observation that empirical VS data exhibits log-complete monotonicity in their strike price.  We then construct a universal two-layer deep learning model representative of this class of arbitrage-free VSs.  The structured weights and biases constraint and the very-specific choices of activation functions allow us to guarantee that our models are always free of static arbitrage and the observed log-complete monotonicity in the strike observed in real-world VS data, while maintaining universality.   Additionally, our deep learner's structure grants us access to a Fourier-analytic training procedure, which is much more efficient than out-of-the-box (stochastic) gradient-descent-based optimization.   Our method is implemented on real-world volatility data, where we achieve state-of-the-art reconstruction performance. 
+
+Joint work: Yannick Limmer and Blanka Horvath (Oxford)
+
+# Biographie
+
+https://experts.mcmaster.ca/display/kratsioa
