@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Sebastian Jaimungal">
+<meta name="author" content="Anastasis Kratsios">
 
-<title>** CANCELLED ** Broker-Trader Partial Information Nash-Equilibria – Séminaires de sciences de la décision</title>
+<title>Universal Arbitrage-Free Volatility Surfaces – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -102,11 +102,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">** CANCELLED ** Broker-Trader Partial Information Nash-Equilibria</h1>
+      <h1 class="title">Universal Arbitrage-Free Volatility Surfaces</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">2024-2025</div>
+                <div class="quarto-category">2025-2026</div>
                 <div class="quarto-category">Quantact</div>
-                <div class="quarto-category">GERAD</div>
               </div>
                   </div>
   </div>
@@ -117,14 +116,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Invité(e)</div>
       <div class="quarto-title-meta-contents">
-               <p><a href="https://sebastian.statistics.utoronto.ca/">Sebastian Jaimungal</a> </p>
+               <p><a href="https://experts.mcmaster.ca/display/kratsioa">Anastasis Kratsios</a> </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Date</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">jeu., 22 mai 2025</p>
+        <p class="date">mar., 3 juin 2025</p>
       </div>
     </div>
     
@@ -145,11 +144,12 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
-<p>** CANCELLED ** We study partial information Nash equilibrium between a broker and an informed trader. In this model, the informed trader, who possesses knowledge of a trading signal, trades multiple assets with the broker in a dealer market. Simultaneously, the broker trades these assets in a lit exchange where their actions impact the asset prices. The broker, however, only observes aggregate prices and cannot distinguish between underlying trends and volatility. Both the broker and the informed trader aim to maximize their penalized expected wealth. Using convex analysis, we characterize the Nash equilibrium and demonstrate its existence and uniqueness. Furthermore, we establish that this equilibrium corresponds to the solution of a nonstandard system of forward-backward stochastic differential equations (FBSDEs) that involves the two differing filtrations. For short enough time horizons, we prove that the solution of this system exists. Moreover, we show that the solution to the FBSDE system may be approximated by a power series in the strength of the transient impact to arbitrary order and prove that the error is controlled. If time permits, I will also discuss a new deep learning approach for approximating the solution to the system of FBSDEs.</p>
+<p>The undeniable centrality of volatility surfaces (VSs) in modern quantitative finance has inspired many hand-crafted arbitrage-free VS models; each designed to capture specific stylized features of empirically observed VSs; nevertheless, there remains no generic VS framework devoid of static arbitrage. Though deep learning pipelines provide hope for generic VS modelling, these AI-based approaches presently fail as they typically violate static no-arbitrage conditions. We close this gap in the literature. Our analysis begins with the newly uncovered observation that empirical VS data exhibits log-complete monotonicity in their strike price. We then construct a universal two-layer deep learning model representative of this class of arbitrage-free VSs. The structured weights and biases constraint and the very-specific choices of activation functions allow us to guarantee that our models are always free of static arbitrage and the observed log-complete monotonicity in the strike observed in real-world VS data, while maintaining universality. Additionally, our deep learner’s structure grants us access to a Fourier-analytic training procedure, which is much more efficient than out-of-the-box (stochastic) gradient-descent-based optimization. Our method is implemented on real-world volatility data, where we achieve state-of-the-art reconstruction performance.</p>
+<p>Joint work: Yannick Limmer and Blanka Horvath (Oxford)</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
-<p>Dr Sebastian Jaimungal is a full professor of mathematical finance and the chair of the Department of Statistical Sciences at the University of Toronto. He is the former Chair for the SIAM activity group in Financial Mathematics and Engineering (SIAG/FM&amp;E), and a Managing Editor of Quantitative Finance, an Associate Editor for the SIAM Journal on Financial Mathematics (SIFIN), Frontiers of Mathematical Finance, Journal of Dynamics and Games, the International Journal of Theoretical and Applied Finance (IJTAF), and Journal of Risks. Sebastian is also a fellow of the Fields Institute for Mathematical Sciences and a member of the Oxford-Man Institute. He was a founding board member of the Commodities and Energy Markets Association and now serve on its advisory board. His research interest span stochastic control and games, reinforcement learning, machine learning, clean energy, and algorithmic trading.</p>
+<p>https://experts.mcmaster.ca/display/kratsioa</p>
 
 
 </section>
