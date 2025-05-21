@@ -17,4 +17,6 @@ Joint work: Yannick Limmer and Blanka Horvath (Oxford)
 
 # Biographie
 
-https://experts.mcmaster.ca/display/kratsioa
+Anastasis is an assistant professor at McMaster University working on the analytic and statistical foundations of AI and theoretically-guided deep learning in finance. His work aims at understanding the behaviour and properties of these models from the ground up, and using his findings to develop new principled AI which can leverage structures in finance, stochastic processes, games, and PDEs problems to obtain guaranteed scalable and predictive computational pipelines. 
+
+Anastasis did his PhD at Concordia university in mathematical finance and his Masters at l'Université de Montréal in mathematics, before moving to ETH Zürich for his postdoc in deep learning for finance and then to the University of Basel to work on geometric deep learning. Since starting his faculty position, Anastasis has supervised 10 students including postdoc and PhD students to honors undergraduate students.
