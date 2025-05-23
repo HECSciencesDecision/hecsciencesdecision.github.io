@@ -1,11 +1,11 @@
 ---
-title: "** CANCELLED ** Broker-Trader Partial Information Nash-Equilibria"
+title: "Broker-Trader Partial Information Nash-Equilibria"
 author: "[Sebastian Jaimungal](https://sebastian.statistics.utoronto.ca/)"
 date: 2025-05-22
 categories: [2024-2025, Quantact, GERAD]
-draft: false
-room: "** CANCELLED ** [salle 4488, Pavillon André-Aisenstadt (GERAD)](https://www.gerad.ca/fr/contact)"
-time: "15h00"
+draft: true
+room: ""
+time: ""
 url:  https://sebastian.statistics.utoronto.ca/
 ---
 
