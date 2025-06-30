@@ -16,7 +16,7 @@ website:
 
   page-footer:
     left: |
-      [Département de sciences de la décision](https://www.hec.ca/mqg/), [HEC Montréal](www.hec.ca)
+      [Département de sciences de la décision](https://www.hec.ca/mqg/), [HEC Montréal](https://www.hec.ca)
     right: |
       Fabriqué avec [Quarto](https://quarto.org/)
 format:
