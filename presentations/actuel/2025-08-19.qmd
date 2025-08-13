@@ -4,9 +4,9 @@ author: "[Bart Van Parys](http://www.vanparys.xyz)"
 date: 2025-08-19
 categories: [2025-2026]
 draft: false
-room: "[Budapest, CSC, 1er étage, secteur vert, HEC Montréal](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/budapest.html)"
-time: "11h00"
-url:  https://experts.mcmaster.ca/display/kratsioa
+room: "[Bleu, Hélène-Desmarais, Salle de cours Registrariat (Côte-Sainte-Catherine 1er, 48), HEC Montréal](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
+time: "10h30"
+url:  http://www.vanparys.xyz
 ---
 
 # Résumé
