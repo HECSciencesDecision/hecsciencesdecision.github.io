@@ -1,18 +1,18 @@
 ---
-title: "Robust Mean Estimation for Optimization: The Impact of Heavy Tails"
+title: "# CANCELLED # Robust Mean Estimation for Optimization: The Impact of Heavy Tails"
 author: "[Bart Van Parys](http://www.vanparys.xyz)"
 date: 2025-08-19
 categories: [2025-2026]
 draft: false
-room: "[Bleu, Hélène-Desmarais, Salle de cours Registrariat (Côte-Sainte-Catherine 1er, 48), HEC Montréal](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
-time: "10h30"
+room: "-"
+time: "-"
 url:  http://www.vanparys.xyz
 ---
 
 # Résumé
 
-Most data-driven decisions formulations in the literature explicitly assume bounded or light-tailed distributions. However, many real-world phenomena exhibit heavy-tailed distributions, characterized by rare but extreme events with may have significant impact. In this work, we investigate the performance of sample average approximation and Wasserstein DRO and show that neither offer adequate protection when the associated losses are bounded from right but regularly varying heavy-tailed from the left. Surprisingly, if the data has finite variance, classical variance regularization does offer such protection but we show that it is generally conservative. Finally, we show that a judiciously scaled Kullback-Leibler DRO is statistically efficient. We do so by developing an upper bound on the probability that the KL DRO decision disappoints out-of-sample (of independent interest) and indicate that it matches a statistical lower bound asymptotically obtained through a change-of-measure argument.
+# CANCELLED # Most data-driven decisions formulations in the literature explicitly assume bounded or light-tailed distributions. However, many real-world phenomena exhibit heavy-tailed distributions, characterized by rare but extreme events with may have significant impact. In this work, we investigate the performance of sample average approximation and Wasserstein DRO and show that neither offer adequate protection when the associated losses are bounded from right but regularly varying heavy-tailed from the left. Surprisingly, if the data has finite variance, classical variance regularization does offer such protection but we show that it is generally conservative. Finally, we show that a judiciously scaled Kullback-Leibler DRO is statistically efficient. We do so by developing an upper bound on the probability that the KL DRO decision disappoints out-of-sample (of independent interest) and indicate that it matches a statistical lower bound asymptotically obtained through a change-of-measure argument.
 
 # Biographie
 
-Bart Van Parys is an associate professor in the stochastics group at the national research institute for mathematics and computer science (CWI) in Amsterdam, the Netherlands. His research is located on the interface between optimization and machine learning. In particular, he develops novel mathematical methodologies and algorithms with which we can turn data into better decisions. Although most of his research is methodological, he does enjoy applications related to problems in renewable energy.
+# CANCELLED # Bart Van Parys is an associate professor in the stochastics group at the national research institute for mathematics and computer science (CWI) in Amsterdam, the Netherlands. His research is located on the interface between optimization and machine learning. In particular, he develops novel mathematical methodologies and algorithms with which we can turn data into better decisions. Although most of his research is methodological, he does enjoy applications related to problems in renewable energy.
