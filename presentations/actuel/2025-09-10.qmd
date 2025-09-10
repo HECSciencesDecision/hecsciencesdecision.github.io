@@ -1,6 +1,6 @@
 ---
 title: "Excellent seminar"
-author: "[Alan de Genaro 2](https://sites.google.com/site/genaroalan/home)"
+author: "[TEST de Genaro 2](https://sites.google.com/site/genaroalan/home)"
 date: 2025-11-30
 categories: [2025-2026]
 draft: false
