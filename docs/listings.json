@@ -2,8 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/presentations/actuel/2025-10-22.html",
       "/presentations/actuel/2025-10-13.html",
-      "/presentations/actuel/2026-02-31.html"
+      "/presentations/actuel/2025-11-28.html"
     ]
   },
   {
@@ -95,15 +96,10 @@
   {
     "listing": "/brownbag.html",
     "items": [
-<<<<<<< HEAD
-      "/presentations/actuel/2025-10-13.html",
-      "/presentations/actuel/2025-09-10.html"
-=======
       "/presentations/brownbag/PHD_seminars_2.html",
       "/presentations/brownbag/PHD_seminars_1.html",
       "/presentations/brownbag/PHD_seminars_3.html",
       "/presentations/brownbag/PHD_seminars_4.html"
->>>>>>> parent of aa10712 (update2)
     ]
   }
 ]
