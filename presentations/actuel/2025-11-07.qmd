@@ -1,0 +1,19 @@
+---
+title: "TBD"
+author: "[Adam Elmachtoub](https://www.engineering.columbia.edu/faculty-staff/directory/adam-elmachtoub)"
+date: 2025-11-07
+categories: [2025-2026]
+draft: false
+room: "TBD"
+time: "TBD"
+url:  
+---
+
+# Résumé
+
+TBD
+
+# Biographie
+
+Adam Elmachtoub is an Associate Professor of Industrial Engineering and Operations Research at Columbia University, where he is also a member of the Data Science Institute.
+He is also an Amazon Visiting Academic. His research spans two major themes: (i) designing machine learning and personalization methods to make informed decisions in industries such as retail, logistics, and travel (ii) new models and algorithms for revenue and supply chain management in modern e-commerce and service systems. He received his B.S. degree from Cornell and his Ph.D. from MIT ORC, both in operations research. He spent one year as a postdoc at the IBM T.J. Watson Research Center working in the area of Smarter Commerce. He has received an NSF CAREER Award, IBM Faculty Award, 1st place in the INFORMS JFIG (Junior Faculty) Paper Competition, Great Teacher Award from the Society of Columbia Graduates, and was on Forbes 30 under 30 in science.
