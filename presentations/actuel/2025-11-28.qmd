@@ -4,7 +4,7 @@ author: "[Diego Amaya](https://www.wlu.ca/academics/faculties/lazaridis-school-o
 date: 2025-11-28
 categories: [2025-2026]
 draft: false
-room: "TBD"
+room: "salle [Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "14h00"
 url:  https://energie.hec.ca/events/environmentalpolicyunderriskaversionpvsq/
 ---
