@@ -1,0 +1,18 @@
+---
+title: "TBD"
+author: "[Matthew Davison](https://www.uwo.ca/stats/people/bios/matt-davison.html)"
+date: 2026-01-16
+categories: [2025-2026]
+draft: false
+room: "TBD"
+time: "TBD"
+url:  
+---
+
+# Résumé
+
+TBD
+
+# Biographie
+
+Matt Davison works at the intersection of quantitative finance and operations research. His particular interests are computational finance, incomplete market theory, and energy finance. He holds a Canada Research Chair in quantitative finance.Davison’s academic background is in engineering and math, and he learned a lot of finance on the job as a front office desk quant at Deutsche Bank Canada in the late 1990s. He continues to consult with industry, and serves on the academic advisory board of Mapleridge Capital Corporation.
