@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "Fair Pricing Strategy"
 author: "[Adam Elmachtoub](https://www.engineering.columbia.edu/faculty-staff/directory/adam-elmachtoub)"
 date: 2025-11-07
 categories: [2025-2026]
@@ -11,7 +11,7 @@ url:
 
 # Résumé
 
-TBD
+Price discrimination strategies, which offer different prices to customers based on differences in their valuations, have become common practice. While it allows sellers to increase their profits, it also raises several concerns in terms of fairness, e.g., by charging higher prices (or denying access) to protected groups. This topic has received extensive attention from media, industry, and regulatory agencies. In this talk, we consider the problem of setting prices for different groups under fairness constraints, and the corresponding impact it has on consumer surplus and social welfare.
 
 # Biographie
 
