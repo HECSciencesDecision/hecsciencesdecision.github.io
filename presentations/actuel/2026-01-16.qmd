@@ -1,18 +1,29 @@
 ---
-title: "TBD"
+title: "A Quantitative look at Retirement and Early Retirement"
 author: "[Matthew Davison](https://www.uwo.ca/stats/people/bios/matt-davison.html)"
 date: 2026-01-16
 categories: [2025-2026]
 draft: false
 room: "TBD"
-time: "TBD"
+time: "14h00"
 url:  
 ---
 
 # Résumé
 
-TBD
+A fundamental question in personal finance is the decumulation problem — how should an individual with a given level of assets fund their needs through the various stages of retirement.  
+This begs another key question though — when should someone retire?     This can be approached in both a descriptive way — from tax data,  how do Canadians and Quebecers appear to make this decision?   And in a proscriptive way — what does a Merton style "optimize lifetime utility"  models applied to this problem advise? 
+
+The plot thickens when we add the alternative of staged retirement — an intermediate stage of retirement where people work either fewer hours, or in a less well paid job closer to their passion or values — between full time work and full retirement — to the mix.   Again we look at data about what people do and math about what people should do.  
+
+Several surprising results emerge from this analysis, which will be supplemented with management and leadership insights backed some of  Davison's observations as a long serving University Dean who talks to many people about retirement, full or staged.
+
 
 # Biographie
+
+Professor of Mathematics and of Statistical and Actuarial Sciences
+Co-Founder and Principal Investigator, Financial Wellness Lab of Canada
+Fellow of the Fields Institute for Research in the Mathematical Sciences 
+Dean of Science
 
 Matt Davison works at the intersection of quantitative finance and operations research. His particular interests are computational finance, incomplete market theory, and energy finance. He holds a Canada Research Chair in quantitative finance.Davison’s academic background is in engineering and math, and he learned a lot of finance on the job as a front office desk quant at Deutsche Bank Canada in the late 1990s. He continues to consult with industry, and serves on the academic advisory board of Mapleridge Capital Corporation.
