@@ -22,13 +22,7 @@ Several surprising results emerge from this analysis, which will be supplemented
 
 # Biographie
 
-Professor of Mathematics and of Statistical and Actuarial Sciences
-
-Co-Founder and Principal Investigator, Financial Wellness Lab of Canada
-
-Fellow of the Fields Institute for Research in the Mathematical Sciences 
-
-Dean of Science
+Professor of Mathematics and of Statistical and Actuarial Sciences ; Co-Founder and Principal Investigator, Financial Wellness Lab of Canada ; Fellow of the Fields Institute for Research in the Mathematical Sciences ; Dean of Science.
 
 
 Matt Davison works at the intersection of quantitative finance and operations research. His particular interests are computational finance, incomplete market theory, and energy finance. He holds a Canada Research Chair in quantitative finance.Davison’s academic background is in engineering and math, and he learned a lot of finance on the job as a front office desk quant at Deutsche Bank Canada in the late 1990s. He continues to consult with industry, and serves on the academic advisory board of Mapleridge Capital Corporation.
