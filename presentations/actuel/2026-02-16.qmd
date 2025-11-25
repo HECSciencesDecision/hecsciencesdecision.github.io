@@ -1,0 +1,23 @@
+---
+title: "Risk based equilibrium analysis and application in energy markets"
+author: "[Golbon Zakeri](https://www.umass.edu/engineering/about/directory/golbon-zakeri)"
+date: 2026-02-16
+categories: [2025-2026]
+draft: false
+room: "TBD"
+time: "10h30"
+url:  
+---
+
+# Résumé
+
+We will introduce the concept of risk based equilibrium analysis as a tool to gain insight into market design. We will also present an application for the ISO New England's new Energy imbalance reserve (EIR) product. This product is introduced into the ISO-NE's day-ahead wholesale electricity market to provide a better fuel procurement incentive for generating resources. Different from existing forward reserve products, EIR is a novel real option product, which is settled against real-time energy price rather than reserve prices.  In this talk, we present a stochastic long-run equilibrium model that incorporates the risk preference of  generator and demand agents participating in the energy and reserve market in both day-ahead and real-time time frame. In a risk neutral environment, we find that the presence of the EIR product makes little difference on market outcomes. We also conduct a series of numerical simulations  with risk-averse generators and demand, and observed increased advanced fuel procurement when the EIR product is present. 
+
+
+# Biographie
+
+Golbon Zakeri is Professor of Operations Research in the Department of Mechanical and Industrial Engineering at the University of Massachusetts Amherst, where she directs the Power Economics and Analytics Research Lab. Her research focuses on planning and optimization under uncertainty, with particular emphasis on electricity markets, renewable integration, and energy policy.
+
+She has held academic appointments at the University of Auckland and served as President of the Operations Research Society of New Zealand. Professor Zakeri has extensive consulting experience with the electricity sector, including work for Transpower NZ, the Electricity Authority NZ, Mercury Energy, Contact Energy, and the Major Electricity Users Group. Her current research is supported by the National Science Foundation, the Sloan Foundation and ISO New England.
+
+She is Area Editor for Energy and Natural Resources at Operations Research, serves on the editorial board of Computational Management Science, and was the inaugural editor of the INFORMS–Springer book collection. She earned her Ph.D. in Mathematics and Computer Sciences from the University of Wisconsin–Madison.
