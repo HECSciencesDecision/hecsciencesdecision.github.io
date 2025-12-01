@@ -18,10 +18,10 @@ title-block-banner: false
 ---
 
 
-Nos séminaires sont webdiffusés via la plateforme Zoom. Remplissez le formulaire [suivant](https://forms.gle/DtthhJz4y3d4ro3EA) pour recevoir les informations de connexion par courriel.
+Remplissez le formulaire [suivant](https://forms.gle/DtthhJz4y3d4ro3EA) pour recevoir les annonces de séminaires par courriel.
 
 
-*Our seminars are broadcasted live on Zoom. You can [sign-up using this form](https://forms.gle/DtthhJz4y3d4ro3EA) to get Zoom credentials by email.*
+*You can [sign-up using this form](https://forms.gle/DtthhJz4y3d4ro3EA) to receive seminar announcements  by email.*
 
 ::: {#actuel-listings}
 :::
