@@ -4,7 +4,7 @@ author: "[Aurélien Nicosia](https://www.linkedin.com/in/aur%C3%A9lien-nicosia-6
 date: 2026-01-28
 categories: [2025-2026]
 draft: false
-room: "TBD"
+room: "[Salle Hélène Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "13h30"
 url:  
 ---
