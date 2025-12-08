@@ -18,10 +18,10 @@ title-block-banner: false
 ---
 
 
-Remplissez le formulaire [suivant](https://forms.gle/DtthhJz4y3d4ro3EA) pour recevoir les annonces de séminaires par courriel.
+Remplissez le formulaire [suivant](https://forms.gle/2gYpcHSypcFqypWdA) pour recevoir les annonces de séminaires par courriel.
 
 
-*You can [sign-up using this form](https://forms.gle/DtthhJz4y3d4ro3EA) to receive seminar announcements  by email.*
+*You can [sign-up using this form](https://forms.gle/2gYpcHSypcFqypWdA) to receive seminar announcements  by email.*
 
 ::: {#actuel-listings}
 :::
