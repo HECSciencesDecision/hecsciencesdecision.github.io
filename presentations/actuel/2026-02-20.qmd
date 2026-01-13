@@ -1,0 +1,23 @@
+---
+title: "Store-Wide Space Planning with Multiple Objectives – 
+Retailing Meets Health and Queueing Theory"
+author: "[Bacel Maddah](https://sites.aub.edu.lb/bacel/)"
+date: 2026-02-20
+categories: [2025-2026]
+draft: false
+room: "[à venir]()"
+time: "11h00"
+url:  
+---
+
+# Résumé
+
+A growing research stream concerns space planning that takes a "store-wide" view by considering the problem of allocating all product categories to store shelves, a problem also referred to "macro space planning."  This talk presents recent work on store-wide space planning emphasizing different objective functions, e.g., impulse profit, shopping convenience, and health.  The methodology of the research emphasizes spatial demand models, which are embedded in nonlinear integer programs that are then linearized to provide good solutions with popular solvers.  We describe the key building blocks of these recent models, and discuss managerial insights and computational challenges, within the context of two supermarkets in different continents. 
+
+Viewing the shopping area as a self-service system with infinite capacity, classical queueing theory, mainly Little’s law and the standard M/G/∞ system, provides useful insights and allows expanding the scope of the model.  We explicitly capture aspects such as social distancing constraints, shopping visit duration, and the effect of traffic variability. 
+ 
+
+
+# Biographie
+
+Bacel Maddah is a professor and the inaugural chairperson in the Industrial Engineering and Management Department at AUB. Bacel’s research interests are in retailing, supply chain management, logistics, and other problems involving decision making under uncertainty. His research is published in leading journals such as Operations Research, Management Science, IISE Transactions, and European Journal of Operational Research.  He is an Associate Editor for International Transactions in Operational Research and a member of the editorial board for International Journal of Planning and Scheduling. Bacel has practical experience as a senior analyst with United Airlines and Hannaford Bros, and has been engaged in training and consulting with major organizations in Lebanon and the region. 
