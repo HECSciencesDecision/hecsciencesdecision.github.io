@@ -5,7 +5,7 @@ author: "[Bacel Maddah](https://sites.aub.edu.lb/bacel/)"
 date: 2026-02-20
 categories: [2025-2026]
 draft: false
-room: "[à venir]()"
+room: "[EY - CSC](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/ey.html)"
 time: "11h00"
 url:  
 ---
