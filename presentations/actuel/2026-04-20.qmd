@@ -1,0 +1,20 @@
+---
+title: "Assortment Optimization and the Sample Average Approximation"
+author: "[Brad Sturt](https://business.uic.edu/profiles/sturt-brad/ )"
+date: 2026-04-20
+categories: [2025-2026]
+draft: false
+room: "[à venir]()"
+time: "à venir"
+url:  
+---
+
+# Résumé
+
+We consider a simple approach to solving assortment optimization under the random utility maximization model. The approach uses Monte-Carlo simulation to construct a ranking-based choice model that serves as a proxy for the true choice model, followed by finding an assortment that is optimal with respect to that proxy. In this work, we make that approach more viable by developing faster algorithms for finding assortments that are optimal under ranking-based choice models. Our algorithms are based on mixed-integer programming and consist of stronger formulations as well as new structural and algorithmic results related to Benders cuts. We demonstrate that our algorithms—without any heuristics or parameter tuning—can offer more than a 20x speedup in real-world settings with thousands of products and samples. Equipped with our algorithms, we showcase the value of using the sample average approximation to solve assortment optimization problems for which no practically efficient algorithms are known. 
+ 
+
+
+# Biographie
+
+Brad Sturt is an assistant professor of Information and Decision Sciences at the University of Illinois Chicago. His research uses the methodologies of stochastic programming and robust optimization to develop solutions for operational problems in business and government. Recent applications include election security, data-driven assortment planning, high-dimensional option pricing, and robust inventory control. His research has received several recognitions, including the INFORMS Harvey J. Greenberg Research Award, the Roger J-B Wets Junior Researcher Best Paper Prize in Stochastic Programming, second place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition, and second place in the INFORMS George Nicholson Student Paper Competition. Outside of academia, he is a co-founder of BallotIQ, an elections administration and optimization startup.
