@@ -1,0 +1,20 @@
+---
+title: "Persistent Anomalies and Nonstandard Errors (with C. Pérignon)"
+author: "[Guillaume Coqueret ](https://www.gcoqueret.com/  )"
+date: 2026-04-14
+categories: [2025-2026]
+draft: false
+room: "[à venir]()"
+time: "10h00"
+url:  
+---
+
+# Résumé
+
+We propose a framework for rigorous inference in the evaluation of asset pricing anomalies that explicitly accounts for multiple methodological choices. We demonstrate that running multiple paths on the same dataset results in high correlation across outcomes, distorting inference. Alternatively, path-specific resampling reduces outcome correlations and tightens the confidence interval of the average return. Accounting for across- and within-path variability allows us to decompose the variance of the average return into a standard error, a nonstandard error, and a correlation term. We define the nonstandard Sharpe ratio as the ratio of the average return to the nonstandard error and show that this metric enables the identification of persistent anomalies. Empirically, we show that nonstandard errors dominate standard errors, and that 24\% of the anomalies in our sample (26 out of 107) are fully persistent.
+ 
+
+
+# Biographie
+
+Guillaume Coqueret  has been a professor of Finance and Data Science at emlyon business school since September 2018. He is now Director of the AIM Institute which coordinates research and teaching in the field of Artificial Intelligence in Management. His research and teaching focus on two fields: sustainable finance and machine learning applied to capital markets.

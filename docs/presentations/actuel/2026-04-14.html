@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Guillaume Coqueret">
 
-<title>Séminaires à venir – Séminaires de sciences de la décision</title>
+<title>Persistent Anomalies and Nonstandard Errors (with C. Pérignon) – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +24,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2aedf8f1e3cd1b7a00c8365bd5378b96.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2aedf8f1e3cd1b7a00c8365bd5378b96.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,78 +67,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-actuel-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-time','listing-author','listing-title','listing-room',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-actuel-listings'] = new List('listing-actuel-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Séminaires de sciences de la décision</span>
     </a>
   </div>
@@ -150,7 +91,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archives.html"> 
+    <a class="nav-link" href="../../archives.html"> 
 <span class="menu-text">Séminaires passés</span></a>
   </li>  
 </ul>
@@ -161,146 +102,58 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Persistent Anomalies and Nonstandard Errors (with C. Pérignon)</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">2025-2026</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Invité(e)</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://www.gcoqueret.com/">Guillaume Coqueret</a> </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Date</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">mar., 14 avr. 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Séminaires à venir</h1>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta column-page">
-
-    
-  
-    
-  </div>
-  
 
 
-</header>
+<section id="résumé" class="level1">
+<h1>Résumé</h1>
+<p>We propose a framework for rigorous inference in the evaluation of asset pricing anomalies that explicitly accounts for multiple methodological choices. We demonstrate that running multiple paths on the same dataset results in high correlation across outcomes, distorting inference. Alternatively, path-specific resampling reduces outcome correlations and tightens the confidence interval of the average return. Accounting for across- and within-path variability allows us to decompose the variance of the average return into a standard error, a nonstandard error, and a correlation term. We define the nonstandard Sharpe ratio as the ratio of the average return to the nonstandard error and show that this metric enables the identification of persistent anomalies. Empirically, we show that nonstandard errors dominate standard errors, and that 24% of the anomalies in our sample (26 out of 107) are fully persistent.</p>
+</section>
+<section id="biographie" class="level1">
+<h1>Biographie</h1>
+<p>Guillaume Coqueret has been a professor of Finance and Data Science at emlyon business school since September 2018. He is now Director of the AIM Institute which coordinates research and teaching in the field of Artificial Intelligence in Management. His research and teaching focus on two fields: sustainable finance and machine learning applied to capital markets.</p>
 
 
-<p>Remplissez le <a href="https://forms.gle/2gYpcHSypcFqypWdA">formulaire suivant</a> pour recevoir les annonces de séminaires par courriel.</p>
-<p><em>You can sign-up using <a href="https://forms.gle/2gYpcHSypcFqypWdA">this form</a> to receive seminar announcements by email.</em></p>
-<div id="listing-actuel-listings" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-Date
-</th>
-
-<th>
-Heure
-</th>
-
-<th>
-Invité(e)
-</th>
-
-<th>
-Titre de l'exposé
-</th>
-
-<th>
-Local
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-categories="MjAyNS0yMDI2" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1765227051430" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="326" data-listing-title-sort="Risk based equilibrium analysis and application in energy markets" data-listing-filename-sort="2026-02-16.qmd">
-<td>
-<span class="listing-date">lun., 16 févr. 2026</span>
-</td>
-<td>
-<span class="listing-time">10h30</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://www.umass.edu/engineering/about/directory/golbon-zakeri">Golbon Zakeri</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2026-02-16.html" class="title listing-title">Risk based equilibrium analysis and application in energy markets</a>
-</td>
-<td>
-<span class="listing-room"><a href="https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html">Salle Hélène Desmarais</a></span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-categories="MjAyNS0yMDI2" data-listing-date-sort="1771563600000" data-listing-file-modified-sort="1769026927715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="276" data-listing-title-sort="Store-Wide Space Planning with Multiple Objectives – Retailing Meets Health and Queueing Theory" data-listing-filename-sort="2026-02-20.qmd">
-<td>
-<span class="listing-date">ven., 20 févr. 2026</span>
-</td>
-<td>
-<span class="listing-time">11h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://sites.aub.edu.lb/bacel/">Bacel Maddah</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2026-02-20.html" class="title listing-title">Store-Wide Space Planning with Multiple Objectives – Retailing Meets Health and Queueing Theory</a>
-</td>
-<td>
-<span class="listing-room"><a href="https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/ey.html">EY - CSC</a></span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-categories="MjAyNS0yMDI2" data-listing-date-sort="1776139200000" data-listing-file-modified-sort="1770646882732" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="192" data-listing-title-sort="Persistent Anomalies and Nonstandard Errors (with C. Pérignon)" data-listing-filename-sort="2026-04-14.qmd">
-<td>
-<span class="listing-date">mar., 14 avr. 2026</span>
-</td>
-<td>
-<span class="listing-time">10h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://www.gcoqueret.com/">Guillaume Coqueret</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2026-04-14.html" class="title listing-title">Persistent Anomalies and Nonstandard Errors (with C. Pérignon)</a>
-</td>
-<td>
-<span class="listing-room"><a href="">à venir</a></span>
-</td>
-
-</tr>
-
-<tr data-index="3" data-categories="MjAyNS0yMDI2" data-listing-date-sort="1776657600000" data-listing-file-modified-sort="1769630275803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="267" data-listing-title-sort="Assortment Optimization and the Sample Average Approximation" data-listing-filename-sort="2026-04-20.qmd">
-<td>
-<span class="listing-date">lun., 20 avr. 2026</span>
-</td>
-<td>
-<span class="listing-time">11h00</span>
-</td>
-<td>
-<span class="listing-author"><a href="https://business.uic.edu/profiles/sturt-brad/">Brad Sturt</a></span>
-</td>
-<td>
-<a href="./presentations/actuel/2026-04-20.html" class="title listing-title">Assortment Optimization and the Sample Average Approximation</a>
-</td>
-<td>
-<span class="listing-room"><a href="">à venir</a></span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">Aucun article correspondant</div>
-</div>
-
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
