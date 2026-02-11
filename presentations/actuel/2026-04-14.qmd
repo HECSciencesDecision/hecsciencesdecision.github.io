@@ -4,7 +4,7 @@ author: "[Guillaume Coqueret ](https://www.gcoqueret.com/  )"
 date: 2026-04-14
 categories: [2025-2026]
 draft: false
-room: "[à venir]()"
+room: "[Serge-Saucier](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/serge-saucier.html)"
 time: "10h00"
 url:  
 ---
