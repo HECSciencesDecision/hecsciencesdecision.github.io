@@ -1,0 +1,24 @@
+---
+title: "à venir"
+author: "[Paul Grigas](https://grigas.ieor.berkeley.edu/ )"
+date: 2026-04-30
+categories: [2025-2026]
+draft: false
+room: "[à venir ]()"
+time: "à venir"
+url:  
+---
+
+# Résumé
+
+à venir
+ 
+
+
+# Biographie
+
+Paul Grigas is an associate professor of Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley. His research interests are broadly in optimization, machine learning, and data-driven decision making. He enjoys thinking about new ways to build machine learning models for decision-making problems (usually modeled with optimization), and how to design and analyze optimization algorithms for problems in machine learning and operations research. He has worked on and is interested in applications in online advertising and other areas.
+
+His work has been funded by the National Science Foundation (NSF), and he is affiliated with the NSF Artificial Intelligence (AI) Research Institute for Advances in Optimization (AI4OPT).
+
+He received his B.S. in Operations Research and Information Engineering (ORIE) from Cornell University in 2011, and his Ph.D. in Operations Research from MIT in 2016.
