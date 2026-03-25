@@ -4,7 +4,7 @@ author: "[Paul Grigas](https://grigas.ieor.berkeley.edu/ )"
 date: 2026-04-30
 categories: [2025-2026]
 draft: false
-room: "[à venir ]()"
+room: "[Salle Budapest ](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/budapest.html)"
 time: "à venir"
 url:  
 ---
