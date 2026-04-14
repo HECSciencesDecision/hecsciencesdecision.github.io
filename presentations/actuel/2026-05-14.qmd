@@ -1,0 +1,20 @@
+---
+title: "Robust Optimization under Separable Uncertainty for Electromobility and Sustainable Transportation"
+author: "[Ihsan Yanikoglu](https://www.ihsanyanikoglu.com/ )"
+date: 2026-05-14
+categories: [2026-2027]
+draft: false
+room: "[à venir ]()"
+time: "10h30"
+url:  
+---
+
+# Résumé
+
+This talk presents new robust optimization reformulations for decision problems with separable and block-separable uncertainty, where uncertain parameters appear both linearly and through bilinear or quadratic interactions. We study coaxial-box–type uncertainty sets and related convex hull descriptions that lead to tight, tractable robust counterparts. By lifting bilinear and quadratic terms and exploiting separability, we derive equivalent reformulations based on second-order and linear conic constraints, together with systematically strengthened uncertainty sets. These yield models that preserve much of the fidelity of the original semi-infinite problems while remaining computationally viable for large-scale instances. I will illustrate the methodology on application domains in electromobility. The proposed framework naturally models coupled origin–destination flows and facility–road interactions, improving the reliability of service coverage without relying on strong distributional assumptions. Throughout the talk, I will emphasize modeling guidelines, algorithmic implications, and how these robust formulations can be integrated into existing optimization workflows to improve sustainable transportation.
+ 
+
+
+# Biographie
+
+İhsan Yanıkoğlu is an Associate Professor in the Department of Industrial Engineering at Özyeğin University, where he has served on the faculty since 2014 and as lead researcher since 2025. He earned his Ph.D. in Econometrics and Operations Research from Tilburg University. His research interests include robust optimization, logistics, energy systems, and machine learning. He has published widely in leading operations research journals and collaborates actively with industry partners to tackle complex optimization problems under uncertainty.
