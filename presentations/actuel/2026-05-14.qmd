@@ -4,7 +4,7 @@ author: "[Ihsan Yanikoglu](https://www.ihsanyanikoglu.com/ )"
 date: 2026-05-14
 categories: [2026-2027]
 draft: false
-room: "[à venir ]()"
+room: "[Salle Hélène Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "10h30"
 url:  
 ---
