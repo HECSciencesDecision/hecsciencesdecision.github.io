@@ -1,0 +1,15 @@
+---
+title: "Environmental policy and industrial allocation. Transboundary pollution in economic geography models"
+author: "[María Pilar Martínez García](https://scholar.google.com/citations?user=92lcr48AAAAJ&hl=es )"
+date: 2026-05-15
+categories: [2026-2027]
+draft: false
+room: "[Salle Port-au-Prince](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/port-au-prince.html)"
+time: "11h00"
+url:  
+---
+
+# Résumé
+
+We examine the impact of environmental policy on industrial location between two trading regions dealing with transboundary pollution. Firstly, we study how the distribution of firms and trade costs affect the governments’ environmental policies, particularly, the issuance of emission permits. Secondly, we study how the resulting environmental policies alter the allocation of the industry. The microeconomic behavior of the agents is framed within the Economic Geography literature, through a linear Footloose Capital (FC) model. The macroeconomic model that arises is a transboundary pollution dynamic game. When regions have different industrial shares, we find that if pollution damage is low, the more industrialized region adopts environmentally irresponsible behavior by increasing the offer of emission permits, which reduces their price. Firms benefit from lower production costs, ultimately attracting more firms (agglomeration force). However, due to transport costs, as the share of firms in a region increases, the benefits decrease (dispersion force). The final spatial distribution of the industry between the regions depends on the balance between agglomeration and dispersion forces. This agglomerative force and the governments’ strategic behavior, absent in the FC model, could lead to industrial activity fully concentrating in a core region. As pollution damage increases, agglomerative power loses strength.
+ 
