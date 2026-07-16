@@ -3,7 +3,7 @@ title: "TBD"
 author: "[Aurélio Vasquez](TBD)"
 date: 2026-09-16
 categories: [2026-2027]
-draft: false
+draft: true
 room: "[Salle TBD](LIEN TBD)"
 time: "10h00"
 url:  
