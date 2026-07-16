@@ -1,5 +1,5 @@
 ---
-title: "Titre à venir "
+title: "Titre à venir"
 author: "[Aurelio Vasquez](https://sites.google.com/site/aureliovasquez/)"
 date: 2026-09-16
 categories: [2026-2027]
