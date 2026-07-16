@@ -364,11 +364,18 @@
     "text": "Résumé\nTextual sentiment analysis requires to select relevant texts and design weighting schemes to aggregate the intra-textual, across-text and across-time polarity expressed in textual communications. The selection and weighting decisions need to be optimized for the intended use case and account for the underlying data features like impression management by the author and the non i.i.d. nature of the textual data. The seminar will combine an overview of methodology together with application to CEO letters and media articles.\n\n\nBiographie\nKris Boudt is professor of finance and econometrics at Ghent University, Vrije Universiteit Brussel and Vrije Universiteit Amsterdam. He is part of the core team at Sentometrics. He teaches the online courses “Introduction to portfolio analysis in R” and “GARCH models in R” at Datacamp. He is also affiliated with the KU Leuven and an invited lecturer at the University of Illinois in Chicago, Renmin University, SWUFE and the University of Aix-Marseille. Kris Boudt obtained his PhD in 2008 for his developments in the modelling and estimation of financial risk under a non-normal distribution. He has published his research in the Journal of Econometrics, Journal of Portfolio Management, Journal of Statistical Software, and the Review of Finance, among others. Kris Boudt received several awards for outstanding research and refereeing and is an active contributor to the open source community."
   },
   {
+    "objectID": "presentations/actuel/2026-09-23.html",
+    "href": "presentations/actuel/2026-09-23.html",
+    "title": "Path-Dependent Alpha: Optimal Contracts, Career Dynamics, and the Cross-Section of Fund Performance",
+    "section": "",
+    "text": "Résumé\nWe develop a general equilibrium model of active asset management in which optimal contracts generate endogenous alpha heterogeneity through path-dependent career dy- namics. Effort, pay, and AUM are functions of one state variable, the manager’s contin- uation value, which evolves with performance. Even with ex ante identical managers, the cross-section of alpha is heterogeneous: history, not type, determines performance. Effort costs scale sublinearly with AUM, producing a hump-shaped effort function and endogenous diseconomies of scale. Structural estimation on hedge fund data matches median tenure, the negative-alpha share, and extreme AUM concentration. Convex capital flows and path dependence generate a superstar effect without heterogeneity in ability.\n\n\nBiographie\nSerge Darolles is Professor of Finance at Université Paris-Dauphine (PSL), where he has taught financial econometrics and empirical finance since 2012. He holds a PhD in Applied Mathematics from the University of Toulouse and a postgraduate degree from ENSAE Paris. Before academia, he spent over a decade at Lyxor Asset Management (2000–2012) building quantitative models for investment strategies. His research centers on financial econometrics, hedge funds, liquidity, and asset management, with numerous journal articles and several co-authored books in quantitative finance."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Séminaires à venir",
     "section": "",
-    "text": "Remplissez le formulaire suivant pour recevoir les annonces de séminaires par courriel.\nYou can sign-up using this form to receive seminar announcements by email.\n\n\n\n\nDate\nHeure\nInvité(e)\nTitre de l'exposé\nLocal\n\n\n\n\n\nAucun article correspondant"
+    "text": "Remplissez le formulaire suivant pour recevoir les annonces de séminaires par courriel.\nYou can sign-up using this form to receive seminar announcements by email.\n\n\n\n\n\n\nDate\n\n\n\nHeure\n\n\n\nInvité(e)\n\n\n\nTitre de l'exposé\n\n\n\nLocal\n\n\n\n\n\n\n\n\nmer., 16 sept. 2026\n\n\n10h00\n\n\nAurélio Vasquez\n\n\nTBD\n\n\nSalle TBD\n\n\n\n\n\n\nmer., 23 sept. 2026\n\n\n10h00\n\n\nSerge Darolles\n\n\nPath-Dependent Alpha: Optimal Contracts, Career Dynamics, and the Cross-Section of Fund Performance\n\n\nSalle TBD\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "archives.html",
@@ -383,6 +390,13 @@
     "title": "Causeries",
     "section": "",
     "text": "Les causeries aux cycles supérieurs sont organisés par les étudiant(e)s du doctorat et de la maîtrise en finance et en ingénierie financière. Pour information, contactez l’organisateur Étienne Bacon.\n\n\n\n\n\n\nDate\n\n\n\nHeure\n\n\n\nInvité(e)\n\n\n\nTitre de l'exposé\n\n\n\nLocal\n\n\n\n\n\n\n\n\nven., 20 oct. 2023\n\n\n13h00\n\n\nSebastien Legros\n\n\nQuality Issues of Implied Volatilities of Index and Stock Options in the OptionMetrics IvyDB Database\n\n\nsalle Cogeco\n\n\n\n\n\n\nven., 20 oct. 2023\n\n\n13h30\n\n\nEtienne Bacon\n\n\nOn general semi-closed-form solutions for VIX derivative pricing\n\n\nsalle Cogeco\n\n\n\n\n\n\nven., 24 nov. 2023\n\n\n13h00\n\n\nCéleste Hardy\n\n\nFund flows and investor concerns\n\n\nsalle Rona\n\n\n\n\n\n\nven., 24 nov. 2023\n\n\n13h30\n\n\nCarlotta Pacifici\n\n\nDynamic tail risk estimation using extreme value theory\n\n\nsalle Rona\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "presentations/actuel/2026-09-16.html",
+    "href": "presentations/actuel/2026-09-16.html",
+    "title": "TBD",
+    "section": "",
+    "text": "Résumé\nTBD\n\n\nBiographie\nTBD"
   },
   {
     "objectID": "presentations/archives/2019-09-10.html",

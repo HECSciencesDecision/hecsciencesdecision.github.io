@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-time','listing-author','listing-title','listing-room',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-date','listing-time','listing-author','listing-title','listing-room',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -190,17 +190,72 @@ window.Quarto = {
 <p>Remplissez le <a href="https://forms.gle/2gYpcHSypcFqypWdA">formulaire suivant</a> pour recevoir les annonces de séminaires par courriel.</p>
 <p><em>You can sign-up using <a href="https://forms.gle/2gYpcHSypcFqypWdA">this form</a> to receive seminar announcements by email.</em></p>
 <div id="listing-actuel-listings" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table caption-top">
+<table class="quarto-listing-table table">
 <thead>
-<tr class="header">
-<th data-quarto-table-cell-role="th">Date</th>
-<th data-quarto-table-cell-role="th">Heure</th>
-<th data-quarto-table-cell-role="th">Invité(e)</th>
-<th data-quarto-table-cell-role="th">Titre de l'exposé</th>
-<th data-quarto-table-cell-role="th">Local</th>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+Heure
+</th>
+
+<th>
+Invité(e)
+</th>
+
+<th>
+Titre de l'exposé
+</th>
+
+<th>
+Local
+</th>
+
 </tr>
 </thead>
 <tbody class="list">
+
+<tr data-index="0" data-categories="MjAyNi0yMDI3" data-listing-date-sort="1789531200000" data-listing-file-modified-sort="1784226825895" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="TBD" data-listing-filename-sort="2026-09-16.qmd">
+<td>
+<span class="listing-date">mer., 16 sept. 2026</span>
+</td>
+<td>
+<span class="listing-time">10h00</span>
+</td>
+<td>
+<span class="listing-author"><a href="TBD">Aurélio Vasquez</a></span>
+</td>
+<td>
+<a href="./presentations/actuel/2026-09-16.html" class="title listing-title">TBD</a>
+</td>
+<td>
+<span class="listing-room"><a href="LIEN TBD">Salle TBD</a></span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="MjAyNi0yMDI3" data-listing-date-sort="1790136000000" data-listing-file-modified-sort="1784226834588" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="187" data-listing-title-sort="Path-Dependent Alpha: Optimal Contracts, Career Dynamics, and the Cross-Section of Fund Performance" data-listing-filename-sort="2026-09-23.qmd">
+<td>
+<span class="listing-date">mer., 23 sept. 2026</span>
+</td>
+<td>
+<span class="listing-time">10h00</span>
+</td>
+<td>
+<span class="listing-author"><a href="https://dauphine.psl.eu/recherche/cvtheque/profil/darolles-serge">Serge Darolles</a></span>
+</td>
+<td>
+<a href="./presentations/actuel/2026-09-23.html" class="title listing-title">Path-Dependent Alpha: Optimal Contracts, Career Dynamics, and the Cross-Section of Fund Performance</a>
+</td>
+<td>
+<span class="listing-room"><a href="https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/port-au-prince.html">Salle TBD</a></span>
+</td>
+
+</tr>
+
 </tbody>
 </table>
 <div class="listing-no-matching d-none">Aucun article correspondant</div>
