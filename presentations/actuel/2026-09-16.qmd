@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "TBD "
 author: "[Aurélio Vasquez](TBD)"
 date: 2026-09-16
 categories: [2026-2027]
