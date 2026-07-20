@@ -4,7 +4,7 @@ author: "[Milad Elyasi](https://www.ozyegin.edu.tr/en/faculty/miladelyasi)"
 date: 2026-08-18
 categories: [2026-2027]
 draft: false
-room: "[Pavillon André-Aisenstadt, salle 5441, Université de Montréal]"
+room: "[Pavillon André-Aisenstadt, salle 5441, Université de Montréal](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=376&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=43ca17f8d3bcc8f02b40497fb5a5614a)"
 time: "11h00"
 url:  
 ---
