@@ -1,0 +1,18 @@
+---
+title: "The Technician Routing and Scheduling Problem with Skills and Time-Sensitive Returns under Uncertainty"
+author: "[Milad Elyasi](https://www.ozyegin.edu.tr/en/faculty/miladelyasi)"
+date: 2026-08-18
+categories: [2026-2027]
+draft: false
+room: "[Pavillon André-Aisenstadt, salle 5441, Université de Montréal]"
+time: "11h00"
+url:  
+---
+
+# Résumé
+
+This study examines the scheduling and routing of technician teams to maximize the benefit of completed services while satisfying operational constraints related to skills, workloads, routing, and working hours. The problem arises from a collaboration with Hydro-Québec, where large-scale field operations require the daily dispatching of technicians under tight time, skill, and uncertainty considerations. We formulate the problem over a finite multi-period planning horizon, distinguish between prioritized and optional customer visits, and account for diminishing service benefits over time. The model captures technician skill heterogeneity, vehicle capacity limits, and travel and service times, while chance constraints are used to address uncertainty. We develop a tailored Logic-Based Benders Decomposition (LBBD) algorithm that separates the problem into an assignment-based master problem and routing feasibility subproblems. Routing feasibility is evaluated using dedicated TSP solvers in the deterministic setting and conic-quadratic formulations under uncertainty. Extensive computational experiments on benchmark instances show that the proposed LBBD substantially outperforms a Branch-and-Cut benchmark. A real-world case study involving 200 customers over a multi-period horizon further demonstrates the practical applicability of the approach.
+ 
+# Biographie
+
+Milad Elyasi is an Assistant Professor of Industrial Engineering at Özyeğin University. He received his Ph.D. in Industrial Engineering from Özyeğin University and completed postdoctoral research at IMT Atlantique and HEC Montréal. His research focuses on large-scale optimization, vehicle routing and scheduling, decomposition methods, and decision-making under uncertainty, with applications in transportation, maintenance, and field-service operations.
