@@ -5,7 +5,7 @@ author: "[Serge Darolles](https://dauphine.psl.eu/recherche/cvtheque/profil/daro
 date: 2026-09-23
 categories: [2026-2027]
 draft: false
-room: "[Salle TBD](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/port-au-prince.html)"
+room: "[Salle Luc-Poirier, LGR](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/luc-poirier.html)"
 time: "10h00"
 url:  
 ---
