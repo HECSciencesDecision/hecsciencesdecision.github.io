@@ -1,0 +1,18 @@
+---
+title: "Improving Spatial Service Systems: Estimation, Optimization, and Practical Implementation"
+author: "[Sheng Liu](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/liu-sheng/)"
+date: 2026-09-03
+categories: [2026-2027]
+draft: false
+room: "[Salle A/D](***)"
+time: "10h00"
+url:  
+---
+
+# Résumé
+
+The growth of e-commerce and gig economies poses new challenges for matching supply and demand in a spatial context. In this talk, I will navigate the theoretical and practical challenges of managing emerging spatial service systems with data, including last-mile and food delivery. In particular, I will describe three field implementations across three countries that demonstrate the practical value of (simple) operations policies alongside theoretical insights. The core ideas are balancing and coordinating spatial resources in a principled way.
+ 
+# Biographie
+
+Sheng Liu is an Assistant Professor of Operations Management and Statistics at the Rotman School of Management, University of Toronto. Sheng's research focuses on solving operations problems in supply chains, transportation, and logistics systems through optimization and data analytics. His industry experience includes consulting or working for organizations such as JD.com, Sport Chek, Ninja Van, Hungerhub, Amazon, and Lyft. More recently, he has been working on  (a) data-driven, sustainable, resilient urban system design, (b) coordination in spatial service systems, including supply chains and logistics, and (c) advanced decision-making tool development for nonprofit organizations serving vulnerable populations. He currently holds editorial positions at Transportation Science, Production and Operations Management, and Service Science.
