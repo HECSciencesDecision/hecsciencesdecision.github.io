@@ -1,0 +1,24 @@
+---
+title: "Time-Phased Relief Supply Network Planning for Foreseen Disasters"
+author: "[Halit Üster](https://s2.smu.edu/~uster/)"
+date: 2026-09-18
+categories: [2026-2027]
+draft: false
+room: "[Salle TBD](LIEN TBD)"
+time: "11h00"
+url:  
+---
+
+# Résumé
+
+We consider emergency preparedness for foreseen disasters such as hurricanes and flooding. Proper preparation and planning for timely relief supply in a cost-effective manner can be crucial determinants of how quickly recoveries occur and with the least suffering of the affected populations.
+
+Assuming a host of shelter location, we are interested in determining relief supply locations (DCs) and routing of supply from the capacitated DCs to the shelters on an underlying time-phased network for cost-effective timely delivery. We present a mixed integer optimization model to address this problem under the assumption of covering the worst-case demand at the shelters. To solve our model, we develop an efficient Benders Decomposition (BD) based algorithm that handles the challenges of obtaining optimality cuts via master problem solution modifications and various surrogate constraints, among other enhancement techniques. We test the performance of the enhancement techniques on an extensive randomly generated test data set to identify the most effective approach.
+
+We finally use our model and the solution algorithm on an actual case study in southern Texas data incorporated and managed by Geographical Information System (GIS) to examine the impact of various input parameters on the design and tactical operation of the relief networks as well as for model verification and validation.
+
+This talk is based on the paper to appear in Transportation Science with the same title, co-authored by Vala Rahmati who works towards his doctoral degree with the presenter. As time allows, Üster will also provide a general overview of his current research projects.
+ 
+# Biographie
+
+Halit Üster is a Professor in the OREM Department at SMU, Dallas, TX. His research interests are in the areas of logistics, design of networked systems, and applied optimization. His publications appeared in Transportation Science, IIE Transactions, Naval Research Logistics, INFORMS Journal on Computing, and IEEE/ACM Transactions on Networking, among others. His research has been funded by National Science Foundation, US Department of Agriculture, and industry. He was a recipient of the Caterpillar Teaching Excellence Award in Look College of Engineering of Texas A&M in 2011 and INFORMS Moving Spirit Award. He currently serves as a Department Editor for IISE Transactions and as an editorial board member for Sustainability Analytics and Modelling. He is a senior member of INFORMS and IISE and serves these communities in varying capacities. Üster is an IISE Fellow.
