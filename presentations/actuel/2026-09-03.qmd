@@ -4,7 +4,7 @@ author: "[Sheng Liu](https://www.rotman.utoronto.ca/the-rotman-experience/our-co
 date: 2026-09-03
 categories: [2026-2027]
 draft: false
-room: "[Salle A/D](***)"
+room: "[UdeM – Pavillon André-Aisenstadt – Salle François-Soumis (4488)](https://www.gerad.ca/en/salles)"
 time: "10h00"
 url:  
 ---
