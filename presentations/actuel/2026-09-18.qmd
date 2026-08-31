@@ -4,7 +4,7 @@ author: "[Halit Üster](https://s2.smu.edu/~uster/)"
 date: 2026-09-18
 categories: [2026-2027]
 draft: false
-room: "[Salle TBD](LIEN TBD)"
+room: "[Salle Hélène-Desmarais](https://www.hec.ca/campus/cote_sainte_catherine/1er_etage/salles_cours/hdesmarais.html)"
 time: "11h00"
 url:  
 ---
