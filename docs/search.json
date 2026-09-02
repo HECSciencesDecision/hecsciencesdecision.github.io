@@ -375,7 +375,7 @@
     "href": "index.html",
     "title": "Séminaires à venir",
     "section": "",
-    "text": "Remplissez le formulaire suivant pour recevoir les annonces de séminaires par courriel.\nYou can sign-up using this form to receive seminar announcements by email.\n\n\n\n\n\n\nDate\n\n\n\nHeure\n\n\n\nInvité(e)\n\n\n\nTitre de l'exposé\n\n\n\nLocal\n\n\n\n\n\n\n\n\njeu., 3 sept. 2026\n\n\n10h00\n\n\nSheng Liu\n\n\nImproving Spatial Service Systems: Estimation, Optimization, and Practical Implementation\n\n\nUdeM – Pavillon André-Aisenstadt – Salle François-Soumis (4488)\n\n\n\n\n\n\nmer., 16 sept. 2026\n\n\n10h00\n\n\nAurelio Vasquez\n\n\nTextual Risk Option Momentum\n\n\nSalle Esdras-Minville, LGR-04.448\n\n\n\n\n\n\nven., 18 sept. 2026\n\n\n11h00\n\n\nHalit Üster\n\n\nTime-Phased Relief Supply Network Planning for Foreseen Disasters\n\n\nSalle Hélène-Desmarais\n\n\n\n\n\n\nmer., 23 sept. 2026\n\n\n10h00\n\n\nSerge Darolles\n\n\nPath-Dependent Alpha: Optimal Contracts, Career Dynamics, and the Cross-Section of Fund Performance\n\n\nSalle Luc-Poirier, LGR\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Remplissez le formulaire suivant pour recevoir les annonces de séminaires par courriel.\nYou can sign-up using this form to receive seminar announcements by email.\n\n\n\n\n\n\nDate\n\n\n\nHeure\n\n\n\nInvité(e)\n\n\n\nTitre de l'exposé\n\n\n\nLocal\n\n\n\n\n\n\n\n\njeu., 3 sept. 2026\n\n\n10h00\n\n\nSheng Liu\n\n\nImproving Spatial Service Systems: Estimation, Optimization, and Practical Implementation\n\n\nUdeM – Pavillon André-Aisenstadt – Salle François-Soumis (4488)\n\n\n\n\n\n\nmer., 16 sept. 2026\n\n\n10h00\n\n\nAurelio Vasquez\n\n\nTextual Risk Option Momentum\n\n\nSalle Esdras-Minville, LGR-04.448\n\n\n\n\n\n\nven., 18 sept. 2026\n\n\n11h00\n\n\nHalit Üster\n\n\nTime-Phased Relief Supply Network Planning for Foreseen Disasters\n\n\nSalle Hélène-Desmarais\n\n\n\n\n\n\nmer., 23 sept. 2026\n\n\n10h00\n\n\nSerge Darolles\n\n\nPath-Dependent Alpha: Optimal Contracts, Career Dynamics, and the Cross-Section of Fund Performance\n\n\nSalle Luc-Poirier, LGR\n\n\n\n\n\n\nlun., 28 sept. 2026\n\n\n10h30\n\n\nLambert de Monte\n\n\nTBD\n\n\nSalle BMO, LGR\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "presentations/actuel/2026-09-16.html",
@@ -761,5 +761,12 @@
     "title": "Fund flows and investor concerns",
     "section": "",
     "text": "Subject\nWhile financial performance metrics such as risk-adjusted return have long been identified as the main driver of investment flows into the mutual funds industry, other non-financial performance measures have recently emerged. Recent literature has shown that investors have a multi-attribute utility function and do not only rely on the financial performance but also assess the sustainability performance (environmental and social performance) of their investments when making investment decision. However, these preferences are not stable over time and might vary with the concern presents in the economy. This paper examines the tradeoff between financial and non-financial performance through various levels of concerns in the market. We hypothesize that the preferences for sustainability might be driven by investors’ risk aversion towards social or environmental risks but that this risk aversion might vary according to the dominant concern in the economy."
+  },
+  {
+    "objectID": "presentations/actuel/2026-09-28.html",
+    "href": "presentations/actuel/2026-09-28.html",
+    "title": "TBD",
+    "section": "",
+    "text": "Résumé\n\n\nBiographie\nLambert de Monte est un chercheur postdoctorant à KAUST oeuvrant sur la théorie des extrêmes géométrique dans le groupe de Raphaël Huser. Il a complété en août 2026 un doctorat sous la direction de Dr. Ioannis Papastathopoulos et Prof. Gabriele C. Hegerl à l’Université d’Edinburgh en Écosse."
   }
 ]
