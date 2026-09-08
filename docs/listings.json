@@ -11,6 +11,7 @@
   {
     "listing": "/archives.html",
     "items": [
+      "/presentations/archives/2026-09-03.html",
       "/presentations/archives/2026-08-18.html",
       "/presentations/archives/2026-05-15.html",
       "/presentations/archives/2026-05-14.html",
@@ -112,11 +113,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/presentations/actuel/2026-09-03.html",
       "/presentations/actuel/2026-09-16.html",
       "/presentations/actuel/2026-09-18.html",
       "/presentations/actuel/2026-09-23.html",
-      "/presentations/actuel/2026-09-28.html"
+      "/presentations/actuel/2026-09-28.html",
+      "/presentations/actuel/2026-10-06.html"
     ]
   }
 ]

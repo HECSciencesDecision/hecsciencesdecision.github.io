@@ -1,0 +1,24 @@
+---
+title: "A Nordic Nuclear Renaissance? An Equilibrium Analysis of Market Power and Industrial Electrification"
+author: "[Afzal Siddiqui](https://www.su.se/english/profiles/a/asidd)"
+date: 2026-10-06
+categories: [2026-2027]
+draft: false
+room: "[Salle Mexico, LGR (Bleu)](https://www.hec.ca/campus/edifice-lise-et-giuseppe-racanelli/plan-1er-etage)"
+time: "15:30 - 16:30"
+url:  https://www.su.se/english/profiles/a/asidd
+---
+
+# Résumé
+
+The European Green Deal and related climate initiatives aim to decarbonise the power sector by boosting electricity generated from solar and wind. Such variable renewable energy (VRE) sources will inevitably require infrastructure or generation alternatives to balance production intermittency. One proposal is nuclear-capacity expansion, which the Swedish government aims to support financially. Although nuclear plants could be economically and environmentally beneficial due to their relatively low operating costs and zero CO2 emissions in generation, further concentration of ownership may distort welfare indicators via the exercise of market power. We analyse the impact of posited nuclear expansion in the Nordic power market using a Nash-Cournot model. Relative to the current, i.e., 2023, baseline, a future scenario with increased nuclear capacity renders nuclear plants more pivotal price setters and enhances their effectiveness at withholding output to force fossil-fuelled plants to operate. Likewise, hydro reservoirs' leverage is bolstered as their manipulation of electricity prices via temporal arbitrage faces a lower opportunity cost from "dumping" water in off-peak periods. While industrial demand with complementary VRE-capacity expansion mitigates these distortions, it does not reverse them. Hence, state-backed nuclear-capacity
+expansion may require sufficiently sharpened regulatory scrutiny to deter strategic behaviour.
+
+ 
+# Biographie
+
+Afzal Siddiqui is a Professor in the Department of Computer and Systems Sciences at Stockholm University. Previously, he was Professor of Energy Economics in the Department of Statistical Science at University College London, Adjunct Professor in the Department of Mathematics and Systems Analysis at Aalto University, and Visiting Professor in the Department of Decision Sciences at HEC Montréal.
+
+His research interests focus on the application of operational research methods to analyse decision-making under uncertainty and competition in the energy sector. In addition to participating in and coordinating several research projects, he has served as a consultant to the Energy Technologies Area of the Ernest Orlando Lawrence Berkeley National Laboratory and the Directorate-General for Communications Networks, Content and Technology (DG CONNECT) of the European Commission.
+
+
