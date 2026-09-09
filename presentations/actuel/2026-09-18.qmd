@@ -9,6 +9,10 @@ time: "11h00"
 url:  
 ---
 
+#  
+
+Séminaire conjoint du Département de sciences de la décision de HEC Montréal, du GERAD et du CIRRELT
+
 # Résumé
 
 We consider emergency preparedness for foreseen disasters such as hurricanes and flooding. Proper preparation and planning for timely relief supply in a cost-effective manner can be crucial determinants of how quickly recoveries occur and with the least suffering of the affected populations.
