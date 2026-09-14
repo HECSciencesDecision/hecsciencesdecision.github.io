@@ -1,0 +1,18 @@
+---
+title: "Temporal clustering and compounding in multivariate extremes"
+author: "[Lambert de Monte](https://lambertdem.github.io/)"
+date: 2026-10-05
+categories: [2026-2027]
+draft: false
+room: "[Salle Luc Poirier (vert), LGR](https://www.hec.ca/campus/edifice-lise-et-giuseppe-racanelli/plan-1er-etage)"
+time: "11h00"
+url:  https://lambertdem.github.io/
+---
+
+# Résumé
+
+
+ 
+# Biographie
+
+Lambert de Monte est un chercheur postdoctoral à KAUST oeuvrant sur la théorie des extrêmes géométrique dans le groupe de Raphaël Huser. Il a complété en août 2026 un doctorat sous la direction de Dr. Ioannis Papastathopoulos et  Prof. Gabriele C. Hegerl à l'Université d'Edinburgh en Écosse.
