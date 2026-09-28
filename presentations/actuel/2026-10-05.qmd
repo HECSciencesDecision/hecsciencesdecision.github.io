@@ -1,19 +1,16 @@
 ---
-title: "Multivariate extremal index and temporal clustering in multivariate extremes"
+title: "Temporal clustering and compounding in multivariate extremes"
 author: "[Lambert de Monte](https://lambertdem.github.io/)"
 date: 2026-10-05
 categories: [2026-2027]
 draft: false
 room: "[Salle Luc Poirier (vert), LGR](https://www.hec.ca/campus/edifice-lise-et-giuseppe-racanelli/plan-1er-etage)"
-time: "11h00-12h00"
+time: "11h00"
 url:  https://lambertdem.github.io/
 ---
 
 # Résumé
 
-
-
-The (relatively) recent re-emergence of a geometric approach to multivariate extreme value theory has led to new theoretical and methodological considerations for the study of extreme multivariate events. However, most of these recent methods have neglected the important issue of temporal dependence which may induce clustering of extreme events. In this talk, I will introduce the directional multivariate extremal index (MEI), a measure of the severity of clustering of extreme events which is applicable to all of these recent methods, and propose a Bayesian inference method based on the SPDE/GMRF framework. The usefulness of the MEI is demonstrated on an in-depth case study of compound hydrological extremes of the Rhine and the Meuse rivers for which both low and high discharges have important downstream impacts on Rotterdam in the Netherlands. This is joint work with Bas Matsuura and Ioannis Papastathopoulos.
 
  
 # Biographie
