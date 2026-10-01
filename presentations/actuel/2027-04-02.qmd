@@ -1,0 +1,17 @@
+---
+title: "TBA"
+author: "[Giles Hooker](www.gileshooker.com)"
+date: 2027-04-02
+categories: [2026-2027,CSMQ]
+draft: false
+room: ""
+time: "15:30 - 16:30"
+url:  www.gileshooker.com
+---
+
+# Résumé
+
+# Biographie
+
+Giles Hooker is Harry J. Loman Professor and chair of the Department of Statistics and Data Science at the 
+University of Pennsylvania. He obtained his PhD in statistics from the University of Stanford, and previously served as faculty at Cornell and at the University of California at Berkeley. Professor Hooker is the coauthor of two books, Dynamic Data Analysis and Function Data Analysis with R and Matlab. His research focuses on the interfaces of statistical inference with models both from machine learning, and from applied mathematics. This includes uncertainty quantification in random forests, and ordinary differential equations models. He also work in functional data analysis and robust statistics.

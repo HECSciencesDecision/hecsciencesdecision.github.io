@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Rebecca Steorts">
+<meta name="author" content="Ameer Dharamshi">
 
-<title>(Almost) All of Entity Resolution – Séminaires de sciences de la décision</title>
+<title>Testing hypotheses via orthogonalization – Séminaires de sciences de la décision</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,13 +66,42 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
 <body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -98,56 +127,55 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Testing hypotheses via orthogonalization</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">2026-2027</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Invité(e)</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://ameerd.github.io/">Ameer Dharamshi</a> </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Date</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">lun., 23 nov. 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">(Almost) All of Entity Resolution</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">2022-2023</div>
-    <div class="quarto-category">Zoom</div>
-    <div class="quarto-category">Statlab</div>
-  </div>
-  </div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Invité(e)</div>
-    <div class="quarto-title-meta-contents">
-             <p><a href="https://resteorts.github.io/">Rebecca Steorts</a> </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Date</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">ven., 25 nov. 2022</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <section id="résumé" class="level1">
 <h1>Résumé</h1>
-<p>Whether the goal is to estimate the number of people that live in a congressional district, to estimate the number of individuals that have died in an armed conflict, or to disambiguate individual authors using bibliographic data, all these applications have a common theme — integrating information from multiple sources. Before such questions can be answered, databases must be cleaned and integrated in a systematic and accurate way, commonly known as record linkage, de-duplication, or entity resolution. In this article, we review motivational applications and seminal papers that have led to the growth of this area. Specifically, we review the foundational work that began in the 1940’s and 50’s that have led to modern probabilistic record linkage. We review clustering approaches to entity resolution, semi- and fully supervised methods, and canonicalization, which are being used throughout industry and academia in applications such as human rights, official statistics, medicine, citation networks, among others. Finally, we discuss current research topics of practical importance. This is joint work with Olivier Binette.</p>
+<p>Classical hypothesis testing frameworks break down in contemporary settings in which null hypotheses are increasingly abstract, the same data are used to both generate and test hypotheses, and minimal assumptions about the underlying data are made. In this work, we propose a new framework for conducting valid hypothesis tests in broad contexts. We propose to add and subtract external noise generated from a symmetric shift-family to our data, <span class="math inline">\(X\)</span>, to partition it into two pieces, <span class="math inline">\(X^{(1)}\)</span> and <span class="math inline">\(X^{(2)}\)</span>. We provide a generic strategy for orthogonalizing <span class="math inline">\(X^{(2)}\)</span> against <span class="math inline">\(X^{(1)}\)</span> under the null hypothesis H0, then show that testing whether the orthogonalization was successful provides a valid test of <span class="math inline">\(H_0\)</span> under mild assumptions. Remarkably, this framework extends naturally to the post-selection inference setting: we simply select a hypothesis on <span class="math inline">\(X^{(1)}\)</span>, then perform orthogonalization under the selected null. As our approach neither requires pre-specification of the selection mechanism, nor is restricted to a small class of data-generating distributions, it dramatically expands the settings for which valid post-selection inference can be conducted. We showcase the flexibility of our proposal in several case studies involving challenging pre-specified null hypotheses and post-selection inference scenarios.</p>
 </section>
 <section id="biographie" class="level1">
 <h1>Biographie</h1>
-<p>Rebecca Steorts est professeure adjointe au département de sciences statistiques à l’Université Duke depuis 2015 et est affiliée au U.S. Census Bureau, où elle est mathématicienne statisticienne et responsable des accords coopératifs sur le recensement pour la résolution d’entités et la fusion d’identifiants. Elle a obtenu un doctorat en statistique à l’Université de la Floride encadrée par Malay Ghosh et a été professeure adjointe en visite à Carnegie Mellon entre 2012 et 2015, chapeautée par Stephen Fienberg. Dr.&nbsp;Steorts a publié une trentaine d’articles dans des revues arbitrées.</p>
+<p>Ameer Dharamshi is an Assistant Professor in the Department of Mathematics and Statistics at McGill University. He completed his PhD in the Department of Biostatistics at the University of Washington under the supervision of Professors Daniela Witten and Jon Wakefield. Previously, he worked as a research and data consultant for the Global Education Monitoring Report at UNESCO. His research focuses on developing strategies for post-selection inference and predictive model uncertainty quantification that are applicable in complex data settings and/or with small sample sizes.</p>
 
 
 </section>

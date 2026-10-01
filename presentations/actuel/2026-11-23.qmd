@@ -1,0 +1,20 @@
+---
+title: "Testing hypotheses via orthogonalization"
+author: "[Ameer Dharamshi](https://ameerd.github.io/)"
+date: 2026-11-23
+categories: [2026-2027]
+draft: false
+room: "[salle Luc-Poirier (LGR)](https://www.hec.ca/campus/edifice-lise-et-giuseppe-racanelli/plan-1er-etage)"
+time: "11:00 - 12:00"
+url:  https://ameerd.github.io/
+---
+
+# Résumé
+
+Classical hypothesis testing frameworks break down in contemporary settings in which null hypotheses are increasingly abstract, the same data are used to both generate and test hypotheses, and minimal assumptions about the underlying data are made. In this work, we propose a new framework for conducting valid hypothesis tests in broad contexts. We propose to add and subtract external noise generated from a symmetric shift-family to our data, $X$, to partition it into two pieces, $X^{(1)}$ and $X^{(2)}$. We provide a generic strategy for orthogonalizing $X^{(2)}$ against $X^{(1)}$ under the null hypothesis H0, then show that testing whether the orthogonalization was successful provides a valid test of $H_0$ under mild assumptions. Remarkably, this framework extends naturally to the post-selection inference setting: we simply select a hypothesis on $X^{(1)}$, then perform orthogonalization under the selected null. As our approach neither requires pre-specification of the selection mechanism, nor is restricted to a small class of data-generating distributions, it dramatically expands the settings for which valid post-selection inference can be conducted. We showcase the flexibility of our proposal in several case studies involving challenging pre-specified null hypotheses and post-selection inference scenarios. 
+
+ 
+# Biographie
+
+Ameer Dharamshi is an Assistant Professor in the Department of Mathematics and Statistics at McGill University. He completed his PhD in the Department of Biostatistics at the University of Washington under the supervision of Professors Daniela Witten and Jon Wakefield. Previously, he worked as a research and data consultant for the Global Education Monitoring Report at UNESCO. His research focuses on developing strategies for post-selection inference and predictive model uncertainty quantification that are applicable in complex data settings and/or with small sample sizes. 
+
