@@ -4,7 +4,7 @@ author: "[Ameer Dharamshi](https://ameerd.github.io/)"
 date: 2026-11-23
 categories: [2026-2027]
 draft: false
-room: "[salle Luc-Poirier (LGR)](https://www.hec.ca/campus/edifice-lise-et-giuseppe-racanelli/plan-1er-etage)"
+room: "[salle Jakarta, 2e étage, jaune](https://www.hec.ca/campus/edifice-lise-et-giuseppe-racanelli/plan-2e-etage)"
 time: "11:00 - 12:00"
 url:  https://ameerd.github.io/
 ---
